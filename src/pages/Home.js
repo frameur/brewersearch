@@ -1,9 +1,33 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Navigation from '../components/Navigation'
 import data from '../services/data'
+import CustomPagination from '../components/Pagination'
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
+  const [page, setPage] = useState(1)
+  const [numOfPages, setNumOfPages] = useState(0)
+
+  // eslint-disable-next-line array-callback-return
+  const filteredData = data.filter((val) => {
+    if (searchTerm === '') {
+      return val
+    } else if (
+      val.ville_departement
+        .toLocaleLowerCase()
+        .includes(searchTerm.toLocaleLowerCase())
+    ) {
+      return val
+    }
+  })
+
+  useEffect(() => {
+    setNumOfPages(Math.ceil(filteredData.length / itemsPerPage))
+  }, [filteredData])
+
+  const itemsPerPage = 10
+  const startIndex = (page - 1) * itemsPerPage
+  const displayData = filteredData.slice(startIndex, startIndex + itemsPerPage)
 
   return (
     <div>
@@ -18,7 +42,7 @@ const Home = () => {
             setSearchTerm(event.target.value)
           }}
         />
-        {data
+        {displayData
           // eslint-disable-next-line array-callback-return
           .filter((val) => {
             if (searchTerm === '') {
@@ -31,6 +55,7 @@ const Home = () => {
               return val
             }
           })
+
           .map((val, key) => {
             return (
               <div>
@@ -46,6 +71,9 @@ const Home = () => {
             )
           })}
       </div>
+      {numOfPages > 1 && (
+        <CustomPagination setPage={setPage} numOfPages={numOfPages} />
+      )}
     </div>
   )
 }
