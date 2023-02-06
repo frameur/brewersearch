@@ -144,8 +144,7 @@ const data = [
     address: '21 rue Ferrachat  ',
     phone: '06 15 33 04 44',
     link: 'https://fr-fr.facebook.com/lesbieresducrepuscule',
-    nameTown:
-      '01560 SAINT-JULIEN-SUR-REYSSOUZE / 181 Chemin de Montard 39570 Saint-Didier',
+    nameTown: '01560 SAINT-JULIEN-SUR-REYSSOUZE ',
     ville_departement: '01',
     lng: 5.11667,
     lat: 46.4,
@@ -258,7 +257,7 @@ const data = [
   {
     id: 6,
     nameBrass: 'SARL STAJAM Gessienne',
-    img: './images/gessienne.webp',
+    img: './images/gessienne.jpg',
     title: 'Une philosophie....',
     infos:
       "Nous favorisons les circuits courts.....une partie de nos malts sont cultivés à Challex (Domaine de Mucelle) et maltés à Allonzier la Caille (Maltin'Pott). Nos drêches servent d'aliments pour les cochons de la Ferme de Noire Combe. Respectons l’environnement ! ",

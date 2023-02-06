@@ -1,0 +1,79 @@
+.media {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 350px;
+  max-height: 500px;
+  padding: 5px;
+  margin: 5px 0;
+  background-color: #bdcbe5;
+  border-radius: 10px;
+  position: relative;
+  font-family: Georgia, 'Times New Roman', Times, sans-serif;
+  color: #1e1919;
+}
+
+@media (max-width: 550px) {
+  .media {
+    width: 46%;
+  }
+}
+
+.poster {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  padding: 8px 0;
+  display: flex;
+  justify-content: center;
+  color: #250303;
+}
+a {
+  text-decoration: none;
+  font-weight: 800;
+}
+.subTitle {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 2px;
+  padding: 0 2px;
+  font-size: 0.6rem;
+  color: brown;
+}
+.contentInfos {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 0.5s linear;
+}
+.contentInfos:hover {
+  visibility: visible;
+  opacity: 1;
+}
+.contentINfos:not(:hover) {
+  visibility: hidden;
+  opacity: 0;
+}
+.contentInfos h3 {
+  font-size: 0.7rem;
+}
+.css-wjsjww-MuiChip-label {
+  color: #f1f1f1;
+  font-weight: 800;
+}
+.content_text {
+  display: flex;
+  justify-content: center;
+}
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+}

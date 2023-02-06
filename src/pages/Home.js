@@ -42,6 +42,7 @@ const Home = () => {
             setSearchTerm(event.target.value)
           }}
         />
+
         {displayData
           // eslint-disable-next-line array-callback-return
           .filter((val) => {
@@ -58,12 +59,19 @@ const Home = () => {
 
           .map((val, key) => {
             return (
-              <div>
-                <p className="brewer" key={key}>
+              <div className="cards">
+                <p key={key}>
                   <a href="./about">
-                    <span className="brewerName">brasseur</span> {val.nameBrass}{' '}
-                    <br />
-                    <h5>{val.nameTown}</h5>
+                    <div className="poster">
+                      {val ? <img src={val?.img} alt="logo brasserie" /> : ''}
+
+                      <div className="details">
+                        <h2 className="title">brasserie {val.nameBrass} </h2>
+                        <h5>{val.phone}</h5>
+                        <h5>{val.address}</h5>
+                        <h5>{val.nameTown}</h5>
+                      </div>
+                    </div>
                   </a>
                   {/* <span>{val.link}</span> */}
                 </p>
