@@ -1,16 +1,15 @@
 .media {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  max-width: 350px;
-  max-height: 500px;
   padding: 5px;
   margin: 5px 0;
-  background-color: #bdcbe5;
+  width: 50%;
+  background-color: #0c162a;
   border-radius: 10px;
-  position: relative;
+  position: absolute;
+  left: 50%;
+  top: 25%;
+  transform: translate(-50%);
   font-family: Georgia, 'Times New Roman', Times, sans-serif;
-  color: #1e1919;
+  color: #f1f1f1;
 }
 
 @media (max-width: 550px) {
@@ -23,6 +22,8 @@
   border-radius: 10px;
   width: 100%;
   height: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .title {
@@ -32,7 +33,7 @@
   padding: 8px 0;
   display: flex;
   justify-content: center;
-  color: #250303;
+  color: #d80f0f;
 }
 a {
   text-decoration: none;

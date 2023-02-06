@@ -18470,6 +18470,7 @@ const projectsData = [
   {
     id: 1618,
     nameBrass: 'Garatelle',
+    img: './images/logo1.jpg',
     nameTown: 'VAIRÉ',
     ville_departement: '85',
     lng: -1.75,
@@ -18478,6 +18479,7 @@ const projectsData = [
   {
     id: 1617,
     nameBrass: 'des Chats Noirs',
+    img: './images/logo1.jpg',
     nameTown: 'LANDERONDE',
     ville_departement: '85',
     lng: -1.56667,
@@ -18486,6 +18488,7 @@ const projectsData = [
   {
     id: 1619,
     nameBrass: 'Les Coureurs de Lune',
+    img: './images/logo1.jpg',
     nameTown: 'LE POIRÉ-SUR-VIE',
     ville_departement: '85',
     lng: -1.51667,
@@ -18494,6 +18497,7 @@ const projectsData = [
   {
     id: 1134,
     nameBrass: 'La Bellotte',
+    img: './images/logo1.jpg',
     nameTown: 'LA COUTURE',
     ville_departement: '85',
     lng: -1.26667,
@@ -18502,6 +18506,7 @@ const projectsData = [
   {
     id: 1622,
     nameBrass: 'La Cabaude',
+    img: './images/logo1.jpg',
     nameTown: 'OLONNE-SUR-MER',
     ville_departement: '85',
     lng: -1.78333,
@@ -18510,6 +18515,7 @@ const projectsData = [
   {
     id: 448,
     nameBrass: 'de Trévarn',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-URBAIN',
     ville_departement: '85',
     lng: -2.01667,
@@ -18518,6 +18524,7 @@ const projectsData = [
   {
     id: 1621,
     nameBrass: 'Opé',
+    img: './images/logo1.jpg',
     nameTown: "LES SABLES-D'OLONNE",
     ville_departement: '85',
     lng: -1.78333,
@@ -18526,6 +18533,7 @@ const projectsData = [
   {
     id: 1633,
     nameBrass: 'Les Brasseurs de la Vie',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-GILLES-CROIX-DE-VIE',
     ville_departement: '85',
     lng: -1.93944,
@@ -18534,6 +18542,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-GERVAIS',
     ville_departement: '85',
     lng: -2.01667,
@@ -18542,6 +18551,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-GERVAIS',
     ville_departement: '85',
     lng: -2.01667,
@@ -18550,6 +18560,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-GERVAIS',
     ville_departement: '85',
     lng: -2.01667,
@@ -18558,6 +18569,7 @@ const projectsData = [
   {
     id: 1370,
     nameBrass: 'Terre de Possibles',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-PIERRE-LE-VIEUX',
     ville_departement: '85',
     lng: -0.75,
@@ -18566,6 +18578,7 @@ const projectsData = [
   {
     id: 1626,
     nameBrass: 'Mélusine',
+    img: './images/logo1.jpg',
     nameTown: 'CHAMBRETAUD',
     ville_departement: '85',
     lng: -0.966667,
@@ -18574,6 +18587,7 @@ const projectsData = [
   {
     id: 1629,
     nameBrass: 'des Islattes',
+    img: './images/logo1.jpg',
     nameTown: 'JARD-SUR-MER',
     ville_departement: '85',
     lng: -1.58333,
@@ -18582,6 +18596,7 @@ const projectsData = [
   {
     id: 1630,
     nameBrass: 'de la Motte',
+    img: './images/logo1.jpg',
     nameTown: 'SAINT-CHRISTOPHE-DU-LIGNERON',
     ville_departement: '85',
     lng: -1.76667,
@@ -18590,6 +18605,7 @@ const projectsData = [
   {
     id: 1624,
     nameBrass: 'La Muette',
+    img: './images/logo1.jpg',
     nameTown: 'BAZOGES-EN-PAREDS',
     ville_departement: '85',
     lng: -0.9,
@@ -18598,6 +18614,7 @@ const projectsData = [
   {
     id: 1627,
     nameBrass: 'du Grand Zig',
+    img: './images/logo1.jpg',
     nameTown: 'LES HERBIERS',
     ville_departement: '85',
     lng: -1.01667,
@@ -18606,6 +18623,7 @@ const projectsData = [
   {
     id: 1628,
     nameBrass: 'La Louette',
+    img: './images/logo1.jpg',
     nameTown: 'LES HERBIERS',
     ville_departement: '85',
     lng: -1.01667,
@@ -18614,6 +18632,7 @@ const projectsData = [
   {
     id: 729,
     nameBrass: 'Heima',
+    img: './images/logo1.jpg',
     nameTown: 'POUILLÉ',
     ville_departement: '85',
     lng: -0.95,
@@ -18622,6 +18641,7 @@ const projectsData = [
   {
     id: 1701,
     nameBrass: 'Croix de Chavaux',
+    img: './images/logo1.jpg',
     nameTown: 'MONTREUIL',
     ville_departement: '85',
     lng: -0.833333,
@@ -18630,6 +18650,7 @@ const projectsData = [
   {
     id: 1702,
     nameBrass: 'Drum&Brass Brewery',
+    img: './images/logo1.jpg',
     nameTown: 'MONTREUIL',
     ville_departement: '85',
     lng: -0.833333,
@@ -18638,6 +18659,7 @@ const projectsData = [
   {
     id: 1703,
     nameBrass: 'La Montreuilloise',
+    img: './images/logo1.jpg',
     nameTown: 'MONTREUIL',
     ville_departement: '85',
     lng: -0.833333,
@@ -18646,6 +18668,7 @@ const projectsData = [
   {
     id: 1625,
     nameBrass: 'La Cibulle',
+    img: './images/logo1.jpg',
     nameTown: 'MAILLÉ',
     ville_departement: '85',
     lng: -0.79,
@@ -18654,6 +18677,7 @@ const projectsData = [
   {
     id: 1631,
     nameBrass: "La N'O",
+    img: './images/logo1.jpg',
     nameTown: 'LA GUÉRINIÈRE',
     ville_departement: '85',
     lng: -2.23333,
@@ -18662,6 +18686,7 @@ const projectsData = [
   {
     id: 1632,
     nameBrass: 'La Petite Ramonière',
+    img: './images/logo1.jpg',
     nameTown: 'NOTRE-DAME-DE-MONTS',
     ville_departement: '85',
     lng: -2.15,

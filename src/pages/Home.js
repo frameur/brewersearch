@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Navigation from '../components/Navigation'
-import data from '../services/data'
+import data from '../services/projectsData'
+
 import CustomPagination from '../components/Pagination'
 
 const Home = () => {
@@ -25,16 +26,15 @@ const Home = () => {
     setNumOfPages(Math.ceil(filteredData.length / itemsPerPage))
   }, [filteredData])
 
-  const itemsPerPage = 10
+  const itemsPerPage = 12
   const startIndex = (page - 1) * itemsPerPage
   const displayData = filteredData.slice(startIndex, startIndex + itemsPerPage)
 
   return (
     <div>
       <Navigation />
-      <h1>accueil</h1>
-
-      <div className="chearchName">
+      <h1 className="pageTitle">les brasseurs</h1>
+      <div className="resultSearch">
         <input
           type="text"
           placeholder="Rentrer code département...."
@@ -42,7 +42,10 @@ const Home = () => {
             setSearchTerm(event.target.value)
           }}
         />
+      </div>
 
+      <div className="chearchName">
+        {/* <div></div> */}
         {displayData
           // eslint-disable-next-line array-callback-return
           .filter((val) => {
@@ -63,7 +66,7 @@ const Home = () => {
                 <p key={key}>
                   <a href="./about">
                     <div className="poster">
-                      {val ? <img src={val?.img} alt="logo brasserie" /> : ''}
+                      {val ? <img src={val?.img} alt="logo brasseur" /> : ''}
 
                       <div className="details">
                         <h2 className="title">brasserie {val.nameBrass} </h2>

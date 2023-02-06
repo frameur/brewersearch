@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import Navigation from '../components/Navigation'
-// import Select from 'react-select'
-// import data from '../services/data'
 import brasseurData from '../services/projectsData'
 import './SingleContent.css'
 
@@ -25,7 +23,7 @@ const About = () => {
   return (
     <div>
       <Navigation />
-      <h1>brasseurs de france</h1>
+      <h1 className="pageTitle">le brasseur</h1>
       <div className="select_content ">
         <select
           name=""

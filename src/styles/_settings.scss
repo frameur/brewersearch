@@ -31,9 +31,13 @@ body {
   background: $white;
   font-family: $font-1;
   overflow-x: hidden;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  // display: flex;
+  // flex-direction: column;
+  // flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: minmax(30em, 5fr);
+  grid-column-gap: 1.5em;
+
   // @include verticalCenter;
 }
 li {
@@ -45,23 +49,31 @@ li {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
   font-family: $font-1;
 }
-.chearchName input {
+
+.resultSearch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultSearch input {
   margin-top: 20px;
   width: 300px;
   height: 40px;
   font-size: 20px;
   padding-left: 10px;
 }
-.chearchName p {
+.resultSearch p {
   margin: 12px;
   font-size: 30px;
   // opacity: 0;
   text-transform: uppercase;
 }
-.chearchName span {
+.resultSearch span {
   font-size: 30px;
   text-transform: capitalize;
 }

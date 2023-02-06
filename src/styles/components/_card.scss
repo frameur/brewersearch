@@ -4,8 +4,7 @@
   // border-radius: 10px;
   // overflow: hidden;
   display: flex;
-  flex-direction: column;
-  // width: 200px;
+  justify-content: space-between;
   padding: 5px;
   margin: 5px 0;
   background-color: #0c162a;
@@ -18,9 +17,6 @@
   @media (max-width: 600px) {
     display: flex;
     justify-content: center;
-
-    width: 500px;
-    height: 220px;
   }
 }
 
@@ -73,6 +69,7 @@
   font-size: 1rem;
   color: $color-2;
   font-weight: 800;
+  text-transform: uppercase;
 }
 .cards .details h5 {
   font-size: 0.7rem;
