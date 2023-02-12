@@ -31,14 +31,6 @@ body {
   background: $white;
   font-family: $font-1;
   overflow-x: hidden;
-  // display: flex;
-  // flex-direction: column;
-  // flex-wrap: wrap;
-  display: grid;
-  grid-template-columns: minmax(30em, 5fr);
-  grid-column-gap: 1.5em;
-
-  // @include verticalCenter;
 }
 li {
   list-style-type: none;
@@ -155,4 +147,10 @@ h5 {
   font-size: 15px;
   display: flex;
   justify-content: center;
+}
+.details span a {
+  color: $color-6;
+}
+inpuText {
+  color: red;
 }

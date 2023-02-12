@@ -17,6 +17,14 @@ const Navigation = () => {
           <li>le brasseur</li>
         </ul>
       </NavLink>
+      <NavLink
+        to="/leaflet"
+        className={(nav) => (nav.isActive ? 'nav-active' : '')}
+      >
+        <ul>
+          <li>Map leaflet</li>
+        </ul>
+      </NavLink>
     </div>
   )
 }

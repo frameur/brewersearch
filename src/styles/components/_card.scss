@@ -1,18 +1,12 @@
 .cards {
-  // position: relative;
-  // margin: 10px;
-  // border-radius: 10px;
-  // overflow: hidden;
   display: flex;
-  justify-content: space-between;
+  align-items: flex-start;
   padding: 5px;
   margin: 5px 0;
   background-color: #0c162a;
   border-radius: 10px;
   position: relative;
   font-family: Georgia, 'Times New Roman', Times, sans-serif;
-
-  // box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
 
   @media (max-width: 600px) {
     display: flex;
@@ -173,4 +167,32 @@
     transform: scale(1.05) translate(-50%);
     color: $black;
   }
+}
+.poster_modal {
+  display: flex;
+  align-items: flex-start;
+  height: 730px;
+  background-color: $color-1;
+}
+.poster_modal img {
+  width: 53%;
+}
+.content_textmodal h2 {
+  position: absolute;
+  left: 55%;
+  top: 10%;
+  text-transform: uppercase;
+}
+.content_textmodal p {
+  position: absolute;
+  left: 55%;
+  top: 15%;
+  font-size: 1.1rem;
+}
+.carteAffichage {
+  position: absolute;
+  right: 80px;
+  bottom: 40px;
+  width: 500px;
+  height: 500px;
 }

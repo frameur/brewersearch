@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react'
 import Navigation from '../components/Navigation'
 import data from '../services/projectsData'
-
 import CustomPagination from '../components/Pagination'
+import ContentModal from '../components/ContentModal'
+import TextField from '@mui/material/TextField'
+// import MapModal from '../components/MapModal'
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
@@ -20,6 +22,7 @@ const Home = () => {
     ) {
       return val
     }
+    console.log(data)
   })
 
   useEffect(() => {
@@ -33,11 +36,16 @@ const Home = () => {
   return (
     <div>
       <Navigation />
+
       <h1 className="pageTitle">les brasseurs</h1>
       <div className="resultSearch">
-        <input
+        <TextField
+          className="inpuText"
           type="text"
-          placeholder="Rentrer code département...."
+          id="standard-basic"
+          label="Département"
+          variant="outlined"
+          placeholder="Entrer code département...."
           onChange={(event) => {
             setSearchTerm(event.target.value)
           }}
@@ -62,26 +70,54 @@ const Home = () => {
 
           .map((val, key) => {
             return (
-              <div className="cards">
-                <p key={key}>
-                  <a href="./about">
-                    <div className="poster">
-                      {val ? <img src={val?.img} alt="logo brasseur" /> : ''}
+              <div key={key} className="cards">
+                <div>
+                  <div className="poster">
+                    {val ? <img src={val?.img} alt="logo brasseur" /> : ''}
 
-                      <div className="details">
-                        <h2 className="title">brasserie {val.nameBrass} </h2>
-                        <h5>{val.phone}</h5>
-                        <h5>{val.address}</h5>
-                        <h5>{val.nameTown}</h5>
-                      </div>
+                    <div className="details">
+                      <h2 className="title">brasserie {val.nameBrass} </h2>
+                      <h5>{val.phone}</h5>
+                      <h5>{val.address}</h5>
+                      <h5>{val.nameTown}</h5> <br />
+                      <span>
+                        {' '}
+                        <a
+                          className="subTitle"
+                          href={val.link}
+                          rel="noopener noreferrer"
+                          target="_blank"
+                        >
+                          {val.link}
+                        </a>
+                      </span>
+                      <br />
+                      <ContentModal>
+                        <div className="poster_modal">
+                          {val ? (
+                            <img src={val?.img} alt="logo brasseur" />
+                          ) : (
+                            ''
+                          )}
+                        </div>
+
+                        <div className="carteAffichage">
+                          {' '}
+                          {/* <MapModal latitude={val.lat} longitude={val.lng} /> */}
+                        </div>
+                        <div className="content_textmodal">
+                          <h2>{val.title}</h2>
+                          <p>{val.infos}</p>
+                        </div>
+                      </ContentModal>
                     </div>
-                  </a>
-                  {/* <span>{val.link}</span> */}
-                </p>
+                  </div>
+                </div>
               </div>
             )
           })}
       </div>
+
       {numOfPages > 1 && (
         <CustomPagination setPage={setPage} numOfPages={numOfPages} />
       )}
