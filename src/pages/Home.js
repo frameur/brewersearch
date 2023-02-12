@@ -22,7 +22,6 @@ const Home = () => {
     ) {
       return val
     }
-    console.log(data)
   })
 
   useEffect(() => {
@@ -40,7 +39,6 @@ const Home = () => {
       <h1 className="pageTitle">les brasseurs</h1>
       <div className="resultSearch">
         <TextField
-          className="inpuText"
           type="text"
           id="standard-basic"
           label="Département"
