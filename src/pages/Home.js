@@ -3,8 +3,8 @@ import Navigation from '../components/Navigation'
 import data from '../services/projectsData'
 import CustomPagination from '../components/Pagination'
 import ContentModal from '../components/ContentModal'
-import TextField from '@mui/material/TextField'
-// import MapModal from '../components/MapModal'
+// import TextField from '@mui/material/TextField'
+import MapModal from '../components/MapModal'
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
@@ -18,7 +18,11 @@ const Home = () => {
     } else if (
       val.ville_departement
         .toLocaleLowerCase()
-        .includes(searchTerm.toLocaleLowerCase())
+        .includes(searchTerm.toLocaleLowerCase()) ||
+      val.nameTown
+        .toLocaleLowerCase()
+        .includes(searchTerm.toLocaleLowerCase()) ||
+      val.nameBrass.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())
     ) {
       return val
     }
@@ -38,12 +42,12 @@ const Home = () => {
 
       <h1 className="pageTitle">les brasseurs</h1>
       <div className="resultSearch">
-        <TextField
+        <input
           type="text"
-          id="standard-basic"
-          label="Département"
-          variant="outlined"
-          placeholder="Entrer code département...."
+          // id="standard-basic"
+          // label="Département"
+          // variant="outlined"
+          placeholder="Entrer code postal, ville, brasseur...."
           onChange={(event) => {
             setSearchTerm(event.target.value)
           }}
@@ -59,6 +63,12 @@ const Home = () => {
               return val
             } else if (
               val.ville_departement
+                .toLocaleLowerCase()
+                .includes(searchTerm.toLocaleLowerCase()) ||
+              val.nameTown
+                .toLocaleLowerCase()
+                .includes(searchTerm.toLocaleLowerCase()) ||
+              val.nameBrass
                 .toLocaleLowerCase()
                 .includes(searchTerm.toLocaleLowerCase())
             ) {
@@ -101,7 +111,7 @@ const Home = () => {
 
                         <div className="carteAffichage">
                           {' '}
-                          {/* <MapModal latitude={val.lat} longitude={val.lng} /> */}
+                          <MapModal latitude={val.lat} longitude={val.lng} />
                         </div>
                         <div className="content_textmodal">
                           <h2>{val.title}</h2>
