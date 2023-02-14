@@ -36,10 +36,54 @@ const Home = () => {
   const startIndex = (page - 1) * itemsPerPage
   const displayData = filteredData.slice(startIndex, startIndex + itemsPerPage)
 
+  // créer un objet pour stocker le nombre de brasseries dans chaque département
+  let nbBrasseriesParDepartement = {}
+
+  // parcourir le tableau de brasseries et compter le nombre de brasseries dans chaque département
+  for (let brasserie of data) {
+    let departement = brasserie.ville_departement
+    if (nbBrasseriesParDepartement[departement]) {
+      nbBrasseriesParDepartement[departement]++
+    } else {
+      nbBrasseriesParDepartement[departement] = 1
+    }
+  }
+
+  // afficher le nombre de brasseries dans chaque département
+  const handleUserInput = (event) => {
+    setSearchTerm(event.target.value)
+  }
+  const filteredDepartments = Object.keys(nbBrasseriesParDepartement).filter(
+    (dep) => {
+      return (
+        dep.toLowerCase().startsWith(searchTerm.toLowerCase()) ||
+        dep.split(' ')[0] === searchTerm
+      )
+    }
+  )
+
   return (
     <div>
       <Navigation />
-
+      {/* <div>
+        {Object.entries(nbBrasseriesParDepartement).map(
+          ([departement, nbBrasseries]) => (
+            <p key={departement}>
+              Il y a {nbBrasseries} brasseries dans le département {departement}
+              .
+            </p>
+          )
+        )}
+      </div> */}
+      <div className="departmentList">
+        {searchTerm.length > 1 &&
+          filteredDepartments.map((dep) => (
+            <div key={dep} className="departmentItem">
+              <span>Dans le {dep}</span>
+              <span> il y a {nbBrasseriesParDepartement[dep]} brasseurs</span>
+            </div>
+          ))}
+      </div>
       <h1 className="pageTitle">les brasseurs</h1>
       <div className="resultSearch">
         <input
@@ -48,9 +92,7 @@ const Home = () => {
           // label="Département"
           // variant="outlined"
           placeholder="Entrer code postal, ville, brasseur...."
-          onChange={(event) => {
-            setSearchTerm(event.target.value)
-          }}
+          onChange={handleUserInput}
         />
       </div>
 
@@ -97,6 +139,14 @@ const Home = () => {
                           target="_blank"
                         >
                           {val.link}
+                        </a>
+                        <a
+                          className="subTitle"
+                          href={val.link2}
+                          rel="noopener noreferrer"
+                          target="_blank"
+                        >
+                          {val.link2}
                         </a>
                       </span>
                       <br />
