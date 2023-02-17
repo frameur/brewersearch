@@ -5,6 +5,36 @@ import CustomPagination from '../components/Pagination'
 import ContentModal from '../components/ContentModal'
 // import TextField from '@mui/material/TextField'
 import MapModal from '../components/MapModal'
+import {
+  Table,
+  TableHead,
+  TableBody,
+  TableRow,
+  TableContainer,
+} from '@mui/material'
+import TableCell, { tableCellClasses } from '@mui/material/TableCell'
+import { styled } from '@mui/material/styles'
+import Paper from '@mui/material/Paper'
+
+const StyledTableCell = styled(TableCell)(({ theme }) => ({
+  [`&.${tableCellClasses.head}`]: {
+    backgroundColor: theme.palette.common.black,
+    color: theme.palette.common.white,
+  },
+  [`&.${tableCellClasses.body}`]: {
+    fontSize: 14,
+  },
+}))
+
+const StyledTableRow = styled(TableRow)(({ theme }) => ({
+  '&:nth-of-type(odd)': {
+    backgroundColor: theme.palette.action.hover,
+  },
+  // hide last border
+  '&:last-child td, &:last-child th': {
+    border: 0,
+  },
+}))
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
@@ -17,9 +47,6 @@ const Home = () => {
       return val
     } else if (
       val.ville_departement
-        .toLocaleLowerCase()
-        .includes(searchTerm.toLocaleLowerCase()) ||
-      val.nameTown
         .toLocaleLowerCase()
         .includes(searchTerm.toLocaleLowerCase()) ||
       val.nameBrass.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())
@@ -61,20 +88,17 @@ const Home = () => {
       )
     }
   )
+  // affiche le total des brasseurs
+  const totalBrasseries = Object.values(nbBrasseriesParDepartement).reduce(
+    (acc, curr) => acc + curr,
+    0
+  )
 
   return (
     <div>
       <Navigation />
-      {/* <div>
-        {Object.entries(nbBrasseriesParDepartement).map(
-          ([departement, nbBrasseries]) => (
-            <p key={departement}>
-              Il y a {nbBrasseries} brasseries dans le département {departement}
-              .
-            </p>
-          )
-        )}
-      </div> */}
+
+      <h1 className="pageTitle">les brasseurs</h1>
       <div className="departmentList">
         {searchTerm.length > 1 &&
           filteredDepartments.map((dep) => (
@@ -84,14 +108,13 @@ const Home = () => {
             </div>
           ))}
       </div>
-      <h1 className="pageTitle">les brasseurs</h1>
       <div className="resultSearch">
         <input
           type="text"
           // id="standard-basic"
           // label="Département"
           // variant="outlined"
-          placeholder="Entrer code postal, ville, brasseur...."
+          placeholder="Entrer code postal, Brasseur...."
           onChange={handleUserInput}
         />
       </div>
@@ -105,9 +128,6 @@ const Home = () => {
               return val
             } else if (
               val.ville_departement
-                .toLocaleLowerCase()
-                .includes(searchTerm.toLocaleLowerCase()) ||
-              val.nameTown
                 .toLocaleLowerCase()
                 .includes(searchTerm.toLocaleLowerCase()) ||
               val.nameBrass
@@ -175,10 +195,35 @@ const Home = () => {
             )
           })}
       </div>
-
       {numOfPages > 1 && (
         <CustomPagination setPage={setPage} numOfPages={numOfPages} />
       )}
+      <br />
+      <TableContainer component={Paper}>
+        <Table>
+          <TableHead>
+            <TableRow>
+              <StyledTableCell align="left">Classement</StyledTableCell>
+              <StyledTableCell align="left">CP Département</StyledTableCell>
+              <StyledTableCell align="left">
+                Nb de brasseries ({totalBrasseries})
+              </StyledTableCell>
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {Object.entries(nbBrasseriesParDepartement)
+              .sort((a, b) => b[1] - a[1])
+              .map(([departement, nbBrasseries], index) => (
+                <StyledTableRow key={departement}>
+                  {/* <StyledTableCell></StyledTableCell> */}
+                  <StyledTableCell align="left">{index + 1}</StyledTableCell>
+                  <StyledTableCell align="left">{departement}</StyledTableCell>
+                  <StyledTableCell align="left">{nbBrasseries}</StyledTableCell>
+                </StyledTableRow>
+              ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
     </div>
   )
 }

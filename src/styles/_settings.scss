@@ -162,9 +162,34 @@ inpuText {
 .departmentList {
   display: flex;
   justify-content: center;
-  margin-bottom: 10px;
+  margin-top: 10px;
   text-transform: uppercase;
   color: orangered;
   font-weight: 800;
   font-size: 1.5rem;
+}
+
+td.css-132a6sb-MuiTableCell-root {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(14, 15, 31);
+}
+
+td.css-132a6sb-MuiTableCell-root.MuiTableCell-body:nth-child(2) {
+  background-color: #bfc5e1;
+}
+td.css-132a6sb-MuiTableCell-root.MuiTableCell-body:nth-child(3) {
+  background-color: #eac5c3;
+}
+td.css-132a6sb-MuiTableCell-root.MuiTableCell-body:hover:nth-child(1) {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+tr.css-1enotpu-MuiTableRow-root:hover {
+  background-color: black;
+  font-weight: bold;
+}
+th.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head {
+  text-transform: uppercase;
 }

@@ -12,7 +12,7 @@ const MapModal = () => {
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(mapRef.current)
 
-    const marker = L.marker([47.2167, -1.55]).addTo(mapRef.current)
+    let marker = L.marker([47.2167, -1.55]).addTo(mapRef.current)
     marker.bindPopup('je suis la').openPopup()
   }, [])
 
