@@ -5,6 +5,7 @@ import CustomPagination from '../components/Pagination'
 import ContentModal from '../components/ContentModal'
 // import TextField from '@mui/material/TextField'
 import MapModal from '../components/MapModal'
+
 import {
   Table,
   TableHead,
@@ -77,6 +78,9 @@ const Home = () => {
   }
 
   // afficher le nombre de brasseries dans chaque département
+  const handleSelect = (event) => {
+    setSearchTerm(event.target.value)
+  }
   const handleUserInput = (event) => {
     setSearchTerm(event.target.value)
   }
@@ -117,6 +121,14 @@ const Home = () => {
           placeholder="Entrer code postal, Brasseur...."
           onChange={handleUserInput}
         />
+        <select value={searchTerm} onChange={handleSelect}>
+          <option value="">Tous les départements.....</option>
+          {filteredDepartments.map((dep) => (
+            <option key={dep} value={dep}>
+              {dep}
+            </option>
+          ))}
+        </select>
       </div>
 
       <div className="chearchName">
@@ -170,6 +182,7 @@ const Home = () => {
                         </a>
                       </span>
                       <br />
+                      {/* le modal pour chaque brasseur */}
                       <ContentModal>
                         <div className="poster_modal">
                           {val ? (
@@ -181,7 +194,11 @@ const Home = () => {
 
                         <div className="carteAffichage">
                           {' '}
-                          <MapModal latitude={val.lat} longitude={val.lng} />
+                          <MapModal
+                            key={val.id}
+                            latitude={val.lat}
+                            longitude={val.lng}
+                          />
                         </div>
                         <div className="content_textmodal">
                           <h2>{val.title}</h2>
@@ -195,10 +212,14 @@ const Home = () => {
             )
           })}
       </div>
+
+      {/* la pagination */}
       {numOfPages > 1 && (
         <CustomPagination setPage={setPage} numOfPages={numOfPages} />
       )}
       <br />
+
+      {/* tableau de l'ensemble des brasseurs par département */}
       <TableContainer component={Paper}>
         <Table>
           <TableHead>

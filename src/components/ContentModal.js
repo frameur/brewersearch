@@ -5,6 +5,7 @@ import Backdrop from '@mui/material/Backdrop'
 import Fade from '@mui/material/Fade'
 import { Button } from '@mui/material'
 
+import 'leaflet/dist/leaflet.css'
 import './Modal.css'
 
 // import { Button } from '@mui/material'

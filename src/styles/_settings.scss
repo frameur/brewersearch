@@ -52,7 +52,8 @@ li {
   align-items: center;
 }
 
-.resultSearch input {
+.resultSearch input,
+.resultSearch select {
   display: flex;
   align-items: center;
   margin-top: 20px;
