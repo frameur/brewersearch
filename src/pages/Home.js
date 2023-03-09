@@ -4,8 +4,11 @@ import data from '../services/projectsData'
 import CustomPagination from '../components/Pagination'
 import ContentModal from '../components/ContentModal'
 // import TextField from '@mui/material/TextField'
-import MapModal from '../components/MapModal'
-
+// import MapModal from '../components/MapModal'
+import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
+import L from 'leaflet'
+import 'leaflet/dist/leaflet.css'
+import icon from '../assets/beer.svg' // replace with the path to your custom icon
 import {
   Table,
   TableHead,
@@ -151,6 +154,13 @@ const Home = () => {
           })
 
           .map((val, key) => {
+            const position = [val.lat, val.lng]
+            const markerIcon = new L.Icon({
+              iconUrl: icon, // Chemin vers l'icône du marqueur
+              iconSize: [25, 41],
+              iconAnchor: [12.5, 41],
+              popupAnchor: [0, -41],
+            })
             return (
               <div key={key} className="cards">
                 <div>
@@ -193,12 +203,28 @@ const Home = () => {
                         </div>
 
                         <div className="carteAffichage">
-                          {' '}
+                          <MapContainer
+                            center={position}
+                            zoom={13}
+                            scrollWheelZoom={true}
+                            style={{ height: '400px' }}
+                          >
+                            <TileLayer
+                              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                              attribution="&amp;copy; OpenStreetMap contributors"
+                            />
+                            <Marker position={position} icon={markerIcon}>
+                              <Popup>
+                                Brasserie {val.nameBrass} <br /> {val.nameTown}
+                              </Popup>
+                            </Marker>
+                          </MapContainer>
+                          {/* {' '}
                           <MapModal
                             key={val.id}
                             latitude={val.lat}
                             longitude={val.lng}
-                          />
+                          /> */}
                         </div>
                         <div className="content_textmodal">
                           <h2>{val.title}</h2>

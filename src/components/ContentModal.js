@@ -33,7 +33,7 @@ const ContentModal = (props) => {
   const classes = useStyles()
   const [open, setOpen] = useState(false)
 
-  const handleOpen = () => {
+  const handleOpen = (lat, lng) => {
     setOpen(true)
   }
 
