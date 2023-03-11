@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Navigation from '../components/Navigation'
 import data from '../services/projectsData'
-// import departement from '../services/departement'
 import CustomPagination from '../components/Pagination'
 import ContentModal from '../components/ContentModal'
 // import TextField from '@mui/material/TextField'
