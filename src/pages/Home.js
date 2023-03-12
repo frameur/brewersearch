@@ -82,9 +82,9 @@ const Home = () => {
   const handleSelect = (event) => {
     setSearchTerm(event.target.value)
   }
-  const handleUserInput = (event) => {
-    setSearchTerm(event.target.value)
-  }
+  // const handleUserInput = (event) => {
+  //   setSearchTerm(event.target.value)
+  // }
   const filteredDepartments = Object.keys(nbBrasseriesParDepartement).filter(
     (dep) => {
       return (
@@ -114,14 +114,14 @@ const Home = () => {
           ))}
       </div>
       <div className="resultSearch">
-        <input
+        {/* <input
           type="text"
-          // id="standard-basic"
-          // label="Département"
-          // variant="outlined"
+          id="standard-basic"
+          label="Département"
+          variant="outlined"
           placeholder="Entrer code postal, Brasseur...."
           onChange={handleUserInput}
-        />
+        /> */}
         <select value={searchTerm} onChange={handleSelect}>
           <option value="">Tous les départements.....</option>
           {filteredDepartments.map((dep) => (
