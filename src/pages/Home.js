@@ -17,6 +17,7 @@ import {
 import TableCell, { tableCellClasses } from '@mui/material/TableCell'
 import { styled } from '@mui/material/styles'
 import Paper from '@mui/material/Paper'
+import Button from '@mui/material/Button'
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
@@ -42,6 +43,20 @@ const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
   const [page, setPage] = useState(1)
   const [numOfPages, setNumOfPages] = useState(0)
+  const [selectedDepartment, setSelectedDepartment] = useState('0')
+  const [breweriesData, setBreweriesData] = useState([])
+  const [isMapVisible, setIsMapVisible] = useState(true)
+
+  useEffect(() => {
+    if (selectedDepartment !== '0') {
+      const filteredData = data.filter(
+        (val) => val.ville_departement === selectedDepartment
+      )
+      setBreweriesData(filteredData)
+    } else {
+      setBreweriesData(data)
+    }
+  }, [selectedDepartment])
 
   // eslint-disable-next-line array-callback-return
   const filteredData = data.filter((val) => {
@@ -81,7 +96,26 @@ const Home = () => {
   // afficher le nombre de brasseries dans chaque département
   const handleSelect = (event) => {
     setSearchTerm(event.target.value)
+    setSelectedDepartment(event.target.value)
   }
+  const handleClear = () => {
+    setSelectedDepartment('0')
+    setSearchTerm('')
+    setIsMapVisible(true)
+  }
+  // récupérer toutes les brasseries dans le département sélectionné
+  const selectedBreweries = data.filter(
+    (val) => val.ville_departement === selectedDepartment
+  )
+
+  // calculer le centre des brasseries dans le département sélectionné
+  const center = selectedBreweries.reduce(
+    (acc, curr) => [acc[0] + curr.lat, acc[1] + curr.lng],
+    [0, 0]
+  )
+  center[0] /= selectedBreweries.length
+  center[1] /= selectedBreweries.length
+  let centerCoords = center
   // const handleUserInput = (event) => {
   //   setSearchTerm(event.target.value)
   // }
@@ -93,17 +127,60 @@ const Home = () => {
       )
     }
   )
+
   // affiche le total des brasseurs
   const totalBrasseries = Object.values(nbBrasseriesParDepartement).reduce(
     (acc, curr) => acc + curr,
     0
   )
-
+  const markerIcon = new L.Icon({
+    iconUrl: icon, // Chemin vers l'icône du marqueur
+    iconSize: [25, 41],
+    iconAnchor: [12.5, 41],
+    popupAnchor: [0, -41],
+  })
   return (
     <div>
       <Navigation />
+      <h1 className="pageTitle">&#127866;les brasseurs</h1>
+      {selectedDepartment !== '0' && isMapVisible && (
+        <MapContainer
+          center={centerCoords}
+          zoom={8}
+          style={{
+            height: '50vh',
+            width: '50rem',
+            margin: '0 auto',
+          }}
+        >
+          <TileLayer
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">opentopomap</a> contributors'
+            url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+          />
 
-      <h1 className="pageTitle">les brasseurs</h1>
+          {breweriesData.map((brewery) => (
+            <Marker
+              icon={markerIcon}
+              key={brewery.id}
+              position={[brewery.lat, brewery.lng]}
+            >
+              <Popup>
+                Brasserie {brewery.nameBrass}
+                <br /> {brewery.nameTown}
+              </Popup>
+            </Marker>
+          ))}
+        </MapContainer>
+      )}
+      {/* Add the button to clear the department filter */}
+      <div className="clearButton">
+        {selectedDepartment !== '0' && (
+          <Button variant="contained" onClick={handleClear}>
+            Clear Map
+          </Button>
+        )}
+      </div>
+
       <div className="departmentList">
         {searchTerm.length > 1 &&
           filteredDepartments.map((dep) => (
@@ -113,6 +190,7 @@ const Home = () => {
             </div>
           ))}
       </div>
+
       <div className="resultSearch">
         {/* <input
           type="text"
@@ -123,10 +201,10 @@ const Home = () => {
           onChange={handleUserInput}
         /> */}
         <select value={searchTerm} onChange={handleSelect}>
-          <option value="">Tous les départements.....</option>
+          <option value="0">Choix de votre département...</option>
           {filteredDepartments.map((dep) => (
             <option key={dep} value={dep}>
-              {dep}
+              {dep}({nbBrasseriesParDepartement[dep]})
             </option>
           ))}
         </select>
@@ -203,12 +281,12 @@ const Home = () => {
                         <div className="carteAffichage">
                           <MapContainer
                             center={position}
-                            zoom={13}
+                            zoom={8}
                             scrollWheelZoom={true}
                             style={{ height: '400px' }}
                           >
                             <TileLayer
-                              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                              url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
                               attribution="&amp;copy; OpenStreetMap contributors"
                             />
                             <Marker position={position} icon={markerIcon}>
@@ -225,6 +303,7 @@ const Home = () => {
                           /> */}
                         </div>
                         <div className="content_textmodal">
+                          <h1>{val.nameBrass}</h1>
                           <h2>{val.title}</h2>
                           <p>{val.infos}</p>
                         </div>
