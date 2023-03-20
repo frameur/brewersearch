@@ -76,7 +76,7 @@ const Home = () => {
     setNumOfPages(Math.ceil(filteredData.length / itemsPerPage))
   }, [filteredData])
 
-  const itemsPerPage = 12
+  const itemsPerPage = 20
   const startIndex = (page - 1) * itemsPerPage
   const displayData = filteredData.slice(startIndex, startIndex + itemsPerPage)
 
@@ -145,6 +145,7 @@ const Home = () => {
       <h1 className="pageTitle">&#127866;les brasseurs</h1>
       {selectedDepartment !== '0' && isMapVisible && (
         <MapContainer
+          className="mapcarte"
           center={centerCoords}
           zoom={8}
           style={{
@@ -154,8 +155,8 @@ const Home = () => {
           }}
         >
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">opentopomap</a> contributors'
-            url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">openstreetmap</a> contributors'
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
 
           {breweriesData.map((brewery) => (
@@ -180,7 +181,6 @@ const Home = () => {
           </Button>
         )}
       </div>
-
       <div className="departmentList">
         {searchTerm.length > 1 &&
           filteredDepartments.map((dep) => (
@@ -190,18 +190,11 @@ const Home = () => {
             </div>
           ))}
       </div>
-
       <div className="resultSearch">
-        {/* <input
-          type="text"
-          id="standard-basic"
-          label="Département"
-          variant="outlined"
-          placeholder="Entrer code postal, Brasseur...."
-          onChange={handleUserInput}
-        /> */}
         <select value={searchTerm} onChange={handleSelect}>
-          <option value="0">Choix de votre département...</option>
+          <option value="" disabled selected hidden>
+            Choix de votre département.....
+          </option>
           {filteredDepartments.map((dep) => (
             <option key={dep} value={dep}>
               {dep}({nbBrasseriesParDepartement[dep]})
@@ -209,7 +202,6 @@ const Home = () => {
           ))}
         </select>
       </div>
-
       <div className="chearchName">
         {/* <div></div> */}
         {displayData
@@ -280,6 +272,7 @@ const Home = () => {
 
                         <div className="carteAffichage">
                           <MapContainer
+                            className="mapcartemodal"
                             center={position}
                             zoom={8}
                             scrollWheelZoom={true}
@@ -315,13 +308,11 @@ const Home = () => {
             )
           })}
       </div>
-
       {/* la pagination */}
       {numOfPages > 1 && (
         <CustomPagination setPage={setPage} numOfPages={numOfPages} />
       )}
       <br />
-
       {/* tableau de l'ensemble des brasseurs par département */}
       <TableContainer component={Paper}>
         <Table>

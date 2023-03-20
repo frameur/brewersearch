@@ -320,27 +320,27 @@ const projectsData = [
     nameBrass: 'Sous Le Bois',
     img: './images/souslebois.jpg',
     title: '',
-    infos: ' ',
-    address: '49 plateau de challes',
-    phone: '06 22 11 05 89',
+    infos: 'Date de création : 2020 ',
+    address: '49 Rue du Plt de Challes ',
+    phone: '06.22.11.05.89',
     phone2: '',
-    link:
+    link2:
       'https://www.facebook.com/Brasserie-artisanale-BIO-Sous-Le-Bois-405789900059123/',
-    nameTown: '1140 SAINT-DIDIER-SUR-CHALARONNE',
+    nameTown: '01140 SAINT-DIDIER-SUR-CHALARONNE',
     ville_departement: '01 - Ain',
-    lng: 5.22223,
-    lat: 45.9206,
+    lng: 4.8883585,
+    lat: 46.1881793,
   },
   {
     id: 1801,
     nameBrass: 'Chipiron',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: ' ',
     address: '',
     phone: '',
     phone2: '',
-    link: 'https:///',
+    link: '',
     nameTown: '1140 SAINT-DIDIER-SUR-CHALARONNE',
     ville_departement: '01 - Ain',
     lng: 5.22223,
@@ -349,13 +349,13 @@ const projectsData = [
   {
     id: 1802,
     nameBrass: 'Les Bières Lugdunum',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: ' ',
     address: '',
     phone: '',
     phone2: '',
-    link: 'https:///',
+    link: '',
     nameTown: '1140 SAINT-DIDIER-SUR-CHALARONNE',
     ville_departement: '01 - Ain',
     lng: 5.22223,
@@ -364,7 +364,7 @@ const projectsData = [
   {
     id: 887,
     nameBrass: 'Bières et Tentations',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -378,7 +378,7 @@ const projectsData = [
   {
     id: 24,
     nameBrass: 'La Musteline',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -392,7 +392,7 @@ const projectsData = [
   {
     id: 31,
     nameBrass: 'Les 3 Loups',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -406,7 +406,7 @@ const projectsData = [
   {
     id: 1656,
     nameBrass: 'du Mont Fleuri',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -420,7 +420,7 @@ const projectsData = [
   {
     id: 30,
     nameBrass: 'de Voas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -434,7 +434,7 @@ const projectsData = [
   {
     id: 29,
     nameBrass: "Bulle's Not Dead - La Germoise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -448,7 +448,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -462,7 +462,7 @@ const projectsData = [
   {
     id: 26,
     nameBrass: 'de la Cense',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -476,7 +476,7 @@ const projectsData = [
   {
     id: 1018,
     nameBrass: 'de la Canoterie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -490,7 +490,7 @@ const projectsData = [
   {
     id: 1019,
     nameBrass: 'Les Bières du Donjon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -504,7 +504,7 @@ const projectsData = [
   {
     id: 25,
     nameBrass: 'Grizdal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -518,7 +518,7 @@ const projectsData = [
   {
     id: 23,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -532,7 +532,7 @@ const projectsData = [
   {
     id: 27,
     nameBrass: "de l'Escaut",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -546,7 +546,7 @@ const projectsData = [
   {
     id: 28,
     nameBrass: 'des Fables',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -560,7 +560,7 @@ const projectsData = [
   {
     id: 41,
     nameBrass: "du Père Saint'Oy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -574,7 +574,7 @@ const projectsData = [
   {
     id: 36,
     nameBrass: 'JNT',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -588,7 +588,7 @@ const projectsData = [
   {
     id: 34,
     nameBrass: 'Blondel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -602,7 +602,7 @@ const projectsData = [
   {
     id: 106,
     nameBrass: 'Longue Vie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -616,7 +616,7 @@ const projectsData = [
   {
     id: 232,
     nameBrass: 'Bière de la Lanterne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -630,7 +630,7 @@ const projectsData = [
   {
     id: 233,
     nameBrass: 'Maison Bastard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -644,7 +644,7 @@ const projectsData = [
   {
     id: 43,
     nameBrass: 'du Jugement Dernier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -658,7 +658,7 @@ const projectsData = [
   {
     id: 1656,
     nameBrass: 'du Mont Fleuri',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -672,7 +672,7 @@ const projectsData = [
   {
     id: 42,
     nameBrass: 'Lady Ale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -686,7 +686,7 @@ const projectsData = [
   {
     id: 515,
     nameBrass: 'Harrington Beers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -700,7 +700,7 @@ const projectsData = [
   {
     id: 39,
     nameBrass: 'du Loup',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -714,7 +714,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -728,7 +728,7 @@ const projectsData = [
   {
     id: 37,
     nameBrass: 'de la Motte-Juillet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -742,7 +742,7 @@ const projectsData = [
   {
     id: 40,
     nameBrass: "Mam'zelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -756,7 +756,7 @@ const projectsData = [
   {
     id: 35,
     nameBrass: 'Brew Vernet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -770,7 +770,7 @@ const projectsData = [
   {
     id: 38,
     nameBrass: 'Saint Nicolas da Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -784,7 +784,7 @@ const projectsData = [
   {
     id: 53,
     nameBrass: 'La Bonne Fontaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -798,7 +798,7 @@ const projectsData = [
   {
     id: 46,
     nameBrass: 'Papillon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -812,7 +812,7 @@ const projectsData = [
   {
     id: 259,
     nameBrass: 'du Causse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -826,7 +826,7 @@ const projectsData = [
   {
     id: 48,
     nameBrass: "La Brass'Bastelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -840,7 +840,7 @@ const projectsData = [
   {
     id: 55,
     nameBrass: 'des Hautes Vallées',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -854,7 +854,7 @@ const projectsData = [
   {
     id: 515,
     nameBrass: 'Harrington Beers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -868,7 +868,7 @@ const projectsData = [
   {
     id: 45,
     nameBrass: 'La Serpentine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -882,7 +882,7 @@ const projectsData = [
   {
     id: 54,
     nameBrass: 'Saveurs & Nature',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -896,7 +896,7 @@ const projectsData = [
   {
     id: 49,
     nameBrass: 'Auzetane',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -910,7 +910,7 @@ const projectsData = [
   {
     id: 52,
     nameBrass: 'Bulle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -924,7 +924,7 @@ const projectsData = [
   {
     id: 56,
     nameBrass: 'Cérévisia',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -938,7 +938,7 @@ const projectsData = [
   {
     id: 51,
     nameBrass: 'Bière de la Durance',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -952,7 +952,7 @@ const projectsData = [
   {
     id: 44,
     nameBrass: 'La Manosquine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -966,7 +966,7 @@ const projectsData = [
   {
     id: 60,
     nameBrass: 'GAEC Le Grain Paysan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -980,7 +980,7 @@ const projectsData = [
   {
     id: 290,
     nameBrass: 'Sully',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -994,7 +994,7 @@ const projectsData = [
   {
     id: 64,
     nameBrass: 'L&L Alphand',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1008,7 +1008,7 @@ const projectsData = [
   {
     id: 711,
     nameBrass: 'des Babouins Jurassiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1022,7 +1022,7 @@ const projectsData = [
   {
     id: 712,
     nameBrass: "du Triangle d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1036,7 +1036,7 @@ const projectsData = [
   {
     id: 713,
     nameBrass: "Ecole Nationale d'Industrie La",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1050,7 +1050,7 @@ const projectsData = [
   {
     id: 65,
     nameBrass: 'La Queyrassine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1064,7 +1064,7 @@ const projectsData = [
   {
     id: 61,
     nameBrass: 'des Cabrioles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1078,7 +1078,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1092,7 +1092,7 @@ const projectsData = [
   {
     id: 59,
     nameBrass: 'SARL Commanderie de Saint Anto',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1106,7 +1106,7 @@ const projectsData = [
   {
     id: 62,
     nameBrass: 'de Serre-Ponçon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1120,7 +1120,7 @@ const projectsData = [
   {
     id: 188,
     nameBrass: 'Artisanale de Provence (BAP)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1134,7 +1134,7 @@ const projectsData = [
   {
     id: 63,
     nameBrass: "d'Ancelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1148,7 +1148,7 @@ const projectsData = [
   {
     id: 57,
     nameBrass: 'des Grands Cols',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1162,7 +1162,7 @@ const projectsData = [
   {
     id: 58,
     nameBrass: '3B-Brasserie Bio de Briançon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1176,7 +1176,7 @@ const projectsData = [
   {
     id: 73,
     nameBrass: "L'Avanture Noudt",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1190,7 +1190,7 @@ const projectsData = [
   {
     id: 69,
     nameBrass: 'BadaB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1204,7 +1204,7 @@ const projectsData = [
   {
     id: 70,
     nameBrass: 'Azuréenne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1218,7 +1218,7 @@ const projectsData = [
   {
     id: 71,
     nameBrass: 'Bacho Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1232,7 +1232,7 @@ const projectsData = [
   {
     id: 72,
     nameBrass: 'Mistrale, Bière de la Riviera',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1246,7 +1246,7 @@ const projectsData = [
   {
     id: 1432,
     nameBrass: 'La Brasserie 744',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1260,7 +1260,7 @@ const projectsData = [
   {
     id: 84,
     nameBrass: 'Backyard Brews',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1274,7 +1274,7 @@ const projectsData = [
   {
     id: 75,
     nameBrass: 'du Barbare',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1288,7 +1288,7 @@ const projectsData = [
   {
     id: 76,
     nameBrass: "Colgan's Brewery",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1302,7 +1302,7 @@ const projectsData = [
   {
     id: 85,
     nameBrass: 'B06',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1316,7 +1316,7 @@ const projectsData = [
   {
     id: 86,
     nameBrass: "La Crafterie d'Azur",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1330,7 +1330,7 @@ const projectsData = [
   {
     id: 87,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1344,7 +1344,7 @@ const projectsData = [
   {
     id: 80,
     nameBrass: 'Gladius',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1358,7 +1358,7 @@ const projectsData = [
   {
     id: 83,
     nameBrass: 'La Mentounasc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1372,7 +1372,7 @@ const projectsData = [
   {
     id: 66,
     nameBrass: 'Alliance Brasserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1386,7 +1386,7 @@ const projectsData = [
   {
     id: 67,
     nameBrass: 'Bleue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1400,7 +1400,7 @@ const projectsData = [
   {
     id: 68,
     nameBrass: 'de Nice',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1414,7 +1414,7 @@ const projectsData = [
   {
     id: 74,
     nameBrass: 'Blue Coast Brewing Company',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1428,7 +1428,7 @@ const projectsData = [
   {
     id: 81,
     nameBrass: 'du Comté',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1442,7 +1442,7 @@ const projectsData = [
   {
     id: 78,
     nameBrass: 'La Castagna',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1456,7 +1456,7 @@ const projectsData = [
   {
     id: 77,
     nameBrass: 'Berroise-Hugins Brew',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1470,7 +1470,7 @@ const projectsData = [
   {
     id: 832,
     nameBrass: "L'Ale Humeuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1484,7 +1484,7 @@ const projectsData = [
   {
     id: 103,
     nameBrass: 'EARL Du Moulin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1498,7 +1498,7 @@ const projectsData = [
   {
     id: 559,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1512,7 +1512,7 @@ const projectsData = [
   {
     id: 101,
     nameBrass: 'Borée Ale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1526,7 +1526,7 @@ const projectsData = [
   {
     id: 105,
     nameBrass: 'Le Duff',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1540,7 +1540,7 @@ const projectsData = [
   {
     id: 107,
     nameBrass: 'Graine 2 Bulles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1554,7 +1554,7 @@ const projectsData = [
   {
     id: 108,
     nameBrass: 'Haarddrëch',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1568,7 +1568,7 @@ const projectsData = [
   {
     id: 109,
     nameBrass: 'La Grange du Seigneur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1582,7 +1582,7 @@ const projectsData = [
   {
     id: 110,
     nameBrass: 'Clariou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1596,7 +1596,7 @@ const projectsData = [
   {
     id: 95,
     nameBrass: 'des Chimères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1610,7 +1610,7 @@ const projectsData = [
   {
     id: 407,
     nameBrass: 'de la Vallée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1624,7 +1624,7 @@ const projectsData = [
   {
     id: 136,
     nameBrass: "L'Once Troy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1638,7 +1638,7 @@ const projectsData = [
   {
     id: 113,
     nameBrass: 'La Renarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1652,7 +1652,7 @@ const projectsData = [
   {
     id: 97,
     nameBrass: "de l'Ardèche Méridionale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1666,7 +1666,7 @@ const projectsData = [
   {
     id: 99,
     nameBrass: 'Free Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1680,7 +1680,7 @@ const projectsData = [
   {
     id: 100,
     nameBrass: 'Nagesco EURL',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1694,7 +1694,7 @@ const projectsData = [
   {
     id: 96,
     nameBrass: "de l'Olanier",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1708,7 +1708,7 @@ const projectsData = [
   {
     id: 88,
     nameBrass: 'Krügs Brewpub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1722,7 +1722,7 @@ const projectsData = [
   {
     id: 89,
     nameBrass: 'Loupoulo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1736,7 +1736,7 @@ const projectsData = [
   {
     id: 111,
     nameBrass: 'Kokine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1750,7 +1750,7 @@ const projectsData = [
   {
     id: 333,
     nameBrass: 'des Grands Maux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1764,7 +1764,7 @@ const projectsData = [
   {
     id: 94,
     nameBrass: 'Java',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1778,7 +1778,7 @@ const projectsData = [
   {
     id: 90,
     nameBrass: "L'Helvii",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1792,7 +1792,7 @@ const projectsData = [
   {
     id: 104,
     nameBrass: "L'Ale'Ouët",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1806,7 +1806,7 @@ const projectsData = [
   {
     id: 98,
     nameBrass: 'Kan Mêm',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1820,7 +1820,7 @@ const projectsData = [
   {
     id: 93,
     nameBrass: 'des Docs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1834,7 +1834,7 @@ const projectsData = [
   {
     id: 91,
     nameBrass: 'Alchimia Brewing',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1848,7 +1848,7 @@ const projectsData = [
   {
     id: 584,
     nameBrass: 'du Petit Caboulot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1862,7 +1862,7 @@ const projectsData = [
   {
     id: 92,
     nameBrass: 'des Rieux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1876,7 +1876,7 @@ const projectsData = [
   {
     id: 106,
     nameBrass: 'Longue Vie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1890,7 +1890,7 @@ const projectsData = [
   {
     id: 125,
     nameBrass: 'Gillet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1904,7 +1904,7 @@ const projectsData = [
   {
     id: 124,
     nameBrass: 'La Margoulette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1918,7 +1918,7 @@ const projectsData = [
   {
     id: 1500,
     nameBrass: 'Bières de la Vallée Javot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1932,7 +1932,7 @@ const projectsData = [
   {
     id: 120,
     nameBrass: 'Clos Belle Rose',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1946,7 +1946,7 @@ const projectsData = [
   {
     id: 1357,
     nameBrass: 'artisanale de Bourgogne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1960,7 +1960,7 @@ const projectsData = [
   {
     id: 1358,
     nameBrass: 'Les Plains Monts',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1974,7 +1974,7 @@ const projectsData = [
   {
     id: 114,
     nameBrass: "De Malt et d'Ô",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -1988,7 +1988,7 @@ const projectsData = [
   {
     id: 118,
     nameBrass: "d'Yvois",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2002,7 +2002,7 @@ const projectsData = [
   {
     id: 115,
     nameBrass: "d'Arthur",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2016,7 +2016,7 @@ const projectsData = [
   {
     id: 116,
     nameBrass: 'La Quinarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2030,7 +2030,7 @@ const projectsData = [
   {
     id: 117,
     nameBrass: "L'Elmontaise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2044,7 +2044,7 @@ const projectsData = [
   {
     id: 119,
     nameBrass: 'Les Coulous',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2058,7 +2058,7 @@ const projectsData = [
   {
     id: 122,
     nameBrass: 'Aux Gourmets Sedanais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2072,7 +2072,7 @@ const projectsData = [
   {
     id: 123,
     nameBrass: 'SARL AJT',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2086,7 +2086,7 @@ const projectsData = [
   {
     id: 132,
     nameBrass: 'du Séronais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2100,7 +2100,7 @@ const projectsData = [
   {
     id: 515,
     nameBrass: 'Harrington Beers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2114,7 +2114,7 @@ const projectsData = [
   {
     id: 130,
     nameBrass: 'La Boussole',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2128,7 +2128,7 @@ const projectsData = [
   {
     id: 1233,
     nameBrass: 'Homo Sapiens Expérience',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2142,7 +2142,7 @@ const projectsData = [
   {
     id: 133,
     nameBrass: 'Le Grand Bison',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2156,7 +2156,7 @@ const projectsData = [
   {
     id: 480,
     nameBrass: 'Les Eaux Vives',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2170,7 +2170,7 @@ const projectsData = [
   {
     id: 127,
     nameBrass: 'Galemys',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2184,7 +2184,7 @@ const projectsData = [
   {
     id: 134,
     nameBrass: "L'Orge Folle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2198,7 +2198,7 @@ const projectsData = [
   {
     id: 673,
     nameBrass: 'La Dourbie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2212,7 +2212,7 @@ const projectsData = [
   {
     id: 137,
     nameBrass: 'Thibord',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2226,7 +2226,7 @@ const projectsData = [
   {
     id: 711,
     nameBrass: 'des Babouins Jurassiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2240,7 +2240,7 @@ const projectsData = [
   {
     id: 712,
     nameBrass: "du Triangle d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2254,7 +2254,7 @@ const projectsData = [
   {
     id: 713,
     nameBrass: "Ecole Nationale d'Industrie La",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2268,7 +2268,7 @@ const projectsData = [
   {
     id: 136,
     nameBrass: "L'Once Troy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2282,7 +2282,7 @@ const projectsData = [
   {
     id: 1373,
     nameBrass: 'La Débeurdineuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2296,7 +2296,7 @@ const projectsData = [
   {
     id: 139,
     nameBrass: 'La Roof',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2310,7 +2310,7 @@ const projectsData = [
   {
     id: 140,
     nameBrass: 'Les Comtes Maltés',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2324,7 +2324,7 @@ const projectsData = [
   {
     id: 138,
     nameBrass: 'Bulle de Paradis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2338,7 +2338,7 @@ const projectsData = [
   {
     id: 147,
     nameBrass: 'Gardiole',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2352,7 +2352,7 @@ const projectsData = [
   {
     id: 159,
     nameBrass: 'La Citadine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2366,7 +2366,7 @@ const projectsData = [
   {
     id: 141,
     nameBrass: 'Brasseurs de la Cité',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2380,7 +2380,7 @@ const projectsData = [
   {
     id: 158,
     nameBrass: 'Le Cochon Volant',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2394,7 +2394,7 @@ const projectsData = [
   {
     id: 156,
     nameBrass: 'La Mer à Boire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2408,7 +2408,7 @@ const projectsData = [
   {
     id: 155,
     nameBrass: 'La Fabelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2422,7 +2422,7 @@ const projectsData = [
   {
     id: 146,
     nameBrass: 'Dona Carcas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2436,7 +2436,7 @@ const projectsData = [
   {
     id: 152,
     nameBrass: 'La Mandra',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2450,7 +2450,7 @@ const projectsData = [
   {
     id: 145,
     nameBrass: 'aux Archanges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2464,7 +2464,7 @@ const projectsData = [
   {
     id: 160,
     nameBrass: 'Bolingue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2478,7 +2478,7 @@ const projectsData = [
   {
     id: 142,
     nameBrass: 'de Notre Dame',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2492,7 +2492,7 @@ const projectsData = [
   {
     id: 143,
     nameBrass: "L'Antre de l'Echoppe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2506,7 +2506,7 @@ const projectsData = [
   {
     id: 144,
     nameBrass: 'Les Têtes Plates',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2520,7 +2520,7 @@ const projectsData = [
   {
     id: 148,
     nameBrass: 'OOF',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2534,7 +2534,7 @@ const projectsData = [
   {
     id: 154,
     nameBrass: 'La Cuvée du Barbu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2548,7 +2548,7 @@ const projectsData = [
   {
     id: 832,
     nameBrass: "L'Ale Humeuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2562,7 +2562,7 @@ const projectsData = [
   {
     id: 1707,
     nameBrass: 'Brasserie du Grand Paris',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2576,7 +2576,7 @@ const projectsData = [
   {
     id: 480,
     nameBrass: 'Les Eaux Vives',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2590,7 +2590,7 @@ const projectsData = [
   {
     id: 559,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2604,7 +2604,7 @@ const projectsData = [
   {
     id: 153,
     nameBrass: 'Parallèle 42',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2618,7 +2618,7 @@ const projectsData = [
   {
     id: 149,
     nameBrass: "La Fine'Aude",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2632,7 +2632,7 @@ const projectsData = [
   {
     id: 150,
     nameBrass: 'du Domaine des Cascades',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2646,7 +2646,7 @@ const projectsData = [
   {
     id: 157,
     nameBrass: '5 Bis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2660,7 +2660,7 @@ const projectsData = [
   {
     id: 151,
     nameBrass: 'du Quercorb',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2674,7 +2674,7 @@ const projectsData = [
   {
     id: 1153,
     nameBrass: 'Goudale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2688,7 +2688,7 @@ const projectsData = [
   {
     id: 169,
     nameBrass: 'de la Muze',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2702,7 +2702,7 @@ const projectsData = [
   {
     id: 165,
     nameBrass: 'Brasserie Ferme de la Rousse S',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2716,7 +2716,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2730,7 +2730,7 @@ const projectsData = [
   {
     id: 170,
     nameBrass: "de l'Aveyron",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2744,7 +2744,7 @@ const projectsData = [
   {
     id: 345,
     nameBrass: 'Lapépie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2758,7 +2758,7 @@ const projectsData = [
   {
     id: 162,
     nameBrass: 'La Calmettoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2772,7 +2772,7 @@ const projectsData = [
   {
     id: 1044,
     nameBrass: "d'Amblise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2786,7 +2786,7 @@ const projectsData = [
   {
     id: 161,
     nameBrass: 'des Grands Causses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2800,7 +2800,7 @@ const projectsData = [
   {
     id: 149,
     nameBrass: "La Fine'Aude",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2814,7 +2814,7 @@ const projectsData = [
   {
     id: 166,
     nameBrass: 'Mousses du Rouergue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2828,7 +2828,7 @@ const projectsData = [
   {
     id: 167,
     nameBrass: 'La Hocq',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2842,7 +2842,7 @@ const projectsData = [
   {
     id: 1153,
     nameBrass: 'Goudale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2856,7 +2856,7 @@ const projectsData = [
   {
     id: 183,
     nameBrass: 'La Doucillon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2870,7 +2870,7 @@ const projectsData = [
   {
     id: 408,
     nameBrass: 'Insulaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2884,7 +2884,7 @@ const projectsData = [
   {
     id: 179,
     nameBrass: 'Aquae Maltae',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2898,7 +2898,7 @@ const projectsData = [
   {
     id: 188,
     nameBrass: 'Artisanale de Provence (BAP)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2912,7 +2912,7 @@ const projectsData = [
   {
     id: 187,
     nameBrass: 'La Petite Aixoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2926,7 +2926,7 @@ const projectsData = [
   {
     id: 171,
     nameBrass: 'Heineken France',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2940,7 +2940,7 @@ const projectsData = [
   {
     id: 172,
     nameBrass: 'Rubé',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2954,7 +2954,7 @@ const projectsData = [
   {
     id: 173,
     nameBrass: 'Bière de la Plaine - site de S',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2968,7 +2968,7 @@ const projectsData = [
   {
     id: 174,
     nameBrass: 'Zoumaï',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2982,7 +2982,7 @@ const projectsData = [
   {
     id: 175,
     nameBrass: 'Entropy Brews',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -2996,7 +2996,7 @@ const projectsData = [
   {
     id: 176,
     nameBrass: 'Minot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3010,7 +3010,7 @@ const projectsData = [
   {
     id: 177,
     nameBrass: 'Bière de la Plaine - site de S',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3024,7 +3024,7 @@ const projectsData = [
   {
     id: 178,
     nameBrass: 'des Maltfaiteurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3038,7 +3038,7 @@ const projectsData = [
   {
     id: 189,
     nameBrass: 'AixPression',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3052,7 +3052,7 @@ const projectsData = [
   {
     id: 182,
     nameBrass: "L'Étang de Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3066,7 +3066,7 @@ const projectsData = [
   {
     id: 181,
     nameBrass: 'Arlatina',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3080,7 +3080,7 @@ const projectsData = [
   {
     id: 185,
     nameBrass: 'Les Deux Font La Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3094,7 +3094,7 @@ const projectsData = [
   {
     id: 180,
     nameBrass: 'de Sulauze',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3108,7 +3108,7 @@ const projectsData = [
   {
     id: 184,
     nameBrass: 'Artisanale Arlésienne (BAA)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3122,7 +3122,7 @@ const projectsData = [
   {
     id: 417,
     nameBrass: 'Bacquet & Cie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3136,7 +3136,7 @@ const projectsData = [
   {
     id: 204,
     nameBrass: 'Caval',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3150,7 +3150,7 @@ const projectsData = [
   {
     id: 1680,
     nameBrass: 'La Fringale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3164,7 +3164,7 @@ const projectsData = [
   {
     id: 198,
     nameBrass: 'Old Hop',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3178,7 +3178,7 @@ const projectsData = [
   {
     id: 194,
     nameBrass: 'Ouistreham',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3192,7 +3192,7 @@ const projectsData = [
   {
     id: 199,
     nameBrass: "Gris'Mouss",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3206,7 +3206,7 @@ const projectsData = [
   {
     id: 207,
     nameBrass: 'La Fresneysie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3220,7 +3220,7 @@ const projectsData = [
   {
     id: 208,
     nameBrass: 'Le Temps Qui Brasse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3234,7 +3234,7 @@ const projectsData = [
   {
     id: 193,
     nameBrass: 'Sagesse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3248,7 +3248,7 @@ const projectsData = [
   {
     id: 205,
     nameBrass: 'Funky Lama',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3262,7 +3262,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3276,7 +3276,7 @@ const projectsData = [
   {
     id: 195,
     nameBrass: 'du Hommey',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3290,7 +3290,7 @@ const projectsData = [
   {
     id: 212,
     nameBrass: 'des 9 Mondes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3304,7 +3304,7 @@ const projectsData = [
   {
     id: 201,
     nameBrass: 'La Voie Lactée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3318,7 +3318,7 @@ const projectsData = [
   {
     id: 192,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3332,7 +3332,7 @@ const projectsData = [
   {
     id: 232,
     nameBrass: 'Bière de la Lanterne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3347,7 +3347,7 @@ const projectsData = [
     id: 233,
     nameBrass: 'Maison Bastard',
     nameTown: 'PÉRIGNY',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3360,7 +3360,7 @@ const projectsData = [
   {
     id: 190,
     nameBrass: 'La Bieregerie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3374,7 +3374,7 @@ const projectsData = [
   {
     id: 191,
     nameBrass: 'La Mouette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3388,7 +3388,7 @@ const projectsData = [
   {
     id: 196,
     nameBrass: "de l'Odon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3402,7 +3402,7 @@ const projectsData = [
   {
     id: 206,
     nameBrass: 'Bel Orge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3416,7 +3416,7 @@ const projectsData = [
   {
     id: 1152,
     nameBrass: 'Saint-Omer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3430,7 +3430,7 @@ const projectsData = [
   {
     id: 211,
     nameBrass: 'Normandy Beer Factory',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3444,7 +3444,7 @@ const projectsData = [
   {
     id: 213,
     nameBrass: 'Buron Saint Georges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3458,7 +3458,7 @@ const projectsData = [
   {
     id: 214,
     nameBrass: 'Ateliers 360',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3472,7 +3472,7 @@ const projectsData = [
   {
     id: 106,
     nameBrass: 'Longue Vie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3486,7 +3486,7 @@ const projectsData = [
   {
     id: 559,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3500,7 +3500,7 @@ const projectsData = [
   {
     id: 215,
     nameBrass: 'des Estives',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3514,7 +3514,7 @@ const projectsData = [
   {
     id: 40,
     nameBrass: "Mam'zelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3528,7 +3528,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3542,7 +3542,7 @@ const projectsData = [
   {
     id: 225,
     nameBrass: 'Rainette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3556,7 +3556,7 @@ const projectsData = [
   {
     id: 227,
     nameBrass: 'Brunack',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3570,7 +3570,7 @@ const projectsData = [
   {
     id: 226,
     nameBrass: 'Metal Snail',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3584,7 +3584,7 @@ const projectsData = [
   {
     id: 678,
     nameBrass: 'Les Dameuses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3598,7 +3598,7 @@ const projectsData = [
   {
     id: 563,
     nameBrass: "L'Effet Papillon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3612,7 +3612,7 @@ const projectsData = [
   {
     id: 564,
     nameBrass: 'My Little Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3626,7 +3626,7 @@ const projectsData = [
   {
     id: 222,
     nameBrass: 'La Goule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3640,7 +3640,7 @@ const projectsData = [
   {
     id: 375,
     nameBrass: 'Les Bières à Jean-Louis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3654,7 +3654,7 @@ const projectsData = [
   {
     id: 376,
     nameBrass: 'La Valentinoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3668,7 +3668,7 @@ const projectsData = [
   {
     id: 219,
     nameBrass: 'des Gabariers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3682,7 +3682,7 @@ const projectsData = [
   {
     id: 228,
     nameBrass: 'La Cervoisière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3696,7 +3696,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3710,7 +3710,7 @@ const projectsData = [
   {
     id: 223,
     nameBrass: 'CharentAles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3724,7 +3724,7 @@ const projectsData = [
   {
     id: 225,
     nameBrass: 'Rainette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3738,7 +3738,7 @@ const projectsData = [
   {
     id: 221,
     nameBrass: 'La Nouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3752,7 +3752,7 @@ const projectsData = [
   {
     id: 218,
     nameBrass: 'La Débauche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3766,7 +3766,7 @@ const projectsData = [
   {
     id: 245,
     nameBrass: 'La Chafouineuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3780,7 +3780,7 @@ const projectsData = [
   {
     id: 232,
     nameBrass: 'Bière de la Lanterne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3794,7 +3794,7 @@ const projectsData = [
   {
     id: 233,
     nameBrass: 'Maison Bastard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3808,7 +3808,7 @@ const projectsData = [
   {
     id: 475,
     nameBrass: 'La Castagne du Cévenol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3822,7 +3822,7 @@ const projectsData = [
   {
     id: 241,
     nameBrass: "de la Presqu'île d'Arvert",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3836,7 +3836,7 @@ const projectsData = [
   {
     id: 237,
     nameBrass: 'BOC 17',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3850,7 +3850,7 @@ const projectsData = [
   {
     id: 229,
     nameBrass: 'Science Infuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3864,7 +3864,7 @@ const projectsData = [
   {
     id: 230,
     nameBrass: 'La Bière Michelaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3878,7 +3878,7 @@ const projectsData = [
   {
     id: 234,
     nameBrass: 'des Naufrageurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3892,7 +3892,7 @@ const projectsData = [
   {
     id: 240,
     nameBrass: "La Beun'aise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3906,7 +3906,7 @@ const projectsData = [
   {
     id: 244,
     nameBrass: 'Thiéfine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3920,7 +3920,7 @@ const projectsData = [
   {
     id: 235,
     nameBrass: 'des 3 Phares',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3934,7 +3934,7 @@ const projectsData = [
   {
     id: 243,
     nameBrass: 'Fort Boyard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3948,7 +3948,7 @@ const projectsData = [
   {
     id: 758,
     nameBrass: 'Vellavia',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3962,7 +3962,7 @@ const projectsData = [
   {
     id: 239,
     nameBrass: 'Golote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3976,7 +3976,7 @@ const projectsData = [
   {
     id: 236,
     nameBrass: 'Casse-Cou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -3990,7 +3990,7 @@ const projectsData = [
   {
     id: 1202,
     nameBrass: 'Hylalegans',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4004,7 +4004,7 @@ const projectsData = [
   {
     id: 246,
     nameBrass: 'Bières de Ré',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4018,7 +4018,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4032,7 +4032,7 @@ const projectsData = [
   {
     id: 242,
     nameBrass: 'La Rieuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4046,7 +4046,7 @@ const projectsData = [
   {
     id: 563,
     nameBrass: "L'Effet Papillon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4060,7 +4060,7 @@ const projectsData = [
   {
     id: 564,
     nameBrass: 'My Little Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4074,7 +4074,7 @@ const projectsData = [
   {
     id: 231,
     nameBrass: 'Garvoul',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4088,7 +4088,7 @@ const projectsData = [
   {
     id: 247,
     nameBrass: 'Les Brasseurs du Bercloux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4102,7 +4102,7 @@ const projectsData = [
   {
     id: 238,
     nameBrass: 'Brasseurs Cueilleurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4116,7 +4116,7 @@ const projectsData = [
   {
     id: 249,
     nameBrass: 'Le Pavillon de Précy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4130,7 +4130,7 @@ const projectsData = [
   {
     id: 252,
     nameBrass: 'Ouche Nanon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4144,7 +4144,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4158,7 +4158,7 @@ const projectsData = [
   {
     id: 250,
     nameBrass: "de l'Arnon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4172,7 +4172,7 @@ const projectsData = [
   {
     id: 251,
     nameBrass: 'Sancerroise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4186,7 +4186,7 @@ const projectsData = [
   {
     id: 248,
     nameBrass: 'Bos',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4200,7 +4200,7 @@ const projectsData = [
   {
     id: 327,
     nameBrass: 'du Sud-Ouest',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4214,7 +4214,7 @@ const projectsData = [
   {
     id: 255,
     nameBrass: 'de la Vézère',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4228,7 +4228,7 @@ const projectsData = [
   {
     id: 257,
     nameBrass: 'des Anges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4242,7 +4242,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4256,7 +4256,7 @@ const projectsData = [
   {
     id: 258,
     nameBrass: 'Corrézienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4270,7 +4270,7 @@ const projectsData = [
   {
     id: 259,
     nameBrass: 'du Causse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4284,7 +4284,7 @@ const projectsData = [
   {
     id: 256,
     nameBrass: 'Fonseca',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4298,7 +4298,7 @@ const projectsData = [
   {
     id: 253,
     nameBrass: 'Gaillarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4312,7 +4312,7 @@ const projectsData = [
   {
     id: 254,
     nameBrass: 'La Banou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4326,7 +4326,7 @@ const projectsData = [
   {
     id: 1656,
     nameBrass: 'du Mont Fleuri',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4340,7 +4340,7 @@ const projectsData = [
   {
     id: 282,
     nameBrass: "des Sources de l'Ouche",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4354,7 +4354,7 @@ const projectsData = [
   {
     id: 289,
     nameBrass: 'Elixkir',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4368,7 +4368,7 @@ const projectsData = [
   {
     id: 271,
     nameBrass: 'des Trois Fontaines',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4382,7 +4382,7 @@ const projectsData = [
   {
     id: 285,
     nameBrass: 'Burgundian Beer By Belin (4B)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4396,7 +4396,7 @@ const projectsData = [
   {
     id: 272,
     nameBrass: 'des Ducs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4410,7 +4410,7 @@ const projectsData = [
   {
     id: 283,
     nameBrass: 'de la Roche Aigüe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4424,7 +4424,7 @@ const projectsData = [
   {
     id: 276,
     nameBrass: 'La Roteuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4438,7 +4438,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4452,7 +4452,7 @@ const projectsData = [
   {
     id: 275,
     nameBrass: 'Belenium',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4466,7 +4466,7 @@ const projectsData = [
   {
     id: 278,
     nameBrass: 'Zuthos',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4480,7 +4480,7 @@ const projectsData = [
   {
     id: 284,
     nameBrass: 'La Kanopée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4494,7 +4494,7 @@ const projectsData = [
   {
     id: 270,
     nameBrass: "de l'Arquebuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4508,7 +4508,7 @@ const projectsData = [
   {
     id: 286,
     nameBrass: 'Bois des Mousses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4522,7 +4522,7 @@ const projectsData = [
   {
     id: 728,
     nameBrass: "L'Arrosoir",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4536,7 +4536,7 @@ const projectsData = [
   {
     id: 277,
     nameBrass: 'Petitdemange',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4550,7 +4550,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4564,7 +4564,7 @@ const projectsData = [
   {
     id: 290,
     nameBrass: 'Sully',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4578,7 +4578,7 @@ const projectsData = [
   {
     id: 280,
     nameBrass: 'de la Résurgence',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4592,7 +4592,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4606,7 +4606,7 @@ const projectsData = [
   {
     id: 281,
     nameBrass: 'Burgonde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4620,7 +4620,7 @@ const projectsData = [
   {
     id: 287,
     nameBrass: 'Independent House',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4634,7 +4634,7 @@ const projectsData = [
   {
     id: 303,
     nameBrass: 'La Fréheloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4648,7 +4648,7 @@ const projectsData = [
   {
     id: 294,
     nameBrass: 'La Quévertoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4662,7 +4662,7 @@ const projectsData = [
   {
     id: 295,
     nameBrass: 'Grobul Factory',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4676,7 +4676,7 @@ const projectsData = [
   {
     id: 314,
     nameBrass: 'Uncle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4690,7 +4690,7 @@ const projectsData = [
   {
     id: 18,
     nameBrass: 'Grange Noire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4704,7 +4704,7 @@ const projectsData = [
   {
     id: 310,
     nameBrass: 'de Paimpol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4718,7 +4718,7 @@ const projectsData = [
   {
     id: 298,
     nameBrass: 'Les Fous',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4732,7 +4732,7 @@ const projectsData = [
   {
     id: 291,
     nameBrass: 'de St Brieuc (La Guernouillett',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4746,7 +4746,7 @@ const projectsData = [
   {
     id: 302,
     nameBrass: 'Follette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4760,7 +4760,7 @@ const projectsData = [
   {
     id: 300,
     nameBrass: 'Distoufer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4774,7 +4774,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4788,7 +4788,7 @@ const projectsData = [
   {
     id: 305,
     nameBrass: 'Kerampont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4802,7 +4802,7 @@ const projectsData = [
   {
     id: 306,
     nameBrass: 'Distillerie Warenghem',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4816,7 +4816,7 @@ const projectsData = [
   {
     id: 297,
     nameBrass: 'de Launay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4830,7 +4830,7 @@ const projectsData = [
   {
     id: 309,
     nameBrass: 'Les Kozh Perdues',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4844,7 +4844,7 @@ const projectsData = [
   {
     id: 311,
     nameBrass: "L'Hirondelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4858,7 +4858,7 @@ const projectsData = [
   {
     id: 312,
     nameBrass: 'KanArFoll',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4872,7 +4872,7 @@ const projectsData = [
   {
     id: 299,
     nameBrass: 'La Ville Porte Amour',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4886,7 +4886,7 @@ const projectsData = [
   {
     id: 296,
     nameBrass: 'Dimezell',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4900,7 +4900,7 @@ const projectsData = [
   {
     id: 308,
     nameBrass: 'La Nordé',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4914,7 +4914,7 @@ const projectsData = [
   {
     id: 292,
     nameBrass: 'de Dinan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4928,7 +4928,7 @@ const projectsData = [
   {
     id: 293,
     nameBrass: 'des Alizés',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4942,7 +4942,7 @@ const projectsData = [
   {
     id: 304,
     nameBrass: 'du Saint Esprit',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4956,7 +4956,7 @@ const projectsData = [
   {
     id: 313,
     nameBrass: 'Associative du Canal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4970,7 +4970,7 @@ const projectsData = [
   {
     id: 301,
     nameBrass: 'Touken',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4984,7 +4984,7 @@ const projectsData = [
   {
     id: 315,
     nameBrass: "de l'Arguenon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -4998,7 +4998,7 @@ const projectsData = [
   {
     id: 317,
     nameBrass: 'La 23',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5012,7 +5012,7 @@ const projectsData = [
   {
     id: 316,
     nameBrass: 'Chez Bostedechez',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5026,7 +5026,7 @@ const projectsData = [
   {
     id: 319,
     nameBrass: 'de la Forge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5040,7 +5040,7 @@ const projectsData = [
   {
     id: 321,
     nameBrass: 'La Marsienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5054,7 +5054,7 @@ const projectsData = [
   {
     id: 236,
     nameBrass: 'Casse-Cou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5068,7 +5068,7 @@ const projectsData = [
   {
     id: 318,
     nameBrass: 'La Capsule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5082,7 +5082,7 @@ const projectsData = [
   {
     id: 320,
     nameBrass: 'de la Creuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5096,7 +5096,7 @@ const projectsData = [
   {
     id: 106,
     nameBrass: 'Longue Vie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5110,7 +5110,7 @@ const projectsData = [
   {
     id: 334,
     nameBrass: 'Ferme Laubicherie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5124,7 +5124,7 @@ const projectsData = [
   {
     id: 343,
     nameBrass: 'La Lutine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5138,7 +5138,7 @@ const projectsData = [
   {
     id: 350,
     nameBrass: 'Champdoré',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5152,7 +5152,7 @@ const projectsData = [
   {
     id: 326,
     nameBrass: 'La Courte Echelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5166,7 +5166,7 @@ const projectsData = [
   {
     id: 344,
     nameBrass: 'Bière de la Bastide',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5180,7 +5180,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5194,7 +5194,7 @@ const projectsData = [
   {
     id: 1586,
     nameBrass: "Les Brasseurs de l'Estérel",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5208,7 +5208,7 @@ const projectsData = [
   {
     id: 346,
     nameBrass: 'FAB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5222,7 +5222,7 @@ const projectsData = [
   {
     id: 332,
     nameBrass: 'Ecomusée Le Bournat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5236,7 +5236,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5250,7 +5250,7 @@ const projectsData = [
   {
     id: 328,
     nameBrass: 'Artisanale de Sarlat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5264,7 +5264,7 @@ const projectsData = [
   {
     id: 329,
     nameBrass: 'Bière de Sarlat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5278,7 +5278,7 @@ const projectsData = [
   {
     id: 330,
     nameBrass: 'du Roc Mol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5292,7 +5292,7 @@ const projectsData = [
   {
     id: 322,
     nameBrass: 'Martux Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5306,7 +5306,7 @@ const projectsData = [
   {
     id: 348,
     nameBrass: "L'Effrontée",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5320,7 +5320,7 @@ const projectsData = [
   {
     id: 342,
     nameBrass: 'de Saint Saud',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5334,7 +5334,7 @@ const projectsData = [
   {
     id: 1563,
     nameBrass: "de l'Oustal",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5348,7 +5348,7 @@ const projectsData = [
   {
     id: 339,
     nameBrass: 'Dobla',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5362,7 +5362,7 @@ const projectsData = [
   {
     id: 337,
     nameBrass: 'Hydrophobie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5376,7 +5376,7 @@ const projectsData = [
   {
     id: 1202,
     nameBrass: 'Hylalegans',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5390,7 +5390,7 @@ const projectsData = [
   {
     id: 345,
     nameBrass: 'Lapépie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5404,7 +5404,7 @@ const projectsData = [
   {
     id: 327,
     nameBrass: 'du Sud-Ouest',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5418,7 +5418,7 @@ const projectsData = [
   {
     id: 325,
     nameBrass: "La Fraich'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5432,7 +5432,7 @@ const projectsData = [
   {
     id: 351,
     nameBrass: "Le Père l'Amer",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5446,7 +5446,7 @@ const projectsData = [
   {
     id: 335,
     nameBrass: 'des 2 Ours',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5460,7 +5460,7 @@ const projectsData = [
   {
     id: 347,
     nameBrass: 'Kormann Bières',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5474,7 +5474,7 @@ const projectsData = [
   {
     id: 340,
     nameBrass: 'BAM (Brasserie Artisanale de M',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5488,7 +5488,7 @@ const projectsData = [
   {
     id: 338,
     nameBrass: 'du Chanoine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5502,7 +5502,7 @@ const projectsData = [
   {
     id: 333,
     nameBrass: 'des Grands Maux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5516,7 +5516,7 @@ const projectsData = [
   {
     id: 323,
     nameBrass: "La Plume et l'Epi",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5530,7 +5530,7 @@ const projectsData = [
   {
     id: 361,
     nameBrass: 'Bière Boutique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5544,7 +5544,7 @@ const projectsData = [
   {
     id: 373,
     nameBrass: "d'Epenoy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5558,7 +5558,7 @@ const projectsData = [
   {
     id: 369,
     nameBrass: 'Terra Comtix',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5572,7 +5572,7 @@ const projectsData = [
   {
     id: 362,
     nameBrass: 'Bière du Doubs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5586,7 +5586,7 @@ const projectsData = [
   {
     id: 357,
     nameBrass: 'La Cude',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5600,7 +5600,7 @@ const projectsData = [
   {
     id: 366,
     nameBrass: 'Nimbus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5614,7 +5614,7 @@ const projectsData = [
   {
     id: 363,
     nameBrass: 'Passporte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5628,7 +5628,7 @@ const projectsData = [
   {
     id: 358,
     nameBrass: 'La Bonne Bouille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5642,7 +5642,7 @@ const projectsData = [
   {
     id: 360,
     nameBrass: 'La Hocheuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5656,7 +5656,7 @@ const projectsData = [
   {
     id: 370,
     nameBrass: 'LX',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5670,7 +5670,7 @@ const projectsData = [
   {
     id: 367,
     nameBrass: 'de la Quiotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5684,7 +5684,7 @@ const projectsData = [
   {
     id: 356,
     nameBrass: 'de la Carrière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5698,7 +5698,7 @@ const projectsData = [
   {
     id: 365,
     nameBrass: 'des Fontaines de Jouvence',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5712,7 +5712,7 @@ const projectsData = [
   {
     id: 372,
     nameBrass: 'Bière À Bichu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5726,7 +5726,7 @@ const projectsData = [
   {
     id: 368,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5740,7 +5740,7 @@ const projectsData = [
   {
     id: 371,
     nameBrass: "Les Brassins de l'Enfer",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5754,7 +5754,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5768,7 +5768,7 @@ const projectsData = [
   {
     id: 374,
     nameBrass: 'Entre 2 Mondes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5782,7 +5782,7 @@ const projectsData = [
   {
     id: 359,
     nameBrass: 'Kite',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5796,7 +5796,7 @@ const projectsData = [
   {
     id: 352,
     nameBrass: 'du Pintadier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5810,7 +5810,7 @@ const projectsData = [
   {
     id: 353,
     nameBrass: 'Gangloff',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5824,7 +5824,7 @@ const projectsData = [
   {
     id: 354,
     nameBrass: 'Les 2 Fûts',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5838,7 +5838,7 @@ const projectsData = [
   {
     id: 355,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5852,7 +5852,7 @@ const projectsData = [
   {
     id: 1241,
     nameBrass: 'de Framont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5866,7 +5866,7 @@ const projectsData = [
   {
     id: 364,
     nameBrass: 'Cuc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5880,7 +5880,7 @@ const projectsData = [
   {
     id: 397,
     nameBrass: 'Cabule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5894,7 +5894,7 @@ const projectsData = [
   {
     id: 379,
     nameBrass: 'Artisanale du Sud',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5908,7 +5908,7 @@ const projectsData = [
   {
     id: 377,
     nameBrass: 'Bière Jacquemart',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5922,7 +5922,7 @@ const projectsData = [
   {
     id: 378,
     nameBrass: 'Traffic Jam',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5936,7 +5936,7 @@ const projectsData = [
   {
     id: 387,
     nameBrass: 'des Petites Goulées',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5950,7 +5950,7 @@ const projectsData = [
   {
     id: 399,
     nameBrass: 'des Utopies',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5964,7 +5964,7 @@ const projectsData = [
   {
     id: 375,
     nameBrass: 'Les Bières à Jean-Louis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5978,7 +5978,7 @@ const projectsData = [
   {
     id: 376,
     nameBrass: 'La Valentinoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -5992,7 +5992,7 @@ const projectsData = [
   {
     id: 391,
     nameBrass: 'Les Gens Sérieux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6006,7 +6006,7 @@ const projectsData = [
   {
     id: 394,
     nameBrass: 'La Bascule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6020,7 +6020,7 @@ const projectsData = [
   {
     id: 384,
     nameBrass: 'La Manivelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6034,7 +6034,7 @@ const projectsData = [
   {
     id: 385,
     nameBrass: 'Diwaz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6048,7 +6048,7 @@ const projectsData = [
   {
     id: 393,
     nameBrass: 'du Val de Drôme',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6062,7 +6062,7 @@ const projectsData = [
   {
     id: 388,
     nameBrass: "La FAB'rique",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6076,7 +6076,7 @@ const projectsData = [
   {
     id: 386,
     nameBrass: 'La Vieille Mule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6090,7 +6090,7 @@ const projectsData = [
   {
     id: 395,
     nameBrass: "Cav'Ale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6104,7 +6104,7 @@ const projectsData = [
   {
     id: 401,
     nameBrass: 'du Haut Buëch',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6118,7 +6118,7 @@ const projectsData = [
   {
     id: 400,
     nameBrass: 'Hildegarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6132,7 +6132,7 @@ const projectsData = [
   {
     id: 398,
     nameBrass: 'CCB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6146,7 +6146,7 @@ const projectsData = [
   {
     id: 383,
     nameBrass: 'Ferme-brasserie Déluge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6160,7 +6160,7 @@ const projectsData = [
   {
     id: 402,
     nameBrass: 'St Sauveur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6174,7 +6174,7 @@ const projectsData = [
   {
     id: 392,
     nameBrass: 'La Brasserie des Trois Becs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6188,7 +6188,7 @@ const projectsData = [
   {
     id: 382,
     nameBrass: 'de la Pleine Lune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6202,7 +6202,7 @@ const projectsData = [
   {
     id: 396,
     nameBrass: 'du Slalom',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6216,7 +6216,7 @@ const projectsData = [
   {
     id: 406,
     nameBrass: 'De Sutter',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6230,7 +6230,7 @@ const projectsData = [
   {
     id: 413,
     nameBrass: 'Duplessi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6244,7 +6244,7 @@ const projectsData = [
   {
     id: 405,
     nameBrass: 'La Chambraysienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6258,7 +6258,7 @@ const projectsData = [
   {
     id: 410,
     nameBrass: "de l'Apocalypse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6272,7 +6272,7 @@ const projectsData = [
   {
     id: 415,
     nameBrass: 'de la Gobette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6286,7 +6286,7 @@ const projectsData = [
   {
     id: 407,
     nameBrass: 'de la Vallée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6300,7 +6300,7 @@ const projectsData = [
   {
     id: 416,
     nameBrass: 'Spore',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6314,7 +6314,7 @@ const projectsData = [
   {
     id: 408,
     nameBrass: 'Insulaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6328,7 +6328,7 @@ const projectsData = [
   {
     id: 411,
     nameBrass: "La Fabrik du Brass'Eure",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6342,7 +6342,7 @@ const projectsData = [
   {
     id: 403,
     nameBrass: 'Les Deux Amants',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6356,7 +6356,7 @@ const projectsData = [
   {
     id: 414,
     nameBrass: 'Boujou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6370,7 +6370,7 @@ const projectsData = [
   {
     id: 412,
     nameBrass: 'Le Goubelin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6384,7 +6384,7 @@ const projectsData = [
   {
     id: 404,
     nameBrass: 'Astronautus Brewer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6398,7 +6398,7 @@ const projectsData = [
   {
     id: 808,
     nameBrass: 'des Rateliers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6412,7 +6412,7 @@ const projectsData = [
   {
     id: 422,
     nameBrass: 'de la Vallée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6426,7 +6426,7 @@ const projectsData = [
   {
     id: 1701,
     nameBrass: 'Croix de Chavaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6440,7 +6440,7 @@ const projectsData = [
   {
     id: 1702,
     nameBrass: 'Drum&Brass Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6454,7 +6454,7 @@ const projectsData = [
   {
     id: 1703,
     nameBrass: 'La Montreuilloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6468,7 +6468,7 @@ const projectsData = [
   {
     id: 418,
     nameBrass: 'des Quatre Fées',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6482,7 +6482,7 @@ const projectsData = [
   {
     id: 421,
     nameBrass: 'de Chandres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6496,7 +6496,7 @@ const projectsData = [
   {
     id: 417,
     nameBrass: 'Bacquet & Cie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6510,7 +6510,7 @@ const projectsData = [
   {
     id: 1412,
     nameBrass: 'Alpine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6524,7 +6524,7 @@ const projectsData = [
   {
     id: 423,
     nameBrass: 'du Glandin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6538,7 +6538,7 @@ const projectsData = [
   {
     id: 452,
     nameBrass: 'La Corbelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6552,7 +6552,7 @@ const projectsData = [
   {
     id: 444,
     nameBrass: "An Alarc'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6566,7 +6566,7 @@ const projectsData = [
   {
     id: 436,
     nameBrass: 'de Rozégat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6580,7 +6580,7 @@ const projectsData = [
   {
     id: 437,
     nameBrass: 'du Merlin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6594,7 +6594,7 @@ const projectsData = [
   {
     id: 429,
     nameBrass: 'Voie B',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6608,7 +6608,7 @@ const projectsData = [
   {
     id: 445,
     nameBrass: 'Goarem',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6622,7 +6622,7 @@ const projectsData = [
   {
     id: 434,
     nameBrass: 'Gloster Craft Ale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6636,7 +6636,7 @@ const projectsData = [
   {
     id: 440,
     nameBrass: 'du Bout du Monde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6650,7 +6650,7 @@ const projectsData = [
   {
     id: 442,
     nameBrass: "Da Bep Lec'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6664,7 +6664,7 @@ const projectsData = [
   {
     id: 425,
     nameBrass: 'Ar Vu Vihan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6678,7 +6678,7 @@ const projectsData = [
   {
     id: 446,
     nameBrass: 'de Pouldreuzic',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6692,7 +6692,7 @@ const projectsData = [
   {
     id: 454,
     nameBrass: 'de Cornouaille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6706,7 +6706,7 @@ const projectsData = [
   {
     id: 455,
     nameBrass: 'Tri Martolod',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6720,7 +6720,7 @@ const projectsData = [
   {
     id: 443,
     nameBrass: "Kerav'ale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6734,7 +6734,7 @@ const projectsData = [
   {
     id: 456,
     nameBrass: 'de Bretagne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6748,7 +6748,7 @@ const projectsData = [
   {
     id: 439,
     nameBrass: 'de Kerferman',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6762,7 +6762,7 @@ const projectsData = [
   {
     id: 448,
     nameBrass: 'de Trévarn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6776,7 +6776,7 @@ const projectsData = [
   {
     id: 430,
     nameBrass: "d'Istribilh",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6790,7 +6790,7 @@ const projectsData = [
   {
     id: 433,
     nameBrass: "de l'Imprimerie",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6804,7 +6804,7 @@ const projectsData = [
   {
     id: 451,
     nameBrass: 'Ti-Chope',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6818,7 +6818,7 @@ const projectsData = [
   {
     id: 449,
     nameBrass: 'Arvarus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6832,7 +6832,7 @@ const projectsData = [
   {
     id: 432,
     nameBrass: 'Les Radicaux Libres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6846,7 +6846,7 @@ const projectsData = [
   {
     id: 424,
     nameBrass: 'Brasserie Artisanale Connectée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6860,7 +6860,7 @@ const projectsData = [
   {
     id: 447,
     nameBrass: 'Merlin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6874,7 +6874,7 @@ const projectsData = [
   {
     id: 438,
     nameBrass: 'Les Flagrants Débits',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6888,7 +6888,7 @@ const projectsData = [
   {
     id: 435,
     nameBrass: 'La Ferme de Yel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6902,7 +6902,7 @@ const projectsData = [
   {
     id: 976,
     nameBrass: "de l'Hermine",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6916,7 +6916,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6930,7 +6930,7 @@ const projectsData = [
   {
     id: 431,
     nameBrass: 'Coreff',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6944,7 +6944,7 @@ const projectsData = [
   {
     id: 426,
     nameBrass: 'du Baril',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6958,7 +6958,7 @@ const projectsData = [
   {
     id: 427,
     nameBrass: "L'Urbaine",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6972,7 +6972,7 @@ const projectsData = [
   {
     id: 428,
     nameBrass: 'Poèm',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -6986,7 +6986,7 @@ const projectsData = [
   {
     id: 450,
     nameBrass: 'des Abers - Ets Adam',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7000,7 +7000,7 @@ const projectsData = [
   {
     id: 471,
     nameBrass: 'de Beaucaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7014,7 +7014,7 @@ const projectsData = [
   {
     id: 464,
     nameBrass: 'Les Bulles de Lafontaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7028,7 +7028,7 @@ const projectsData = [
   {
     id: 476,
     nameBrass: 'du Mas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7042,7 +7042,7 @@ const projectsData = [
   {
     id: 798,
     nameBrass: 'Bouyer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7056,7 +7056,7 @@ const projectsData = [
   {
     id: 1707,
     nameBrass: 'Brasserie du Grand Paris',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7070,7 +7070,7 @@ const projectsData = [
   {
     id: 461,
     nameBrass: 'La Brasse Rigolade',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7084,7 +7084,7 @@ const projectsData = [
   {
     id: 469,
     nameBrass: 'Borgne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7098,7 +7098,7 @@ const projectsData = [
   {
     id: 470,
     nameBrass: "L'Arcandier",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7112,7 +7112,7 @@ const projectsData = [
   {
     id: 481,
     nameBrass: 'La Calade',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7126,7 +7126,7 @@ const projectsData = [
   {
     id: 475,
     nameBrass: 'La Castagne du Cévenol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7140,7 +7140,7 @@ const projectsData = [
   {
     id: 477,
     nameBrass: "L'Atelier de Fermentation",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7154,7 +7154,7 @@ const projectsData = [
   {
     id: 478,
     nameBrass: 'Thibault',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7168,7 +7168,7 @@ const projectsData = [
   {
     id: 460,
     nameBrass: "d'Avèze",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7182,7 +7182,7 @@ const projectsData = [
   {
     id: 457,
     nameBrass: 'La Barbaude',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7196,7 +7196,7 @@ const projectsData = [
   {
     id: 458,
     nameBrass: 'La Brasserie de la Cave',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7210,7 +7210,7 @@ const projectsData = [
   {
     id: 483,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7224,7 +7224,7 @@ const projectsData = [
   {
     id: 484,
     nameBrass: "Les Chopins d'Abord",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7238,7 +7238,7 @@ const projectsData = [
   {
     id: 473,
     nameBrass: 'LeChevrel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7252,7 +7252,7 @@ const projectsData = [
   {
     id: 479,
     nameBrass: 'des Canaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7266,7 +7266,7 @@ const projectsData = [
   {
     id: 463,
     nameBrass: 'du Genre Humain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7280,7 +7280,7 @@ const projectsData = [
   {
     id: 825,
     nameBrass: 'Artisanale Ratz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7294,7 +7294,7 @@ const projectsData = [
   {
     id: 482,
     nameBrass: 'Meduz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7308,7 +7308,7 @@ const projectsData = [
   {
     id: 472,
     nameBrass: 'Globulles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7322,7 +7322,7 @@ const projectsData = [
   {
     id: 468,
     nameBrass: 'des Garrigues',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7336,7 +7336,7 @@ const projectsData = [
   {
     id: 467,
     nameBrass: 'Olystik',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7350,7 +7350,7 @@ const projectsData = [
   {
     id: 474,
     nameBrass: 'Laskar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7364,7 +7364,7 @@ const projectsData = [
   {
     id: 465,
     nameBrass: 'La Font du Vert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7378,7 +7378,7 @@ const projectsData = [
   {
     id: 480,
     nameBrass: 'Les Eaux Vives',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7392,7 +7392,7 @@ const projectsData = [
   {
     id: 462,
     nameBrass: "Bellegard'Elfe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7406,7 +7406,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7420,7 +7420,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7434,7 +7434,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7448,7 +7448,7 @@ const projectsData = [
   {
     id: 493,
     nameBrass: 'Leclerc Roques',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7462,7 +7462,7 @@ const projectsData = [
   {
     id: 492,
     nameBrass: 'du Vénasque',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7476,7 +7476,7 @@ const projectsData = [
   {
     id: 510,
     nameBrass: 'Le Veilleur de Bières',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7490,7 +7490,7 @@ const projectsData = [
   {
     id: 504,
     nameBrass: 'du Dounet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7504,7 +7504,7 @@ const projectsData = [
   {
     id: 517,
     nameBrass: "L'Excuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7518,7 +7518,7 @@ const projectsData = [
   {
     id: 513,
     nameBrass: 'Brasseur Toulousain (BBT)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7532,7 +7532,7 @@ const projectsData = [
   {
     id: 823,
     nameBrass: 'La Bouriane',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7546,7 +7546,7 @@ const projectsData = [
   {
     id: 149,
     nameBrass: "La Fine'Aude",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7560,7 +7560,7 @@ const projectsData = [
   {
     id: 507,
     nameBrass: 'La Cavalière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7574,7 +7574,7 @@ const projectsData = [
   {
     id: 512,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7588,7 +7588,7 @@ const projectsData = [
   {
     id: 533,
     nameBrass: 'La 3 Tertres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7602,7 +7602,7 @@ const projectsData = [
   {
     id: 485,
     nameBrass: 'Barallel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7616,7 +7616,7 @@ const projectsData = [
   {
     id: 486,
     nameBrass: 'Caporal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7630,7 +7630,7 @@ const projectsData = [
   {
     id: 487,
     nameBrass: 'du Bec',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7644,7 +7644,7 @@ const projectsData = [
   {
     id: 488,
     nameBrass: 'Frog & Rosbif',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7658,7 +7658,7 @@ const projectsData = [
   {
     id: 489,
     nameBrass: 'La Matabière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7672,7 +7672,7 @@ const projectsData = [
   {
     id: 490,
     nameBrass: 'Le Barboteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7686,7 +7686,7 @@ const projectsData = [
   {
     id: 491,
     nameBrass: 'The Hopscotch Pub & Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7700,7 +7700,7 @@ const projectsData = [
   {
     id: 502,
     nameBrass: 'La Garonnette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7714,7 +7714,7 @@ const projectsData = [
   {
     id: 509,
     nameBrass: 'de la Seillonne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7728,7 +7728,7 @@ const projectsData = [
   {
     id: 1570,
     nameBrass: 'Bélier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7742,7 +7742,7 @@ const projectsData = [
   {
     id: 1087,
     nameBrass: 'du Pays Flamand (site de Mervi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7756,7 +7756,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7770,7 +7770,7 @@ const projectsData = [
   {
     id: 494,
     nameBrass: 'Les Frères Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7784,7 +7784,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7798,7 +7798,7 @@ const projectsData = [
   {
     id: 516,
     nameBrass: 'du Midi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7812,7 +7812,7 @@ const projectsData = [
   {
     id: 511,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7826,7 +7826,7 @@ const projectsData = [
   {
     id: 501,
     nameBrass: 'La Biérataise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7840,7 +7840,7 @@ const projectsData = [
   {
     id: 500,
     nameBrass: 'Domaine du Cap',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7854,7 +7854,7 @@ const projectsData = [
   {
     id: 505,
     nameBrass: 'BYB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7868,7 +7868,7 @@ const projectsData = [
   {
     id: 506,
     nameBrass: 'La Braxéenne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7882,7 +7882,7 @@ const projectsData = [
   {
     id: 837,
     nameBrass: '4.7',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7896,7 +7896,7 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'La Canya',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7910,7 +7910,7 @@ const projectsData = [
   {
     id: 18,
     nameBrass: 'Grange Noire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7924,7 +7924,7 @@ const projectsData = [
   {
     id: 497,
     nameBrass: 'La Perle Toulousaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7938,7 +7938,7 @@ const projectsData = [
   {
     id: 496,
     nameBrass: 'Breguet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7952,7 +7952,7 @@ const projectsData = [
   {
     id: 495,
     nameBrass: 'du Gué des Moines',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7966,7 +7966,7 @@ const projectsData = [
   {
     id: 503,
     nameBrass: 'Aurignac Ale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7980,7 +7980,7 @@ const projectsData = [
   {
     id: 499,
     nameBrass: 'du Gobelet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -7994,7 +7994,7 @@ const projectsData = [
   {
     id: 799,
     nameBrass: 'du Pays de Retz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8008,7 +8008,7 @@ const projectsData = [
   {
     id: 498,
     nameBrass: "L'Abultère",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8022,7 +8022,7 @@ const projectsData = [
   {
     id: 514,
     nameBrass: 'Moehau',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8036,7 +8036,7 @@ const projectsData = [
   {
     id: 520,
     nameBrass: 'La Forge de la Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8050,7 +8050,7 @@ const projectsData = [
   {
     id: 518,
     nameBrass: 'La Cadette de Burosse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8064,7 +8064,7 @@ const projectsData = [
   {
     id: 522,
     nameBrass: 'La Roque',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8078,7 +8078,7 @@ const projectsData = [
   {
     id: 493,
     nameBrass: 'Leclerc Roques',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8092,7 +8092,7 @@ const projectsData = [
   {
     id: 524,
     nameBrass: 'Kanette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8106,7 +8106,7 @@ const projectsData = [
   {
     id: 462,
     nameBrass: "Bellegard'Elfe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8120,7 +8120,7 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'La Canya',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8134,7 +8134,7 @@ const projectsData = [
   {
     id: 345,
     nameBrass: 'Lapépie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8148,7 +8148,7 @@ const projectsData = [
   {
     id: 519,
     nameBrass: 'Jean Brasse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8162,7 +8162,7 @@ const projectsData = [
   {
     id: 525,
     nameBrass: 'La Ferme en Tension',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8176,7 +8176,7 @@ const projectsData = [
   {
     id: 517,
     nameBrass: "L'Excuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8190,7 +8190,7 @@ const projectsData = [
   {
     id: 471,
     nameBrass: 'de Beaucaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8204,7 +8204,7 @@ const projectsData = [
   {
     id: 521,
     nameBrass: 'du Vaillant Fourquet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8218,7 +8218,7 @@ const projectsData = [
   {
     id: 530,
     nameBrass: 'Domaine Pascaud SARL',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8232,7 +8232,7 @@ const projectsData = [
   {
     id: 554,
     nameBrass: 'KM5',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8246,7 +8246,7 @@ const projectsData = [
   {
     id: 532,
     nameBrass: 'Gueule de Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8260,7 +8260,7 @@ const projectsData = [
   {
     id: 615,
     nameBrass: 'Malt & Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8274,7 +8274,7 @@ const projectsData = [
   {
     id: 531,
     nameBrass: 'Naùera',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8288,7 +8288,7 @@ const projectsData = [
   {
     id: 533,
     nameBrass: 'La 3 Tertres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8302,7 +8302,7 @@ const projectsData = [
   {
     id: 556,
     nameBrass: 'Les Brasseurs de Margaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8316,7 +8316,7 @@ const projectsData = [
   {
     id: 551,
     nameBrass: 'Haut Canteloup (BHC)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8330,7 +8330,7 @@ const projectsData = [
   {
     id: 323,
     nameBrass: "La Plume et l'Epi",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8344,7 +8344,7 @@ const projectsData = [
   {
     id: 360,
     nameBrass: 'La Hocheuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8358,7 +8358,7 @@ const projectsData = [
   {
     id: 540,
     nameBrass: 'La Baroudeuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8372,7 +8372,7 @@ const projectsData = [
   {
     id: 567,
     nameBrass: 'La Louve Grise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8386,7 +8386,7 @@ const projectsData = [
   {
     id: 526,
     nameBrass: 'Au Nouveau Monde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8400,7 +8400,7 @@ const projectsData = [
   {
     id: 527,
     nameBrass: 'Azimut Brasserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8414,7 +8414,7 @@ const projectsData = [
   {
     id: 528,
     nameBrass: 'Frog & Rosbif',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8428,7 +8428,7 @@ const projectsData = [
   {
     id: 529,
     nameBrass: 'Lalune Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8442,7 +8442,7 @@ const projectsData = [
   {
     id: 547,
     nameBrass: 'Bordeaux Beer Factory',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8456,7 +8456,7 @@ const projectsData = [
   {
     id: 548,
     nameBrass: 'La Brasserie de Bacalan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8470,7 +8470,7 @@ const projectsData = [
   {
     id: 549,
     nameBrass: "La P'tite Martial",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8484,7 +8484,7 @@ const projectsData = [
   {
     id: 550,
     nameBrass: 'PIP (Pression Imparfaitement P',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8498,7 +8498,7 @@ const projectsData = [
   {
     id: 534,
     nameBrass: 'Béglaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8512,7 +8512,7 @@ const projectsData = [
   {
     id: 557,
     nameBrass: "Mad Occ'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8526,7 +8526,7 @@ const projectsData = [
   {
     id: 545,
     nameBrass: 'Burdigala',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8540,7 +8540,7 @@ const projectsData = [
   {
     id: 546,
     nameBrass: 'Mira',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8554,7 +8554,7 @@ const projectsData = [
   {
     id: 544,
     nameBrass: 'Brasseurs et Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8568,7 +8568,7 @@ const projectsData = [
   {
     id: 555,
     nameBrass: 'Dezutter',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8582,7 +8582,7 @@ const projectsData = [
   {
     id: 538,
     nameBrass: 'Garona',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8596,7 +8596,7 @@ const projectsData = [
   {
     id: 539,
     nameBrass: 'La Carassonne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8610,7 +8610,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8624,7 +8624,7 @@ const projectsData = [
   {
     id: 562,
     nameBrass: 'Moustous',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8638,7 +8638,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8652,7 +8652,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8666,7 +8666,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8680,7 +8680,7 @@ const projectsData = [
   {
     id: 565,
     nameBrass: "de l'Eyre",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8694,7 +8694,7 @@ const projectsData = [
   {
     id: 559,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8708,7 +8708,7 @@ const projectsData = [
   {
     id: 560,
     nameBrass: 'Gasconha',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8722,7 +8722,7 @@ const projectsData = [
   {
     id: 541,
     nameBrass: 'Tribu Zytha',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8736,7 +8736,7 @@ const projectsData = [
   {
     id: 552,
     nameBrass: 'Boissonnerie Générale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8750,7 +8750,7 @@ const projectsData = [
   {
     id: 553,
     nameBrass: 'du Cabestan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8764,7 +8764,7 @@ const projectsData = [
   {
     id: 563,
     nameBrass: "L'Effet Papillon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8778,7 +8778,7 @@ const projectsData = [
   {
     id: 564,
     nameBrass: 'My Little Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8792,7 +8792,7 @@ const projectsData = [
   {
     id: 561,
     nameBrass: 'Saint Léon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8806,7 +8806,7 @@ const projectsData = [
   {
     id: 566,
     nameBrass: 'Ici On Brasse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8820,7 +8820,7 @@ const projectsData = [
   {
     id: 542,
     nameBrass: 'La Petite Garonne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8834,7 +8834,7 @@ const projectsData = [
   {
     id: 558,
     nameBrass: "B's Bar",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8848,7 +8848,7 @@ const projectsData = [
   {
     id: 535,
     nameBrass: 'Terko',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8862,7 +8862,7 @@ const projectsData = [
   {
     id: 574,
     nameBrass: 'La Pointeuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8876,7 +8876,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8890,7 +8890,7 @@ const projectsData = [
   {
     id: 577,
     nameBrass: 'Zoobrew',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8904,7 +8904,7 @@ const projectsData = [
   {
     id: 580,
     nameBrass: "Kiss'Wing",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8918,7 +8918,7 @@ const projectsData = [
   {
     id: 588,
     nameBrass: 'des Aucels',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8932,7 +8932,7 @@ const projectsData = [
   {
     id: 591,
     nameBrass: 'La Brasserie du Lez',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8946,7 +8946,7 @@ const projectsData = [
   {
     id: 480,
     nameBrass: 'Les Eaux Vives',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8960,7 +8960,7 @@ const projectsData = [
   {
     id: 579,
     nameBrass: 'La Belle de Thongue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8974,7 +8974,7 @@ const projectsData = [
   {
     id: 581,
     nameBrass: 'Brescou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -8988,7 +8988,7 @@ const projectsData = [
   {
     id: 585,
     nameBrass: 'Alaryk',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9002,7 +9002,7 @@ const projectsData = [
   {
     id: 586,
     nameBrass: 'Catharsis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9016,7 +9016,7 @@ const projectsData = [
   {
     id: 587,
     nameBrass: 'Toria',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9030,7 +9030,7 @@ const projectsData = [
   {
     id: 584,
     nameBrass: 'du Petit Caboulot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9044,7 +9044,7 @@ const projectsData = [
   {
     id: 578,
     nameBrass: 'La Singulière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9058,7 +9058,7 @@ const projectsData = [
   {
     id: 576,
     nameBrass: 'Làsarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9072,7 +9072,7 @@ const projectsData = [
   {
     id: 589,
     nameBrass: 'des 3 Martyrs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9086,7 +9086,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9100,7 +9100,7 @@ const projectsData = [
   {
     id: 582,
     nameBrass: 'Trencavel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9114,7 +9114,7 @@ const projectsData = [
   {
     id: 575,
     nameBrass: 'La Bière du Docteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9128,7 +9128,7 @@ const projectsData = [
   {
     id: 583,
     nameBrass: 'de Raspailhac',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9142,7 +9142,7 @@ const projectsData = [
   {
     id: 590,
     nameBrass: 'La Malpolon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9156,7 +9156,7 @@ const projectsData = [
   {
     id: 1385,
     nameBrass: 'Les Délices de la Ferme',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9170,7 +9170,7 @@ const projectsData = [
   {
     id: 568,
     nameBrass: 'Hopulus Brewpub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9184,7 +9184,7 @@ const projectsData = [
   {
     id: 569,
     nameBrass: 'La Barbote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9198,7 +9198,7 @@ const projectsData = [
   {
     id: 570,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9212,7 +9212,7 @@ const projectsData = [
   {
     id: 571,
     nameBrass: 'La BAF (Bière Artisanale de Fi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9226,7 +9226,7 @@ const projectsData = [
   {
     id: 572,
     nameBrass: 'Le Détour',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9240,7 +9240,7 @@ const projectsData = [
   {
     id: 573,
     nameBrass: 'Drapeau Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9254,7 +9254,7 @@ const projectsData = [
   {
     id: 1562,
     nameBrass: 'Tanis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9268,7 +9268,7 @@ const projectsData = [
   {
     id: 825,
     nameBrass: 'Artisanale Ratz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9282,7 +9282,7 @@ const projectsData = [
   {
     id: 606,
     nameBrass: "de l'Ombre",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9296,7 +9296,7 @@ const projectsData = [
   {
     id: 615,
     nameBrass: 'Malt & Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9310,7 +9310,7 @@ const projectsData = [
   {
     id: 1412,
     nameBrass: 'Alpine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9324,7 +9324,7 @@ const projectsData = [
   {
     id: 592,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9338,7 +9338,7 @@ const projectsData = [
   {
     id: 593,
     nameBrass: 'Louarn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9352,7 +9352,7 @@ const projectsData = [
   {
     id: 594,
     nameBrass: 'RZN City Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9366,7 +9366,7 @@ const projectsData = [
   {
     id: 607,
     nameBrass: 'Les Brassins de Saint-Malo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9380,7 +9380,7 @@ const projectsData = [
   {
     id: 602,
     nameBrass: 'Torr Penn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9394,7 +9394,7 @@ const projectsData = [
   {
     id: 600,
     nameBrass: 'La Gaëlle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9408,7 +9408,7 @@ const projectsData = [
   {
     id: 610,
     nameBrass: 'de la Paumell',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9422,7 +9422,7 @@ const projectsData = [
   {
     id: 616,
     nameBrass: 'des Marais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9436,7 +9436,7 @@ const projectsData = [
   {
     id: 228,
     nameBrass: 'La Cervoisière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9450,7 +9450,7 @@ const projectsData = [
   {
     id: 601,
     nameBrass: "L'Embardée",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9464,7 +9464,7 @@ const projectsData = [
   {
     id: 608,
     nameBrass: "Brittany's",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9478,7 +9478,7 @@ const projectsData = [
   {
     id: 1678,
     nameBrass: 'de Vézelay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9492,7 +9492,7 @@ const projectsData = [
   {
     id: 603,
     nameBrass: 'Bosco',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9506,7 +9506,7 @@ const projectsData = [
   {
     id: 612,
     nameBrass: '3B - Bien Boire en Bretagne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9520,7 +9520,7 @@ const projectsData = [
   {
     id: 614,
     nameBrass: 'de la Bizhhh',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9534,7 +9534,7 @@ const projectsData = [
   {
     id: 605,
     nameBrass: 'Oblique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9548,7 +9548,7 @@ const projectsData = [
   {
     id: 619,
     nameBrass: "d'Emeraude",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9562,7 +9562,7 @@ const projectsData = [
   {
     id: 1536,
     nameBrass: 'Pelboise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9576,7 +9576,7 @@ const projectsData = [
   {
     id: 598,
     nameBrass: 'Tiens Bon La Barre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9590,7 +9590,7 @@ const projectsData = [
   {
     id: 618,
     nameBrass: 'Le Brasseur Bavarois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9604,7 +9604,7 @@ const projectsData = [
   {
     id: 599,
     nameBrass: 'de la Bretagne Romantique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9618,7 +9618,7 @@ const projectsData = [
   {
     id: 595,
     nameBrass: "C'est Brassé Près De Chez Vous",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9632,7 +9632,7 @@ const projectsData = [
   {
     id: 613,
     nameBrass: 'Drao',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9646,7 +9646,7 @@ const projectsData = [
   {
     id: 604,
     nameBrass: 'Athanor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9660,7 +9660,7 @@ const projectsData = [
   {
     id: 617,
     nameBrass: 'Skumenn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9674,7 +9674,7 @@ const projectsData = [
   {
     id: 611,
     nameBrass: 'du Tonnelier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9688,7 +9688,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9702,7 +9702,7 @@ const projectsData = [
   {
     id: 621,
     nameBrass: 'du Luma',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9716,7 +9716,7 @@ const projectsData = [
   {
     id: 622,
     nameBrass: 'La Brasserie Verte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9730,7 +9730,7 @@ const projectsData = [
   {
     id: 620,
     nameBrass: "Beer'Berry",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9744,7 +9744,7 @@ const projectsData = [
   {
     id: 625,
     nameBrass: 'La Palisse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9758,7 +9758,7 @@ const projectsData = [
   {
     id: 623,
     nameBrass: "L'Atelier de la Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9772,7 +9772,7 @@ const projectsData = [
   {
     id: 624,
     nameBrass: 'Porcupine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9786,7 +9786,7 @@ const projectsData = [
   {
     id: 632,
     nameBrass: 'Art Is An Ale Brewing',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9800,7 +9800,7 @@ const projectsData = [
   {
     id: 633,
     nameBrass: "d'Amboise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9814,7 +9814,7 @@ const projectsData = [
   {
     id: 636,
     nameBrass: 'de la Pigeonnelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9828,7 +9828,7 @@ const projectsData = [
   {
     id: 628,
     nameBrass: 'de la Rodaie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9842,7 +9842,7 @@ const projectsData = [
   {
     id: 631,
     nameBrass: "La P'tite Maiz'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9856,7 +9856,7 @@ const projectsData = [
   {
     id: 638,
     nameBrass: 'Bras(se)fort',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9870,7 +9870,7 @@ const projectsData = [
   {
     id: 637,
     nameBrass: 'La Gironnette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9884,7 +9884,7 @@ const projectsData = [
   {
     id: 634,
     nameBrass: 'La B.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9898,7 +9898,7 @@ const projectsData = [
   {
     id: 626,
     nameBrass: 'Le Crafty Brewpub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9912,7 +9912,7 @@ const projectsData = [
   {
     id: 1141,
     nameBrass: 'BCA2 - La Rivière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9926,7 +9926,7 @@ const projectsData = [
   {
     id: 627,
     nameBrass: 'du Perron',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9940,7 +9940,7 @@ const projectsData = [
   {
     id: 1625,
     nameBrass: 'La Cibulle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9954,7 +9954,7 @@ const projectsData = [
   {
     id: 639,
     nameBrass: 'Compagnie Lernéenne de Ferment',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9968,7 +9968,7 @@ const projectsData = [
   {
     id: 951,
     nameBrass: 'de Charmois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9982,7 +9982,7 @@ const projectsData = [
   {
     id: 629,
     nameBrass: "de l'Aurore",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -9996,7 +9996,7 @@ const projectsData = [
   {
     id: 640,
     nameBrass: 'Micro-Brasserie de Tours (MBT)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10010,7 +10010,7 @@ const projectsData = [
   {
     id: 635,
     nameBrass: 'Les Brasseurs Rabelaisiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10024,7 +10024,7 @@ const projectsData = [
   {
     id: 666,
     nameBrass: "de l'Ours Barbu",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10038,7 +10038,7 @@ const projectsData = [
   {
     id: 688,
     nameBrass: 'du Vercors',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10052,7 +10052,7 @@ const projectsData = [
   {
     id: 661,
     nameBrass: 'du Dauphiné',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10066,7 +10066,7 @@ const projectsData = [
   {
     id: 676,
     nameBrass: 'Peteukrane',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10080,7 +10080,7 @@ const projectsData = [
   {
     id: 677,
     nameBrass: 'Polack',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10094,7 +10094,7 @@ const projectsData = [
   {
     id: 690,
     nameBrass: 'Maltey',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10108,7 +10108,7 @@ const projectsData = [
   {
     id: 671,
     nameBrass: "L'Ivresse des Sommets",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10122,7 +10122,7 @@ const projectsData = [
   {
     id: 665,
     nameBrass: "L'Attract'Yves",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10136,7 +10136,7 @@ const projectsData = [
   {
     id: 672,
     nameBrass: 'de Chambaran',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10150,7 +10150,7 @@ const projectsData = [
   {
     id: 649,
     nameBrass: 'des Faux Semblables',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10164,7 +10164,7 @@ const projectsData = [
   {
     id: 904,
     nameBrass: 'Quelen',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10178,7 +10178,7 @@ const projectsData = [
   {
     id: 673,
     nameBrass: 'La Dourbie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10192,7 +10192,7 @@ const projectsData = [
   {
     id: 679,
     nameBrass: 'du Habert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10206,7 +10206,7 @@ const projectsData = [
   {
     id: 670,
     nameBrass: "Grésiv'ale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10220,7 +10220,7 @@ const projectsData = [
   {
     id: 648,
     nameBrass: 'Labo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10234,7 +10234,7 @@ const projectsData = [
   {
     id: 650,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10248,7 +10248,7 @@ const projectsData = [
   {
     id: 651,
     nameBrass: 'Une Petite Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10262,7 +10262,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10276,7 +10276,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10290,7 +10290,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10304,7 +10304,7 @@ const projectsData = [
   {
     id: 641,
     nameBrass: 'Dr D. Brewpub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10318,7 +10318,7 @@ const projectsData = [
   {
     id: 642,
     nameBrass: 'du Marrel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10332,7 +10332,7 @@ const projectsData = [
   {
     id: 643,
     nameBrass: "Kiltin'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10346,7 +10346,7 @@ const projectsData = [
   {
     id: 644,
     nameBrass: 'Maltobar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10360,7 +10360,7 @@ const projectsData = [
   {
     id: 645,
     nameBrass: 'Solstice',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10374,7 +10374,7 @@ const projectsData = [
   {
     id: 646,
     nameBrass: 'Irvoy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10388,7 +10388,7 @@ const projectsData = [
   {
     id: 647,
     nameBrass: "P'tit Labo",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10402,7 +10402,7 @@ const projectsData = [
   {
     id: 496,
     nameBrass: 'Breguet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10416,7 +10416,7 @@ const projectsData = [
   {
     id: 682,
     nameBrass: 'La Bonne Fabrique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10430,7 +10430,7 @@ const projectsData = [
   {
     id: 686,
     nameBrass: 'du Pieu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10444,7 +10444,7 @@ const projectsData = [
   {
     id: 669,
     nameBrass: 'du Haut-Vénéon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10458,7 +10458,7 @@ const projectsData = [
   {
     id: 660,
     nameBrass: 'La Marmotte Masquée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10472,7 +10472,7 @@ const projectsData = [
   {
     id: 652,
     nameBrass: 'de la Sanne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10486,7 +10486,7 @@ const projectsData = [
   {
     id: 674,
     nameBrass: 'Les Ateliers du Dauphiné',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10500,7 +10500,7 @@ const projectsData = [
   {
     id: 689,
     nameBrass: 'du Mont Aiguille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10514,7 +10514,7 @@ const projectsData = [
   {
     id: 667,
     nameBrass: "Bières de l'Oisans (BDO)",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10528,7 +10528,7 @@ const projectsData = [
   {
     id: 668,
     nameBrass: 'Goodwin Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10542,7 +10542,7 @@ const projectsData = [
   {
     id: 687,
     nameBrass: 'des Roches',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10556,7 +10556,7 @@ const projectsData = [
   {
     id: 657,
     nameBrass: 'des Cuves',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10570,7 +10570,7 @@ const projectsData = [
   {
     id: 658,
     nameBrass: 'La Furieuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10584,7 +10584,7 @@ const projectsData = [
   {
     id: 683,
     nameBrass: 'du Trièves',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10598,7 +10598,7 @@ const projectsData = [
   {
     id: 684,
     nameBrass: 'Fougère',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10612,7 +10612,7 @@ const projectsData = [
   {
     id: 685,
     nameBrass: 'La Belette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10626,7 +10626,7 @@ const projectsData = [
   {
     id: 663,
     nameBrass: 'des Ursulines',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10640,7 +10640,7 @@ const projectsData = [
   {
     id: 654,
     nameBrass: 'Les Bières du Temps',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10654,7 +10654,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10668,7 +10668,7 @@ const projectsData = [
   {
     id: 681,
     nameBrass: 'La Bière des Frères Clavel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10682,7 +10682,7 @@ const projectsData = [
   {
     id: 655,
     nameBrass: 'La Dame de Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10696,7 +10696,7 @@ const projectsData = [
   {
     id: 678,
     nameBrass: 'Les Dameuses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10710,7 +10710,7 @@ const projectsData = [
   {
     id: 675,
     nameBrass: "du Val d'Ainan",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10724,7 +10724,7 @@ const projectsData = [
   {
     id: 659,
     nameBrass: 'de Chartreuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10738,7 +10738,7 @@ const projectsData = [
   {
     id: 662,
     nameBrass: 'de Loursine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10752,7 +10752,7 @@ const projectsData = [
   {
     id: 705,
     nameBrass: 'Rauch',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10766,7 +10766,7 @@ const projectsData = [
   {
     id: 706,
     nameBrass: 'Piva',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10780,7 +10780,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10794,7 +10794,7 @@ const projectsData = [
   {
     id: 694,
     nameBrass: 'La Turbine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10808,7 +10808,7 @@ const projectsData = [
   {
     id: 708,
     nameBrass: 'La Franche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10822,7 +10822,7 @@ const projectsData = [
   {
     id: 700,
     nameBrass: 'Silézienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10836,7 +10836,7 @@ const projectsData = [
   {
     id: 695,
     nameBrass: 'La Perle Noire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10850,7 +10850,7 @@ const projectsData = [
   {
     id: 693,
     nameBrass: 'La Rouget de Lisle - RBM',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10864,7 +10864,7 @@ const projectsData = [
   {
     id: 703,
     nameBrass: 'des Trois Épis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10878,7 +10878,7 @@ const projectsData = [
   {
     id: 704,
     nameBrass: "L'Origine du Monde",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10892,7 +10892,7 @@ const projectsData = [
   {
     id: 701,
     nameBrass: 'Boduff',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10906,7 +10906,7 @@ const projectsData = [
   {
     id: 702,
     nameBrass: 'La Montagnette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10920,7 +10920,7 @@ const projectsData = [
   {
     id: 696,
     nameBrass: 'du Lizon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10934,7 +10934,7 @@ const projectsData = [
   {
     id: 692,
     nameBrass: 'Vachement Jura',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10948,7 +10948,7 @@ const projectsData = [
   {
     id: 711,
     nameBrass: 'des Babouins Jurassiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10962,7 +10962,7 @@ const projectsData = [
   {
     id: 712,
     nameBrass: "du Triangle d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10976,7 +10976,7 @@ const projectsData = [
   {
     id: 713,
     nameBrass: "Ecole Nationale d'Industrie La",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -10990,7 +10990,7 @@ const projectsData = [
   {
     id: 710,
     nameBrass: 'La Nocturne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11004,7 +11004,7 @@ const projectsData = [
   {
     id: 709,
     nameBrass: 'La Jurassique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11018,7 +11018,7 @@ const projectsData = [
   {
     id: 707,
     nameBrass: 'des Anciens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11032,7 +11032,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11046,7 +11046,7 @@ const projectsData = [
   {
     id: 697,
     nameBrass: 'Tavarn sur la Guette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11060,7 +11060,7 @@ const projectsData = [
   {
     id: 698,
     nameBrass: 'Overnoy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11074,7 +11074,7 @@ const projectsData = [
   {
     id: 699,
     nameBrass: 'Jurassic',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11088,7 +11088,7 @@ const projectsData = [
   {
     id: 225,
     nameBrass: 'Rainette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11102,7 +11102,7 @@ const projectsData = [
   {
     id: 691,
     nameBrass: 'La Doloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11116,7 +11116,7 @@ const projectsData = [
   {
     id: 728,
     nameBrass: "L'Arrosoir",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11130,7 +11130,7 @@ const projectsData = [
   {
     id: 723,
     nameBrass: 'Micromégas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11144,7 +11144,7 @@ const projectsData = [
   {
     id: 722,
     nameBrass: 'Aguiana',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11158,7 +11158,7 @@ const projectsData = [
   {
     id: 727,
     nameBrass: 'Kanaha Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11172,7 +11172,7 @@ const projectsData = [
   {
     id: 715,
     nameBrass: "Cath'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11186,7 +11186,7 @@ const projectsData = [
   {
     id: 720,
     nameBrass: 'Bruel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11200,7 +11200,7 @@ const projectsData = [
   {
     id: 717,
     nameBrass: 'La Petite Landaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11214,7 +11214,7 @@ const projectsData = [
   {
     id: 718,
     nameBrass: 'Naturelle des Landes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11243,7 +11243,7 @@ const projectsData = [
   {
     id: 714,
     nameBrass: 'Moune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '',
     address: '',
@@ -11257,7 +11257,7 @@ const projectsData = [
   {
     id: 719,
     nameBrass: 'Lou Gat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11271,7 +11271,7 @@ const projectsData = [
   {
     id: 1528,
     nameBrass: 'GranKa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11285,7 +11285,7 @@ const projectsData = [
   {
     id: 724,
     nameBrass: 'St Andrews Beach Brewing Compa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11299,7 +11299,7 @@ const projectsData = [
   {
     id: 725,
     nameBrass: 'La Séquère',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11313,7 +11313,7 @@ const projectsData = [
   {
     id: 726,
     nameBrass: 'Rosny',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11327,7 +11327,7 @@ const projectsData = [
   {
     id: 729,
     nameBrass: 'Heima',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11341,7 +11341,7 @@ const projectsData = [
   {
     id: 906,
     nameBrass: 'Champ Grenu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11355,7 +11355,7 @@ const projectsData = [
   {
     id: 907,
     nameBrass: 'Mont Hardi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11369,7 +11369,7 @@ const projectsData = [
   {
     id: 733,
     nameBrass: 'Guillaume',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11383,7 +11383,7 @@ const projectsData = [
   {
     id: 734,
     nameBrass: 'Sommier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11397,7 +11397,7 @@ const projectsData = [
   {
     id: 730,
     nameBrass: 'Hönigmann',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11411,7 +11411,7 @@ const projectsData = [
   {
     id: 232,
     nameBrass: 'Bière de la Lanterne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11425,7 +11425,7 @@ const projectsData = [
   {
     id: 233,
     nameBrass: 'Maison Bastard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11439,7 +11439,7 @@ const projectsData = [
   {
     id: 732,
     nameBrass: 'de Nanteuil',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11453,7 +11453,7 @@ const projectsData = [
   {
     id: 731,
     nameBrass: "La Bout'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11467,7 +11467,7 @@ const projectsData = [
   {
     id: 615,
     nameBrass: 'Malt & Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11481,7 +11481,7 @@ const projectsData = [
   {
     id: 755,
     nameBrass: 'Ateliers du Gier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11495,7 +11495,7 @@ const projectsData = [
   {
     id: 748,
     nameBrass: 'Miellerie Gachet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11509,7 +11509,7 @@ const projectsData = [
   {
     id: 754,
     nameBrass: 'Les Deux Branches',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11523,7 +11523,7 @@ const projectsData = [
   {
     id: 742,
     nameBrass: 'du Casino de Montrond',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11537,7 +11537,7 @@ const projectsData = [
   {
     id: 749,
     nameBrass: 'Indépendante Montbrisonnaise (',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11551,7 +11551,7 @@ const projectsData = [
   {
     id: 750,
     nameBrass: 'Notes en Bulles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11565,7 +11565,7 @@ const projectsData = [
   {
     id: 735,
     nameBrass: 'La Part des Autres (site de Sa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11579,7 +11579,7 @@ const projectsData = [
   {
     id: 736,
     nameBrass: 'Stéphanoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11593,7 +11593,7 @@ const projectsData = [
   {
     id: 751,
     nameBrass: 'Challit',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11607,7 +11607,7 @@ const projectsData = [
   {
     id: 739,
     nameBrass: 'Les Roches Précieuses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11621,7 +11621,7 @@ const projectsData = [
   {
     id: 737,
     nameBrass: 'La Farlodoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11635,7 +11635,7 @@ const projectsData = [
   {
     id: 756,
     nameBrass: 'Les Cuves de la Madeleine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11649,7 +11649,7 @@ const projectsData = [
   {
     id: 744,
     nameBrass: 'La Germanoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11663,7 +11663,7 @@ const projectsData = [
   {
     id: 738,
     nameBrass: '767',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11677,7 +11677,7 @@ const projectsData = [
   {
     id: 740,
     nameBrass: 'de la Loire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11691,7 +11691,7 @@ const projectsData = [
   {
     id: 741,
     nameBrass: 'La Margau',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11705,7 +11705,7 @@ const projectsData = [
   {
     id: 757,
     nameBrass: 'La Canaille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11719,7 +11719,7 @@ const projectsData = [
   {
     id: 1342,
     nameBrass: 'Karnotzet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11733,7 +11733,7 @@ const projectsData = [
   {
     id: 745,
     nameBrass: "L'Agarithe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11747,7 +11747,7 @@ const projectsData = [
   {
     id: 746,
     nameBrass: "La Tit'Mousse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11761,7 +11761,7 @@ const projectsData = [
   {
     id: 743,
     nameBrass: 'du Pilat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11775,7 +11775,7 @@ const projectsData = [
   {
     id: 752,
     nameBrass: 'La Gaudine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11789,7 +11789,7 @@ const projectsData = [
   {
     id: 747,
     nameBrass: 'La Part des Autres (site de Sa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11803,7 +11803,7 @@ const projectsData = [
   {
     id: 825,
     nameBrass: 'Artisanale Ratz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11817,7 +11817,7 @@ const projectsData = [
   {
     id: 224,
     nameBrass: 'des Charentes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11831,7 +11831,7 @@ const projectsData = [
   {
     id: 762,
     nameBrass: "du Mont d'Alambre",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11845,7 +11845,7 @@ const projectsData = [
   {
     id: 760,
     nameBrass: 'La Strol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11859,7 +11859,7 @@ const projectsData = [
   {
     id: 758,
     nameBrass: 'Vellavia',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11873,7 +11873,7 @@ const projectsData = [
   {
     id: 423,
     nameBrass: 'du Glandin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11887,7 +11887,7 @@ const projectsData = [
   {
     id: 769,
     nameBrass: "de l'Emblavez",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11901,7 +11901,7 @@ const projectsData = [
   {
     id: 763,
     nameBrass: 'Ferme du Margaric',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11915,7 +11915,7 @@ const projectsData = [
   {
     id: 764,
     nameBrass: 'Barbaroux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11929,7 +11929,7 @@ const projectsData = [
   {
     id: 759,
     nameBrass: 'Brivadoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11943,7 +11943,7 @@ const projectsData = [
   {
     id: 225,
     nameBrass: 'Rainette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11957,7 +11957,7 @@ const projectsData = [
   {
     id: 765,
     nameBrass: "de l'Alagnon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11971,7 +11971,7 @@ const projectsData = [
   {
     id: 761,
     nameBrass: 'Ouroboros',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11985,7 +11985,7 @@ const projectsData = [
   {
     id: 768,
     nameBrass: 'Motueka',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -11999,7 +11999,7 @@ const projectsData = [
   {
     id: 515,
     nameBrass: 'Harrington Beers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12013,7 +12013,7 @@ const projectsData = [
   {
     id: 97,
     nameBrass: "de l'Ardèche Méridionale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12027,7 +12027,7 @@ const projectsData = [
   {
     id: 793,
     nameBrass: 'du Bouffay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12041,7 +12041,7 @@ const projectsData = [
   {
     id: 796,
     nameBrass: "O'Malt",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12055,7 +12055,7 @@ const projectsData = [
   {
     id: 781,
     nameBrass: 'de la Mée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12069,7 +12069,7 @@ const projectsData = [
   {
     id: 795,
     nameBrass: 'Tête Haute',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12083,7 +12083,7 @@ const projectsData = [
   {
     id: 783,
     nameBrass: 'de la Côte de Jade',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12097,7 +12097,7 @@ const projectsData = [
   {
     id: 778,
     nameBrass: 'Namnet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12111,7 +12111,7 @@ const projectsData = [
   {
     id: 785,
     nameBrass: "Duck'Ale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12125,7 +12125,7 @@ const projectsData = [
   {
     id: 786,
     nameBrass: 'Les Bières du Clos',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12139,7 +12139,7 @@ const projectsData = [
   {
     id: 791,
     nameBrass: 'Vestibule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12153,7 +12153,7 @@ const projectsData = [
   {
     id: 803,
     nameBrass: 'Aerofab',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12167,7 +12167,7 @@ const projectsData = [
   {
     id: 804,
     nameBrass: 'La Hulotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12181,7 +12181,7 @@ const projectsData = [
   {
     id: 801,
     nameBrass: 'La Conviviale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12195,7 +12195,7 @@ const projectsData = [
   {
     id: 787,
     nameBrass: 'Bières et Chopes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12209,7 +12209,7 @@ const projectsData = [
   {
     id: 799,
     nameBrass: 'du Pays de Retz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12223,7 +12223,7 @@ const projectsData = [
   {
     id: 788,
     nameBrass: 'La Gouleyante',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12237,7 +12237,7 @@ const projectsData = [
   {
     id: 775,
     nameBrass: 'Bellouff',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12251,7 +12251,7 @@ const projectsData = [
   {
     id: 770,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12265,7 +12265,7 @@ const projectsData = [
   {
     id: 771,
     nameBrass: 'Les Bières de Charlotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12279,7 +12279,7 @@ const projectsData = [
   {
     id: 772,
     nameBrass: 'Les Brassés',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12293,7 +12293,7 @@ const projectsData = [
   {
     id: 773,
     nameBrass: 'Baribale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12307,7 +12307,7 @@ const projectsData = [
   {
     id: 782,
     nameBrass: 'Bubar  ',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12321,7 +12321,7 @@ const projectsData = [
   {
     id: 802,
     nameBrass: 'BACA  ',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12335,7 +12335,7 @@ const projectsData = [
   {
     id: 794,
     nameBrass: 'La Maisnie Sanitas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12349,7 +12349,7 @@ const projectsData = [
   {
     id: 789,
     nameBrass: 'Nautile',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12363,7 +12363,7 @@ const projectsData = [
   {
     id: 790,
     nameBrass: 'Philmore',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12377,7 +12377,7 @@ const projectsData = [
   {
     id: 780,
     nameBrass: 'San Roce',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12391,7 +12391,7 @@ const projectsData = [
   {
     id: 800,
     nameBrass: 'des Noes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12405,7 +12405,7 @@ const projectsData = [
   {
     id: 779,
     nameBrass: 'Belle Cour',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12419,7 +12419,7 @@ const projectsData = [
   {
     id: 798,
     nameBrass: 'Bouyer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12433,7 +12433,7 @@ const projectsData = [
   {
     id: 808,
     nameBrass: 'des Rateliers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12447,7 +12447,7 @@ const projectsData = [
   {
     id: 815,
     nameBrass: 'La Fabrik du Marais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12461,7 +12461,7 @@ const projectsData = [
   {
     id: 814,
     nameBrass: 'Velvet Thirst',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12475,7 +12475,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12489,7 +12489,7 @@ const projectsData = [
   {
     id: 812,
     nameBrass: 'du Vauret',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12503,7 +12503,7 @@ const projectsData = [
   {
     id: 813,
     nameBrass: 'du Petit Hôtel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12517,7 +12517,7 @@ const projectsData = [
   {
     id: 816,
     nameBrass: 'Big Bang Beers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12531,7 +12531,7 @@ const projectsData = [
   {
     id: 810,
     nameBrass: 'Bière Octopus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12545,7 +12545,7 @@ const projectsData = [
   {
     id: 811,
     nameBrass: 'HopRock',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12559,7 +12559,7 @@ const projectsData = [
   {
     id: 818,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12573,7 +12573,7 @@ const projectsData = [
   {
     id: 819,
     nameBrass: 'Octopub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12587,7 +12587,7 @@ const projectsData = [
   {
     id: 817,
     nameBrass: 'Schuchard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12601,7 +12601,7 @@ const projectsData = [
   {
     id: 805,
     nameBrass: 'des Ecluses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12615,7 +12615,7 @@ const projectsData = [
   {
     id: 809,
     nameBrass: 'des Merveilles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12629,7 +12629,7 @@ const projectsData = [
   {
     id: 462,
     nameBrass: "Bellegard'Elfe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12643,7 +12643,7 @@ const projectsData = [
   {
     id: 826,
     nameBrass: 'Merchien',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12657,7 +12657,7 @@ const projectsData = [
   {
     id: 823,
     nameBrass: 'La Bouriane',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12671,7 +12671,7 @@ const projectsData = [
   {
     id: 830,
     nameBrass: 'Artisanale de Montcuq',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12685,7 +12685,7 @@ const projectsData = [
   {
     id: 828,
     nameBrass: 'La Bohème',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12699,7 +12699,7 @@ const projectsData = [
   {
     id: 829,
     nameBrass: 'Les Bières de Julien',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12713,7 +12713,7 @@ const projectsData = [
   {
     id: 350,
     nameBrass: 'Champdoré',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12727,7 +12727,7 @@ const projectsData = [
   {
     id: 821,
     nameBrass: 'du Matou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12741,7 +12741,7 @@ const projectsData = [
   {
     id: 822,
     nameBrass: 'Les Acolytes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12755,7 +12755,7 @@ const projectsData = [
   {
     id: 820,
     nameBrass: 'Zymotik',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12769,7 +12769,7 @@ const projectsData = [
   {
     id: 575,
     nameBrass: 'La Bière du Docteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12783,7 +12783,7 @@ const projectsData = [
   {
     id: 827,
     nameBrass: 'Paysanne des Pierres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12797,7 +12797,7 @@ const projectsData = [
   {
     id: 825,
     nameBrass: 'Artisanale Ratz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12811,7 +12811,7 @@ const projectsData = [
   {
     id: 833,
     nameBrass: 'Natural Mystick',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12825,7 +12825,7 @@ const projectsData = [
   {
     id: 832,
     nameBrass: "L'Ale Humeuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12839,7 +12839,7 @@ const projectsData = [
   {
     id: 838,
     nameBrass: 'La Brasserie des Cèdres',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12853,7 +12853,7 @@ const projectsData = [
   {
     id: 505,
     nameBrass: 'BYB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12867,7 +12867,7 @@ const projectsData = [
   {
     id: 506,
     nameBrass: 'La Braxéenne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12881,7 +12881,7 @@ const projectsData = [
   {
     id: 837,
     nameBrass: '4.7',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12895,7 +12895,7 @@ const projectsData = [
   {
     id: 840,
     nameBrass: 'Maltéo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12909,7 +12909,7 @@ const projectsData = [
   {
     id: 834,
     nameBrass: "Zebull'in",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12923,7 +12923,7 @@ const projectsData = [
   {
     id: 831,
     nameBrass: "L'Indé",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12937,7 +12937,7 @@ const projectsData = [
   {
     id: 836,
     nameBrass: 'La Mouscaille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12951,7 +12951,7 @@ const projectsData = [
   {
     id: 839,
     nameBrass: 'Le Truc en Plus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12965,7 +12965,7 @@ const projectsData = [
   {
     id: 835,
     nameBrass: 'In Taberna',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12979,7 +12979,7 @@ const projectsData = [
   {
     id: 841,
     nameBrass: 'HOPALE',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -12993,7 +12993,7 @@ const projectsData = [
   {
     id: 825,
     nameBrass: 'Artisanale Ratz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13007,7 +13007,7 @@ const projectsData = [
   {
     id: 843,
     nameBrass: 'du Trébatut',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13021,7 +13021,7 @@ const projectsData = [
   {
     id: 1370,
     nameBrass: 'Terre de Possibles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13035,7 +13035,7 @@ const projectsData = [
   {
     id: 846,
     nameBrass: 'PBC (Putain de Bière Cévenole)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13049,7 +13049,7 @@ const projectsData = [
   {
     id: 848,
     nameBrass: 'de la Naine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13063,7 +13063,7 @@ const projectsData = [
   {
     id: 853,
     nameBrass: 'du Tarnon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13077,7 +13077,7 @@ const projectsData = [
   {
     id: 845,
     nameBrass: 'du Méjean',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13091,7 +13091,7 @@ const projectsData = [
   {
     id: 849,
     nameBrass: 'La Bèstia',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13105,7 +13105,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13119,7 +13119,7 @@ const projectsData = [
   {
     id: 851,
     nameBrass: 'La Georgette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13133,7 +13133,7 @@ const projectsData = [
   {
     id: 842,
     nameBrass: 'de Lozère - La 48',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13147,7 +13147,7 @@ const projectsData = [
   {
     id: 844,
     nameBrass: 'Les Brasseurs de la Jonte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13161,7 +13161,7 @@ const projectsData = [
   {
     id: 559,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13175,7 +13175,7 @@ const projectsData = [
   {
     id: 847,
     nameBrass: 'La Bière à Fred',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13189,7 +13189,7 @@ const projectsData = [
   {
     id: 860,
     nameBrass: "Will's",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13203,7 +13203,7 @@ const projectsData = [
   {
     id: 866,
     nameBrass: 'des Mauges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13217,7 +13217,7 @@ const projectsData = [
   {
     id: 861,
     nameBrass: 'Maran',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13231,7 +13231,7 @@ const projectsData = [
   {
     id: 854,
     nameBrass: 'Angevine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13245,7 +13245,7 @@ const projectsData = [
   {
     id: 856,
     nameBrass: 'La Gourgandine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13259,7 +13259,7 @@ const projectsData = [
   {
     id: 858,
     nameBrass: 'La Florencière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13273,7 +13273,7 @@ const projectsData = [
   {
     id: 859,
     nameBrass: "Fabrique des Bières d'Anjou",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13287,7 +13287,7 @@ const projectsData = [
   {
     id: 857,
     nameBrass: 'Sterne et Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13301,7 +13301,7 @@ const projectsData = [
   {
     id: 855,
     nameBrass: 'de Bouchemaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13315,7 +13315,7 @@ const projectsData = [
   {
     id: 863,
     nameBrass: 'TINA',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13329,7 +13329,7 @@ const projectsData = [
   {
     id: 878,
     nameBrass: 'La Moussette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13343,7 +13343,7 @@ const projectsData = [
   {
     id: 880,
     nameBrass: 'La Mont Sauvage',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13357,7 +13357,7 @@ const projectsData = [
   {
     id: 876,
     nameBrass: 'de Sainte-Mère-Église',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13371,7 +13371,7 @@ const projectsData = [
   {
     id: 870,
     nameBrass: 'de la Baie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13385,7 +13385,7 @@ const projectsData = [
   {
     id: 879,
     nameBrass: "L'Ecume des Falaises",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13399,7 +13399,7 @@ const projectsData = [
   {
     id: 874,
     nameBrass: 'La Mousse Granvillaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13413,7 +13413,7 @@ const projectsData = [
   {
     id: 1208,
     nameBrass: 'ChrisDom',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13427,7 +13427,7 @@ const projectsData = [
   {
     id: 873,
     nameBrass: "Fée d'Orge",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13441,7 +13441,7 @@ const projectsData = [
   {
     id: 875,
     nameBrass: "Les Travailleurs de l'Amer",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13455,7 +13455,7 @@ const projectsData = [
   {
     id: 1499,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13469,7 +13469,7 @@ const projectsData = [
   {
     id: 871,
     nameBrass: "T'cheu Nous",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13483,7 +13483,7 @@ const projectsData = [
   {
     id: 877,
     nameBrass: 'Pinte de Saire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13497,7 +13497,7 @@ const projectsData = [
   {
     id: 872,
     nameBrass: 'Cotentine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13511,7 +13511,7 @@ const projectsData = [
   {
     id: 869,
     nameBrass: 'du Bocage',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13525,7 +13525,7 @@ const projectsData = [
   {
     id: 881,
     nameBrass: 'Au Brasseur Quibois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13539,7 +13539,7 @@ const projectsData = [
   {
     id: 442,
     nameBrass: "Da Bep Lec'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13553,7 +13553,7 @@ const projectsData = [
   {
     id: 895,
     nameBrass: 'Lucida',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13567,7 +13567,7 @@ const projectsData = [
   {
     id: 891,
     nameBrass: "L'Happycoole",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13581,7 +13581,7 @@ const projectsData = [
   {
     id: 896,
     nameBrass: 'Tête de Chou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13595,7 +13595,7 @@ const projectsData = [
   {
     id: 883,
     nameBrass: "L'Agame Barbu",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13609,7 +13609,7 @@ const projectsData = [
   {
     id: 884,
     nameBrass: 'Senses Brewing',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13623,7 +13623,7 @@ const projectsData = [
   {
     id: 885,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13637,7 +13637,7 @@ const projectsData = [
   {
     id: 897,
     nameBrass: 'Ponsardin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13651,7 +13651,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13665,7 +13665,7 @@ const projectsData = [
   {
     id: 882,
     nameBrass: 'La Fabule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13679,7 +13679,7 @@ const projectsData = [
   {
     id: 894,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13693,7 +13693,7 @@ const projectsData = [
   {
     id: 893,
     nameBrass: 'La Bouquine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13707,7 +13707,7 @@ const projectsData = [
   {
     id: 892,
     nameBrass: 'Clémence',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13721,7 +13721,7 @@ const projectsData = [
   {
     id: 29,
     nameBrass: "Bulle's Not Dead - La Germoise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13735,7 +13735,7 @@ const projectsData = [
   {
     id: 887,
     nameBrass: 'Bières et Tentations',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13749,7 +13749,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13763,7 +13763,7 @@ const projectsData = [
   {
     id: 890,
     nameBrass: 'Masclaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13777,7 +13777,7 @@ const projectsData = [
   {
     id: 888,
     nameBrass: 'JHP',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13791,7 +13791,7 @@ const projectsData = [
   {
     id: 889,
     nameBrass: 'La Gaultoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13805,7 +13805,7 @@ const projectsData = [
   {
     id: 1656,
     nameBrass: 'du Mont Fleuri',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13819,7 +13819,7 @@ const projectsData = [
   {
     id: 272,
     nameBrass: 'des Ducs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13833,7 +13833,7 @@ const projectsData = [
   {
     id: 903,
     nameBrass: 'La Bière de Bettaincourt (BDB)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13847,7 +13847,7 @@ const projectsData = [
   {
     id: 902,
     nameBrass: 'du Der',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13861,7 +13861,7 @@ const projectsData = [
   {
     id: 899,
     nameBrass: "Bock'n Roll",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13875,7 +13875,7 @@ const projectsData = [
   {
     id: 1249,
     nameBrass: 'Guth',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13889,7 +13889,7 @@ const projectsData = [
   {
     id: 900,
     nameBrass: 'Fifty-Two',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13903,7 +13903,7 @@ const projectsData = [
   {
     id: 912,
     nameBrass: 'Bierpoljak',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13917,7 +13917,7 @@ const projectsData = [
   {
     id: 909,
     nameBrass: "de l'Oudon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13931,7 +13931,7 @@ const projectsData = [
   {
     id: 905,
     nameBrass: 'Cousin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13945,7 +13945,7 @@ const projectsData = [
   {
     id: 908,
     nameBrass: 'La Copo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13959,7 +13959,7 @@ const projectsData = [
   {
     id: 906,
     nameBrass: 'Champ Grenu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13973,7 +13973,7 @@ const projectsData = [
   {
     id: 907,
     nameBrass: 'Mont Hardi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -13987,7 +13987,7 @@ const projectsData = [
   {
     id: 911,
     nameBrass: 'Geslin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14001,7 +14001,7 @@ const projectsData = [
   {
     id: 910,
     nameBrass: 'Associative de Montflours',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14015,7 +14015,7 @@ const projectsData = [
   {
     id: 904,
     nameBrass: 'Quelen',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14029,7 +14029,7 @@ const projectsData = [
   {
     id: 359,
     nameBrass: 'Kite',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14043,7 +14043,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14057,7 +14057,7 @@ const projectsData = [
   {
     id: 915,
     nameBrass: "des Papi'lles",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14071,7 +14071,7 @@ const projectsData = [
   {
     id: 918,
     nameBrass: "d'Austrasie",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14085,7 +14085,7 @@ const projectsData = [
   {
     id: 919,
     nameBrass: 'Grenaille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14099,7 +14099,7 @@ const projectsData = [
   {
     id: 940,
     nameBrass: 'Zythomaniacs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14113,7 +14113,7 @@ const projectsData = [
   {
     id: 917,
     nameBrass: 'Tumulte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14127,7 +14127,7 @@ const projectsData = [
   {
     id: 943,
     nameBrass: 'Bicof',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14141,7 +14141,7 @@ const projectsData = [
   {
     id: 939,
     nameBrass: 'Mathur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14155,7 +14155,7 @@ const projectsData = [
   {
     id: 927,
     nameBrass: 'Le Rucher de Bouzule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14169,7 +14169,7 @@ const projectsData = [
   {
     id: 913,
     nameBrass: 'La Fabrique de Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14183,7 +14183,7 @@ const projectsData = [
   {
     id: 914,
     nameBrass: 'Lycée Professionnel et Technol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14197,7 +14197,7 @@ const projectsData = [
   {
     id: 1412,
     nameBrass: 'Alpine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14211,7 +14211,7 @@ const projectsData = [
   {
     id: 916,
     nameBrass: 'Montapic',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14225,7 +14225,7 @@ const projectsData = [
   {
     id: 136,
     nameBrass: "L'Once Troy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14239,7 +14239,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14253,7 +14253,7 @@ const projectsData = [
   {
     id: 938,
     nameBrass: 'Les Bières du Bouc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14267,7 +14267,7 @@ const projectsData = [
   {
     id: 923,
     nameBrass: 'Coincoin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14281,7 +14281,7 @@ const projectsData = [
   {
     id: 932,
     nameBrass: 'Marchal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14295,7 +14295,7 @@ const projectsData = [
   {
     id: 941,
     nameBrass: 'Les Brasseurs de Lorraine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14309,7 +14309,7 @@ const projectsData = [
   {
     id: 934,
     nameBrass: 'La Taverne Qui Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14323,7 +14323,7 @@ const projectsData = [
   {
     id: 920,
     nameBrass: 'La Troliotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14337,7 +14337,7 @@ const projectsData = [
   {
     id: 930,
     nameBrass: 'La Lorraine Perdue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14351,7 +14351,7 @@ const projectsData = [
   {
     id: 926,
     nameBrass: 'Champigneulles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14365,7 +14365,7 @@ const projectsData = [
   {
     id: 942,
     nameBrass: 'Istoria',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14379,7 +14379,7 @@ const projectsData = [
   {
     id: 928,
     nameBrass: 'Hoppy Road',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14393,7 +14393,7 @@ const projectsData = [
   {
     id: 929,
     nameBrass: 'La Fabrique des Grô',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14407,7 +14407,7 @@ const projectsData = [
   {
     id: 937,
     nameBrass: 'I.F.B.M. (Qualtech)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14421,7 +14421,7 @@ const projectsData = [
   {
     id: 924,
     nameBrass: 'Cheval',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14435,7 +14435,7 @@ const projectsData = [
   {
     id: 944,
     nameBrass: 'Abeille Noire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14449,7 +14449,7 @@ const projectsData = [
   {
     id: 935,
     nameBrass: 'The Piggy Brewing Company',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14463,7 +14463,7 @@ const projectsData = [
   {
     id: 933,
     nameBrass: 'de la Châouette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14477,7 +14477,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14491,7 +14491,7 @@ const projectsData = [
   {
     id: 945,
     nameBrass: 'La Dunoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14505,7 +14505,7 @@ const projectsData = [
   {
     id: 950,
     nameBrass: 'de la Dieue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14519,7 +14519,7 @@ const projectsData = [
   {
     id: 946,
     nameBrass: 'de Rarécourt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14533,7 +14533,7 @@ const projectsData = [
   {
     id: 115,
     nameBrass: "d'Arthur",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14547,7 +14547,7 @@ const projectsData = [
   {
     id: 116,
     nameBrass: 'La Quinarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14561,7 +14561,7 @@ const projectsData = [
   {
     id: 947,
     nameBrass: "La Chat'Loupe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14575,7 +14575,7 @@ const projectsData = [
   {
     id: 951,
     nameBrass: 'de Charmois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14589,7 +14589,7 @@ const projectsData = [
   {
     id: 948,
     nameBrass: 'La Mandale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14603,7 +14603,7 @@ const projectsData = [
   {
     id: 949,
     nameBrass: 'de la Saulx',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14617,7 +14617,7 @@ const projectsData = [
   {
     id: 952,
     nameBrass: 'de Nettancourt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14631,7 +14631,7 @@ const projectsData = [
   {
     id: 955,
     nameBrass: 'La Vilaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14645,7 +14645,7 @@ const projectsData = [
   {
     id: 979,
     nameBrass: 'du Champ Commun',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14659,7 +14659,7 @@ const projectsData = [
   {
     id: 973,
     nameBrass: "Sam'Brasse de la Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14673,7 +14673,7 @@ const projectsData = [
   {
     id: 958,
     nameBrass: 'Roy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14687,7 +14687,7 @@ const projectsData = [
   {
     id: 969,
     nameBrass: 'Mor Braz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14701,7 +14701,7 @@ const projectsData = [
   {
     id: 953,
     nameBrass: 'La BorDée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14715,7 +14715,7 @@ const projectsData = [
   {
     id: 981,
     nameBrass: 'de Kerblei',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14729,7 +14729,7 @@ const projectsData = [
   {
     id: 962,
     nameBrass: 'Yermat Bier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14743,7 +14743,7 @@ const projectsData = [
   {
     id: 956,
     nameBrass: 'Barque!',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14757,7 +14757,7 @@ const projectsData = [
   {
     id: 967,
     nameBrass: "L'Âne Doré",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14771,7 +14771,7 @@ const projectsData = [
   {
     id: 954,
     nameBrass: 'Gled Hill',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14785,7 +14785,7 @@ const projectsData = [
   {
     id: 980,
     nameBrass: 'Kerpiton',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14799,7 +14799,7 @@ const projectsData = [
   {
     id: 968,
     nameBrass: 'de Rhuys',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14813,7 +14813,7 @@ const projectsData = [
   {
     id: 961,
     nameBrass: 'du Moissonneur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14827,7 +14827,7 @@ const projectsData = [
   {
     id: 964,
     nameBrass: 'Galian',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14841,7 +14841,7 @@ const projectsData = [
   {
     id: 960,
     nameBrass: 'La Dilettante',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14855,7 +14855,7 @@ const projectsData = [
   {
     id: 972,
     nameBrass: "de la Presqu'Île de Quiberon",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14869,7 +14869,7 @@ const projectsData = [
   {
     id: 966,
     nameBrass: 'La Tête Dure',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14883,7 +14883,7 @@ const projectsData = [
   {
     id: 963,
     nameBrass: 'Saint-Georges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14897,7 +14897,7 @@ const projectsData = [
   {
     id: 976,
     nameBrass: "de l'Hermine",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14911,7 +14911,7 @@ const projectsData = [
   {
     id: 975,
     nameBrass: 'La Bière de Groix',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14925,7 +14925,7 @@ const projectsData = [
   {
     id: 978,
     nameBrass: 'Heor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14939,7 +14939,7 @@ const projectsData = [
   {
     id: 974,
     nameBrass: "de l'Estran",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14953,7 +14953,7 @@ const projectsData = [
   {
     id: 977,
     nameBrass: 'La Belle Joie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14967,7 +14967,7 @@ const projectsData = [
   {
     id: 957,
     nameBrass: 'Bara Mod Kozh',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14981,7 +14981,7 @@ const projectsData = [
   {
     id: 1009,
     nameBrass: 'des Éclusiers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -14995,7 +14995,7 @@ const projectsData = [
   {
     id: 1005,
     nameBrass: 'La Grenouille Assoiffée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15009,7 +15009,7 @@ const projectsData = [
   {
     id: 1282,
     nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15023,7 +15023,7 @@ const projectsData = [
   {
     id: 1002,
     nameBrass: 'Artisanale de Rodemack (BAR)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15037,7 +15037,7 @@ const projectsData = [
   {
     id: 994,
     nameBrass: "Régal'Potes",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15051,7 +15051,7 @@ const projectsData = [
   {
     id: 996,
     nameBrass: 'La Taverne du Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15065,7 +15065,7 @@ const projectsData = [
   {
     id: 985,
     nameBrass: "L'Âme Harelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15079,7 +15079,7 @@ const projectsData = [
   {
     id: 991,
     nameBrass: "d'Ay",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15093,7 +15093,7 @@ const projectsData = [
   {
     id: 995,
     nameBrass: 'Schoenecker Braü',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15107,7 +15107,7 @@ const projectsData = [
   {
     id: 984,
     nameBrass: 'en Apesanteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15121,7 +15121,7 @@ const projectsData = [
   {
     id: 988,
     nameBrass: 'Bière de Metz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15135,7 +15135,7 @@ const projectsData = [
   {
     id: 982,
     nameBrass: 'Bon Poison',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15149,7 +15149,7 @@ const projectsData = [
   {
     id: 983,
     nameBrass: 'La Tuilerie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15163,7 +15163,7 @@ const projectsData = [
   {
     id: 1007,
     nameBrass: 'Stampel Fenschbeer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15177,7 +15177,7 @@ const projectsData = [
   {
     id: 993,
     nameBrass: 'La BAG',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15191,7 +15191,7 @@ const projectsData = [
   {
     id: 1003,
     nameBrass: 'Malacuria',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15205,7 +15205,7 @@ const projectsData = [
   {
     id: 992,
     nameBrass: 'des 200 Brasses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15219,7 +15219,7 @@ const projectsData = [
   {
     id: 986,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15233,7 +15233,7 @@ const projectsData = [
   {
     id: 997,
     nameBrass: 'Micro Brasserie Saint-Charles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15247,7 +15247,7 @@ const projectsData = [
   {
     id: 990,
     nameBrass: 'St Livier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15261,7 +15261,7 @@ const projectsData = [
   {
     id: 987,
     nameBrass: 'De la Terre à la Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15275,7 +15275,7 @@ const projectsData = [
   {
     id: 1006,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15289,7 +15289,7 @@ const projectsData = [
   {
     id: 998,
     nameBrass: 'La Petite Bulle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15303,7 +15303,7 @@ const projectsData = [
   {
     id: 1004,
     nameBrass: "L'Arsenal",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15317,7 +15317,7 @@ const projectsData = [
   {
     id: 999,
     nameBrass: 'Tom & Charly',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15331,7 +15331,7 @@ const projectsData = [
   {
     id: 1000,
     nameBrass: "Brasserie Mozel'âne",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15345,7 +15345,7 @@ const projectsData = [
   {
     id: 1001,
     nameBrass: 'Papyllon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15359,7 +15359,7 @@ const projectsData = [
   {
     id: 989,
     nameBrass: 'du Tichemont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15373,7 +15373,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15387,7 +15387,7 @@ const projectsData = [
   {
     id: 558,
     nameBrass: "B's Bar",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15401,7 +15401,7 @@ const projectsData = [
   {
     id: 1249,
     nameBrass: 'Guth',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15415,7 +15415,7 @@ const projectsData = [
   {
     id: 551,
     nameBrass: 'Haut Canteloup (BHC)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15429,7 +15429,7 @@ const projectsData = [
   {
     id: 195,
     nameBrass: 'du Hommey',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15443,7 +15443,7 @@ const projectsData = [
   {
     id: 1018,
     nameBrass: 'de la Canoterie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15457,7 +15457,7 @@ const projectsData = [
   {
     id: 1019,
     nameBrass: 'Les Bières du Donjon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15471,7 +15471,7 @@ const projectsData = [
   {
     id: 1013,
     nameBrass: 'B comme Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15485,7 +15485,7 @@ const projectsData = [
   {
     id: 1678,
     nameBrass: 'de Vézelay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15499,7 +15499,7 @@ const projectsData = [
   {
     id: 1014,
     nameBrass: 'de la Courge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15513,7 +15513,7 @@ const projectsData = [
   {
     id: 1010,
     nameBrass: 'Ôlieu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15527,7 +15527,7 @@ const projectsData = [
   {
     id: 1015,
     nameBrass: 'du Mont Givre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15541,7 +15541,7 @@ const projectsData = [
   {
     id: 1017,
     nameBrass: 'La 5-8',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15555,7 +15555,7 @@ const projectsData = [
   {
     id: 1041,
     nameBrass: 'La Wattenaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15569,7 +15569,7 @@ const projectsData = [
   {
     id: 1044,
     nameBrass: "d'Amblise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15583,7 +15583,7 @@ const projectsData = [
   {
     id: 1026,
     nameBrass: 'Brewbaix',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15597,7 +15597,7 @@ const projectsData = [
   {
     id: 1027,
     nameBrass: 'du Pinthus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15611,7 +15611,7 @@ const projectsData = [
   {
     id: 1028,
     nameBrass: 'Hoppy Urban Brew',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15625,7 +15625,7 @@ const projectsData = [
   {
     id: 1029,
     nameBrass: 'Malt À Propos',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15639,7 +15639,7 @@ const projectsData = [
   {
     id: 1055,
     nameBrass: 'Lilloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15653,7 +15653,7 @@ const projectsData = [
   {
     id: 1020,
     nameBrass: 'BJB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15667,7 +15667,7 @@ const projectsData = [
   {
     id: 1021,
     nameBrass: 'Chipchak',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15681,7 +15681,7 @@ const projectsData = [
   {
     id: 1022,
     nameBrass: 'Le Singe Savant',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15695,7 +15695,7 @@ const projectsData = [
   {
     id: 1023,
     nameBrass: 'Gobrecht',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15709,7 +15709,7 @@ const projectsData = [
   {
     id: 1024,
     nameBrass: "Mousse Touch'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15723,7 +15723,7 @@ const projectsData = [
   {
     id: 1025,
     nameBrass: 'ISA Institut Supérieur Agricol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15737,7 +15737,7 @@ const projectsData = [
   {
     id: 1092,
     nameBrass: 'Les Bières de Célestin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15751,7 +15751,7 @@ const projectsData = [
   {
     id: 1093,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15765,7 +15765,7 @@ const projectsData = [
   {
     id: 1094,
     nameBrass: 'Raccoon Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15779,7 +15779,7 @@ const projectsData = [
   {
     id: 1080,
     nameBrass: 'Les Bières de Célestin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15793,7 +15793,7 @@ const projectsData = [
   {
     id: 1032,
     nameBrass: 'Au Pif',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15807,7 +15807,7 @@ const projectsData = [
   {
     id: 1073,
     nameBrass: 'Heineken France',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15821,7 +15821,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15835,7 +15835,7 @@ const projectsData = [
   {
     id: 1043,
     nameBrass: 'La Flamine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15849,7 +15849,7 @@ const projectsData = [
   {
     id: 1090,
     nameBrass: 'du Pavé',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15863,7 +15863,7 @@ const projectsData = [
   {
     id: 1096,
     nameBrass: 'Hardy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15877,7 +15877,7 @@ const projectsData = [
   {
     id: 1077,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15891,7 +15891,7 @@ const projectsData = [
   {
     id: 1066,
     nameBrass: 'De Katsbier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15905,7 +15905,7 @@ const projectsData = [
   {
     id: 1036,
     nameBrass: 'de Thiérache',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15919,7 +15919,7 @@ const projectsData = [
   {
     id: 1067,
     nameBrass: 'des Mottes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15933,7 +15933,7 @@ const projectsData = [
   {
     id: 1082,
     nameBrass: 'La Potelloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15947,7 +15947,7 @@ const projectsData = [
   {
     id: 1095,
     nameBrass: 'des 2 Forts',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15961,7 +15961,7 @@ const projectsData = [
   {
     id: 1071,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15975,7 +15975,7 @@ const projectsData = [
   {
     id: 1065,
     nameBrass: "L'Atelier de la P'tite Zytho",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -15989,7 +15989,7 @@ const projectsData = [
   {
     id: 1070,
     nameBrass: 'Develter',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16003,7 +16003,7 @@ const projectsData = [
   {
     id: 1087,
     nameBrass: 'du Pays Flamand (site de Mervi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16017,7 +16017,7 @@ const projectsData = [
   {
     id: 1052,
     nameBrass: 'Le Barboteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16031,7 +16031,7 @@ const projectsData = [
   {
     id: 1034,
     nameBrass: 'des Dunes de Flandre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16045,7 +16045,7 @@ const projectsData = [
   {
     id: 1099,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16059,7 +16059,7 @@ const projectsData = [
   {
     id: 1088,
     nameBrass: 'du Mont Cassel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16073,7 +16073,7 @@ const projectsData = [
   {
     id: 1048,
     nameBrass: 'du Pays Flamand (site de Blari',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16087,7 +16087,7 @@ const projectsData = [
   {
     id: 1047,
     nameBrass: 'Cambier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16101,7 +16101,7 @@ const projectsData = [
   {
     id: 1097,
     nameBrass: 'At Home Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16115,7 +16115,7 @@ const projectsData = [
   {
     id: 1038,
     nameBrass: 'Cappelaere',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16129,7 +16129,7 @@ const projectsData = [
   {
     id: 1039,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16143,7 +16143,7 @@ const projectsData = [
   {
     id: 1040,
     nameBrass: 'Osseus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16157,7 +16157,7 @@ const projectsData = [
   {
     id: 1030,
     nameBrass: 'La Choulette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16171,7 +16171,7 @@ const projectsData = [
   {
     id: 1084,
     nameBrass: 'Café Restaurant Au Baron',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16185,7 +16185,7 @@ const projectsData = [
   {
     id: 1074,
     nameBrass: 'Jimèz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16199,7 +16199,7 @@ const projectsData = [
   {
     id: 1078,
     nameBrass: "L'Escreboise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16213,7 +16213,7 @@ const projectsData = [
   {
     id: 1079,
     nameBrass: 'Roux Houblon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16227,7 +16227,7 @@ const projectsData = [
   {
     id: 1061,
     nameBrass: 'Exiguë',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16241,7 +16241,7 @@ const projectsData = [
   {
     id: 1037,
     nameBrass: 'du Cycle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16255,7 +16255,7 @@ const projectsData = [
   {
     id: 1051,
     nameBrass: "La Fabriq'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16269,7 +16269,7 @@ const projectsData = [
   {
     id: 1056,
     nameBrass: 'La BarB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16283,7 +16283,7 @@ const projectsData = [
   {
     id: 1068,
     nameBrass: 'ESAT Ateliers Malécot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16297,7 +16297,7 @@ const projectsData = [
   {
     id: 1069,
     nameBrass: 'Waale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16311,7 +16311,7 @@ const projectsData = [
   {
     id: 1062,
     nameBrass: 'Terre et Tradition',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16325,7 +16325,7 @@ const projectsData = [
   {
     id: 1063,
     nameBrass: 'Bellenaert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16339,7 +16339,7 @@ const projectsData = [
   {
     id: 1064,
     nameBrass: 'Ferme-Brasserie Beck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16353,7 +16353,7 @@ const projectsData = [
   {
     id: 1083,
     nameBrass: 'Saint-Humbert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16367,7 +16367,7 @@ const projectsData = [
   {
     id: 1075,
     nameBrass: 'du Lycée Sainte Croix',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16381,7 +16381,7 @@ const projectsData = [
   {
     id: 1042,
     nameBrass: 'Duyck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16395,7 +16395,7 @@ const projectsData = [
   {
     id: 1054,
     nameBrass: 'Tizote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16409,7 +16409,7 @@ const projectsData = [
   {
     id: 1091,
     nameBrass: 'La Mousserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16423,7 +16423,7 @@ const projectsData = [
   {
     id: 1049,
     nameBrass: 'du Pays Minier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16437,7 +16437,7 @@ const projectsData = [
   {
     id: 1033,
     nameBrass: 'Tandem',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16451,7 +16451,7 @@ const projectsData = [
   {
     id: 1089,
     nameBrass: 'Parapluie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16465,7 +16465,7 @@ const projectsData = [
   {
     id: 1058,
     nameBrass: 'du Stéph',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16479,7 +16479,7 @@ const projectsData = [
   {
     id: 1081,
     nameBrass: "Traditionnelle de l'Avesnois",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16493,7 +16493,7 @@ const projectsData = [
   {
     id: 1046,
     nameBrass: 'TKB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16507,7 +16507,7 @@ const projectsData = [
   {
     id: 1050,
     nameBrass: 'La Belle Quête',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16521,7 +16521,7 @@ const projectsData = [
   {
     id: 1035,
     nameBrass: "L'Atelier des Brasseurs",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16535,7 +16535,7 @@ const projectsData = [
   {
     id: 1076,
     nameBrass: 'Thiriez',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16549,7 +16549,7 @@ const projectsData = [
   {
     id: 1108,
     nameBrass: 'Entre 2 Bulles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16563,7 +16563,7 @@ const projectsData = [
   {
     id: 1114,
     nameBrass: 'Au Coeur du Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16577,7 +16577,7 @@ const projectsData = [
   {
     id: 1103,
     nameBrass: "Ecol'Aux Mousses",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16591,7 +16591,7 @@ const projectsData = [
   {
     id: 1104,
     nameBrass: 'Saint Médard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16605,7 +16605,7 @@ const projectsData = [
   {
     id: 1107,
     nameBrass: 'Duchmann',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16619,7 +16619,7 @@ const projectsData = [
   {
     id: 1105,
     nameBrass: 'La Tanière du Daguet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16633,7 +16633,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16647,7 +16647,7 @@ const projectsData = [
   {
     id: 1101,
     nameBrass: 'de Méru',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16661,7 +16661,7 @@ const projectsData = [
   {
     id: 1119,
     nameBrass: 'La Thury',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16675,7 +16675,7 @@ const projectsData = [
   {
     id: 1118,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16689,7 +16689,7 @@ const projectsData = [
   {
     id: 1120,
     nameBrass: 'Félicité',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16703,7 +16703,7 @@ const projectsData = [
   {
     id: 1111,
     nameBrass: 'La Goële',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16717,7 +16717,7 @@ const projectsData = [
   {
     id: 1110,
     nameBrass: 'La Courtoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16731,7 +16731,7 @@ const projectsData = [
   {
     id: 1109,
     nameBrass: 'Craig Allan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16745,7 +16745,7 @@ const projectsData = [
   {
     id: 97,
     nameBrass: "de l'Ardèche Méridionale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16759,7 +16759,7 @@ const projectsData = [
   {
     id: 1112,
     nameBrass: 'Ferme du Tilloy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16773,7 +16773,7 @@ const projectsData = [
   {
     id: 1115,
     nameBrass: 'Juquel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16787,7 +16787,7 @@ const projectsData = [
   {
     id: 1100,
     nameBrass: 'Brasseurs de Beauvais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16801,7 +16801,7 @@ const projectsData = [
   {
     id: 1508,
     nameBrass: 'La Guinche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16815,7 +16815,7 @@ const projectsData = [
   {
     id: 1116,
     nameBrass: 'Petite Brasserie Picarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16829,7 +16829,7 @@ const projectsData = [
   {
     id: 1113,
     nameBrass: 'Cantik',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16843,7 +16843,7 @@ const projectsData = [
   {
     id: 1124,
     nameBrass: 'du Perche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16857,7 +16857,7 @@ const projectsData = [
   {
     id: 1126,
     nameBrass: "d'Ecouves",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16871,7 +16871,7 @@ const projectsData = [
   {
     id: 318,
     nameBrass: 'La Capsule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16885,7 +16885,7 @@ const projectsData = [
   {
     id: 1127,
     nameBrass: 'La Vertueuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16899,7 +16899,7 @@ const projectsData = [
   {
     id: 1123,
     nameBrass: 'Saint Paul',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16913,7 +16913,7 @@ const projectsData = [
   {
     id: 635,
     nameBrass: 'Les Brasseurs Rabelaisiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16927,7 +16927,7 @@ const projectsData = [
   {
     id: 1128,
     nameBrass: 'Château de la Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16941,7 +16941,7 @@ const projectsData = [
   {
     id: 1121,
     nameBrass: 'La Trotteuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16955,7 +16955,7 @@ const projectsData = [
   {
     id: 1063,
     nameBrass: 'Bellenaert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16969,7 +16969,7 @@ const projectsData = [
   {
     id: 1064,
     nameBrass: 'Ferme-Brasserie Beck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16983,7 +16983,7 @@ const projectsData = [
   {
     id: 1122,
     nameBrass: 'Bioterre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -16997,7 +16997,7 @@ const projectsData = [
   {
     id: 1159,
     nameBrass: 'Quentovic',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17011,7 +17011,7 @@ const projectsData = [
   {
     id: 1154,
     nameBrass: 'Le Chaudron Helfic',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17025,7 +17025,7 @@ const projectsData = [
   {
     id: 1143,
     nameBrass: "L'Estoupette",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17039,7 +17039,7 @@ const projectsData = [
   {
     id: 1144,
     nameBrass: "Le Jardin d'Helant",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17053,7 +17053,7 @@ const projectsData = [
   {
     id: 1353,
     nameBrass: 'JPR5',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17067,7 +17067,7 @@ const projectsData = [
   {
     id: 1130,
     nameBrass: 'Ferme-Brasserie de Beaumont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17081,7 +17081,7 @@ const projectsData = [
   {
     id: 1155,
     nameBrass: "Paysanne de l'Artois",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17095,7 +17095,7 @@ const projectsData = [
   {
     id: 1140,
     nameBrass: 'de Beussent',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17109,7 +17109,7 @@ const projectsData = [
   {
     id: 1152,
     nameBrass: 'Saint-Omer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17123,7 +17123,7 @@ const projectsData = [
   {
     id: 1136,
     nameBrass: 'Artésienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17137,7 +17137,7 @@ const projectsData = [
   {
     id: 1157,
     nameBrass: 'du Funquet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17151,7 +17151,7 @@ const projectsData = [
   {
     id: 1129,
     nameBrass: "L'Arras'In",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17165,7 +17165,7 @@ const projectsData = [
   {
     id: 1142,
     nameBrass: 'des 2 Caps',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17179,7 +17179,7 @@ const projectsData = [
   {
     id: 1153,
     nameBrass: 'Goudale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17193,7 +17193,7 @@ const projectsData = [
   {
     id: 1132,
     nameBrass: 'La Tincquoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17207,7 +17207,7 @@ const projectsData = [
   {
     id: 1138,
     nameBrass: 'des 7 Bonnettes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17221,7 +17221,7 @@ const projectsData = [
   {
     id: 1147,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17235,7 +17235,7 @@ const projectsData = [
   {
     id: 1150,
     nameBrass: "Les Brasseurs des Terres d'Opa",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17249,7 +17249,7 @@ const projectsData = [
   {
     id: 1131,
     nameBrass: 'du Sanglier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17263,7 +17263,7 @@ const projectsData = [
   {
     id: 1137,
     nameBrass: 'White Star',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17277,7 +17277,7 @@ const projectsData = [
   {
     id: 1146,
     nameBrass: 'de Mai',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17291,7 +17291,7 @@ const projectsData = [
   {
     id: 1135,
     nameBrass: 'des 3 Clochers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17305,7 +17305,7 @@ const projectsData = [
   {
     id: 1156,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17319,7 +17319,7 @@ const projectsData = [
   {
     id: 1149,
     nameBrass: 'Bois de la Chapelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17333,7 +17333,7 @@ const projectsData = [
   {
     id: 1141,
     nameBrass: 'BCA2 - La Rivière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17347,7 +17347,7 @@ const projectsData = [
   {
     id: 1701,
     nameBrass: 'Croix de Chavaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17361,7 +17361,7 @@ const projectsData = [
   {
     id: 1702,
     nameBrass: 'Drum&Brass Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17375,7 +17375,7 @@ const projectsData = [
   {
     id: 1703,
     nameBrass: 'La Montreuilloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17389,7 +17389,7 @@ const projectsData = [
   {
     id: 1134,
     nameBrass: 'La Bellotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17403,7 +17403,7 @@ const projectsData = [
   {
     id: 1148,
     nameBrass: 'Saint Théodore',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17417,7 +17417,7 @@ const projectsData = [
   {
     id: 1151,
     nameBrass: 'Castelain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17431,7 +17431,7 @@ const projectsData = [
   {
     id: 1139,
     nameBrass: 'Saint-Germain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17445,7 +17445,7 @@ const projectsData = [
   {
     id: 1145,
     nameBrass: "L'Intemporelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17459,7 +17459,7 @@ const projectsData = [
   {
     id: 1176,
     nameBrass: 'Comboro',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17473,7 +17473,7 @@ const projectsData = [
   {
     id: 1184,
     nameBrass: "Balm'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17487,7 +17487,7 @@ const projectsData = [
   {
     id: 1160,
     nameBrass: 'Brasse Band',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17501,7 +17501,7 @@ const projectsData = [
   {
     id: 1161,
     nameBrass: 'Le Plan B',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17515,7 +17515,7 @@ const projectsData = [
   {
     id: 1162,
     nameBrass: 'Arvernys',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17529,7 +17529,7 @@ const projectsData = [
   {
     id: 1163,
     nameBrass: 'Brasserie Grizzly & Brew-pub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17543,7 +17543,7 @@ const projectsData = [
   {
     id: 1185,
     nameBrass: 'Fornabera',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17557,7 +17557,7 @@ const projectsData = [
   {
     id: 1168,
     nameBrass: 'ISKA',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17571,7 +17571,7 @@ const projectsData = [
   {
     id: 1175,
     nameBrass: 'du Bougnat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17585,7 +17585,7 @@ const projectsData = [
   {
     id: 1178,
     nameBrass: 'Marabout',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17599,7 +17599,7 @@ const projectsData = [
   {
     id: 1179,
     nameBrass: "de l'Ailloux",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17613,7 +17613,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17627,7 +17627,7 @@ const projectsData = [
   {
     id: 1183,
     nameBrass: 'des Montagnes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17641,7 +17641,7 @@ const projectsData = [
   {
     id: 464,
     nameBrass: 'Les Bulles de Lafontaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17655,7 +17655,7 @@ const projectsData = [
   {
     id: 1249,
     nameBrass: 'Guth',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17669,7 +17669,7 @@ const projectsData = [
   {
     id: 1181,
     nameBrass: 'La Chope aux Loups',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17683,7 +17683,7 @@ const projectsData = [
   {
     id: 1164,
     nameBrass: 'Gaïa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17697,7 +17697,7 @@ const projectsData = [
   {
     id: 319,
     nameBrass: 'de la Forge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17711,7 +17711,7 @@ const projectsData = [
   {
     id: 1171,
     nameBrass: 'La Belle Poule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17725,7 +17725,7 @@ const projectsData = [
   {
     id: 1169,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17739,7 +17739,7 @@ const projectsData = [
   {
     id: 1170,
     nameBrass: 'La Cocotte Maltée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17753,7 +17753,7 @@ const projectsData = [
   {
     id: 1180,
     nameBrass: 'des Sagnes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17767,7 +17767,7 @@ const projectsData = [
   {
     id: 460,
     nameBrass: "d'Avèze",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17781,7 +17781,7 @@ const projectsData = [
   {
     id: 1166,
     nameBrass: 'BdC',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17795,7 +17795,7 @@ const projectsData = [
   {
     id: 1165,
     nameBrass: 'Billd',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17809,7 +17809,7 @@ const projectsData = [
   {
     id: 1167,
     nameBrass: 'Atelier du Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17823,7 +17823,7 @@ const projectsData = [
   {
     id: 1172,
     nameBrass: "L'Ensourceleuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17837,7 +17837,7 @@ const projectsData = [
   {
     id: 1182,
     nameBrass: 'de Corent',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17851,7 +17851,7 @@ const projectsData = [
   {
     id: 1177,
     nameBrass: 'La Couzine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17865,7 +17865,7 @@ const projectsData = [
   {
     id: 1208,
     nameBrass: 'ChrisDom',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17879,7 +17879,7 @@ const projectsData = [
   {
     id: 1194,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17893,7 +17893,7 @@ const projectsData = [
   {
     id: 1195,
     nameBrass: "L'Esbariade",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17907,7 +17907,7 @@ const projectsData = [
   {
     id: 1186,
     nameBrass: 'Béarnaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17921,7 +17921,7 @@ const projectsData = [
   {
     id: 1205,
     nameBrass: 'Naba',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17935,7 +17935,7 @@ const projectsData = [
   {
     id: 1202,
     nameBrass: 'Hylalegans',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17949,7 +17949,7 @@ const projectsData = [
   {
     id: 1197,
     nameBrass: 'Etxeko Bob’s Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17963,7 +17963,7 @@ const projectsData = [
   {
     id: 1187,
     nameBrass: 'Belharra',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17977,7 +17977,7 @@ const projectsData = [
   {
     id: 1188,
     nameBrass: 'Uhaina',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -17991,7 +17991,7 @@ const projectsData = [
   {
     id: 1192,
     nameBrass: 'La Biarrote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18005,7 +18005,7 @@ const projectsData = [
   {
     id: 1193,
     nameBrass: 'La Superbe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18019,7 +18019,7 @@ const projectsData = [
   {
     id: 1209,
     nameBrass: 'Pontacquaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18033,7 +18033,7 @@ const projectsData = [
   {
     id: 1201,
     nameBrass: "de l'Arrec",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18047,7 +18047,7 @@ const projectsData = [
   {
     id: 1189,
     nameBrass: 'Greenwitch',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18061,7 +18061,7 @@ const projectsData = [
   {
     id: 1206,
     nameBrass: 'Lescarré',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18075,7 +18075,7 @@ const projectsData = [
   {
     id: 1218,
     nameBrass: 'Lebbe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18089,7 +18089,7 @@ const projectsData = [
   {
     id: 1207,
     nameBrass: 'du Pays Basque',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18103,7 +18103,7 @@ const projectsData = [
   {
     id: 1198,
     nameBrass: 'Arrobio',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18117,7 +18117,7 @@ const projectsData = [
   {
     id: 1199,
     nameBrass: 'Bipil',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18131,7 +18131,7 @@ const projectsData = [
   {
     id: 1200,
     nameBrass: 'DC Beer Factory',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18145,7 +18145,7 @@ const projectsData = [
   {
     id: 1204,
     nameBrass: 'Hizketa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18159,7 +18159,7 @@ const projectsData = [
   {
     id: 1196,
     nameBrass: 'Kipett',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18173,7 +18173,7 @@ const projectsData = [
   {
     id: 1203,
     nameBrass: 'Akerbeltz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18187,7 +18187,7 @@ const projectsData = [
   {
     id: 1190,
     nameBrass: 'Europub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18201,7 +18201,7 @@ const projectsData = [
   {
     id: 1218,
     nameBrass: 'Lebbe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18215,7 +18215,7 @@ const projectsData = [
   {
     id: 517,
     nameBrass: "L'Excuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18229,7 +18229,7 @@ const projectsData = [
   {
     id: 1215,
     nameBrass: "L'Aoucataise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18243,7 +18243,7 @@ const projectsData = [
   {
     id: 1217,
     nameBrass: 'du Pépère',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18257,7 +18257,7 @@ const projectsData = [
   {
     id: 1208,
     nameBrass: 'ChrisDom',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18271,7 +18271,7 @@ const projectsData = [
   {
     id: 1216,
     nameBrass: 'du Pays des Gaves',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18285,7 +18285,7 @@ const projectsData = [
   {
     id: 1214,
     nameBrass: "IN'OC",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18299,7 +18299,7 @@ const projectsData = [
   {
     id: 1210,
     nameBrass: 'Walbrew',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18313,7 +18313,7 @@ const projectsData = [
   {
     id: 1212,
     nameBrass: 'des Pics',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18327,7 +18327,7 @@ const projectsData = [
   {
     id: 1213,
     nameBrass: "Les Brasseurs de l'Adour",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18341,7 +18341,7 @@ const projectsData = [
   {
     id: 1211,
     nameBrass: 'du Pays Toy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18355,7 +18355,7 @@ const projectsData = [
   {
     id: 798,
     nameBrass: 'Bouyer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18369,7 +18369,7 @@ const projectsData = [
   {
     id: 1221,
     nameBrass: 'La Ferme Ta Gueule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18383,7 +18383,7 @@ const projectsData = [
   {
     id: 1223,
     nameBrass: 'du Fenouillèdes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18397,7 +18397,7 @@ const projectsData = [
   {
     id: 1232,
     nameBrass: "Cap d'Ona",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18411,7 +18411,7 @@ const projectsData = [
   {
     id: 1229,
     nameBrass: 'Blaoblank',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18425,7 +18425,7 @@ const projectsData = [
   {
     id: 1227,
     nameBrass: 'Senglar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18439,7 +18439,7 @@ const projectsData = [
   {
     id: 1224,
     nameBrass: "de l'Ours",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18453,7 +18453,7 @@ const projectsData = [
   {
     id: 1226,
     nameBrass: "L'Atelier Demeter",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18467,7 +18467,7 @@ const projectsData = [
   {
     id: 1222,
     nameBrass: 'La Bramette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18481,7 +18481,7 @@ const projectsData = [
   {
     id: 1230,
     nameBrass: "L'Art de la Joie",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18495,7 +18495,7 @@ const projectsData = [
   {
     id: 1233,
     nameBrass: 'Homo Sapiens Expérience',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18509,7 +18509,7 @@ const projectsData = [
   {
     id: 1228,
     nameBrass: 'de Tôa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18523,7 +18523,7 @@ const projectsData = [
   {
     id: 1220,
     nameBrass: "L'Alzina",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18537,7 +18537,7 @@ const projectsData = [
   {
     id: 1225,
     nameBrass: 'Bière du Canigou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18551,7 +18551,7 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'La Canya',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18565,7 +18565,7 @@ const projectsData = [
   {
     id: 1219,
     nameBrass: 'La Boc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18579,7 +18579,7 @@ const projectsData = [
   {
     id: 1244,
     nameBrass: 'Holtzmann',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18593,7 +18593,7 @@ const projectsData = [
   {
     id: 1245,
     nameBrass: 'La Houblonnière Pfister',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18607,7 +18607,7 @@ const projectsData = [
   {
     id: 1257,
     nameBrass: 'La Mercière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18621,7 +18621,7 @@ const projectsData = [
   {
     id: 1243,
     nameBrass: 'de Matzenheim',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18635,7 +18635,7 @@ const projectsData = [
   {
     id: 1249,
     nameBrass: 'Guth',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18649,7 +18649,7 @@ const projectsData = [
   {
     id: 1247,
     nameBrass: 'Kronenbourg',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18663,7 +18663,7 @@ const projectsData = [
   {
     id: 1268,
     nameBrass: 'de la Licorne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18677,7 +18677,7 @@ const projectsData = [
   {
     id: 1263,
     nameBrass: 'BAT (Bière, Arômes à Tiser)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18691,7 +18691,7 @@ const projectsData = [
   {
     id: 1250,
     nameBrass: 'Lobsann',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18705,7 +18705,7 @@ const projectsData = [
   {
     id: 1262,
     nameBrass: 'Blessing',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18719,7 +18719,7 @@ const projectsData = [
   {
     id: 1234,
     nameBrass: 'Almibra',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18733,7 +18733,7 @@ const projectsData = [
   {
     id: 1235,
     nameBrass: 'Mandala',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18747,7 +18747,7 @@ const projectsData = [
   {
     id: 1236,
     nameBrass: 'Tigre Bock Fabrik',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18761,7 +18761,7 @@ const projectsData = [
   {
     id: 1237,
     nameBrass: 'Bendorf',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18775,7 +18775,7 @@ const projectsData = [
   {
     id: 1238,
     nameBrass: 'Bières Artisanales Artzner',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18789,7 +18789,7 @@ const projectsData = [
   {
     id: 1239,
     nameBrass: 'Roue Libre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18803,7 +18803,7 @@ const projectsData = [
   {
     id: 1240,
     nameBrass: '3 Mâts',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18817,7 +18817,7 @@ const projectsData = [
   {
     id: 1264,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18831,7 +18831,7 @@ const projectsData = [
   {
     id: 1258,
     nameBrass: 'La Narcose',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18845,7 +18845,7 @@ const projectsData = [
   {
     id: 1255,
     nameBrass: 'Heineken France',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18859,7 +18859,7 @@ const projectsData = [
   {
     id: 1256,
     nameBrass: 'Michel Debus-Storig',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18873,7 +18873,7 @@ const projectsData = [
   {
     id: 1261,
     nameBrass: "Les Vergers d'Arlette",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18887,7 +18887,7 @@ const projectsData = [
   {
     id: 1254,
     nameBrass: 'Météor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18901,7 +18901,7 @@ const projectsData = [
   {
     id: 1241,
     nameBrass: 'de Framont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18915,7 +18915,7 @@ const projectsData = [
   {
     id: 1266,
     nameBrass: 'Les Brasseurs du Ried',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18929,7 +18929,7 @@ const projectsData = [
   {
     id: 1253,
     nameBrass: 'Les 3 Galopins',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18943,7 +18943,7 @@ const projectsData = [
   {
     id: 1248,
     nameBrass: "L'Abreuvoir",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18957,7 +18957,7 @@ const projectsData = [
   {
     id: 1285,
     nameBrass: 'La Tintamarre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18971,7 +18971,7 @@ const projectsData = [
   {
     id: 1251,
     nameBrass: 'Blüeme',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18985,7 +18985,7 @@ const projectsData = [
   {
     id: 1246,
     nameBrass: 'Bücher Bernardswiller',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -18999,7 +18999,7 @@ const projectsData = [
   {
     id: 1252,
     nameBrass: 'La Pastel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19013,7 +19013,7 @@ const projectsData = [
   {
     id: 1265,
     nameBrass: "de l'Ermitage",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19027,7 +19027,7 @@ const projectsData = [
   {
     id: 1260,
     nameBrass: 'de la Souffel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19041,7 +19041,7 @@ const projectsData = [
   {
     id: 1267,
     nameBrass: 'du Garçon Pointu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19055,7 +19055,7 @@ const projectsData = [
   {
     id: 1259,
     nameBrass: "d'Uberach",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19069,7 +19069,7 @@ const projectsData = [
   {
     id: 1269,
     nameBrass: 'du Grillen',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19083,7 +19083,7 @@ const projectsData = [
   {
     id: 1270,
     nameBrass: 'KS',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19097,7 +19097,7 @@ const projectsData = [
   {
     id: 1271,
     nameBrass: 'Sainte Crucienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19111,7 +19111,7 @@ const projectsData = [
   {
     id: 1299,
     nameBrass: "Boum'R",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19125,7 +19125,7 @@ const projectsData = [
   {
     id: 1291,
     nameBrass: 'du Rhin - Site de Thierenbach',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19139,7 +19139,7 @@ const projectsData = [
   {
     id: 1283,
     nameBrass: "du Vignoble (Bra'v)",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19153,7 +19153,7 @@ const projectsData = [
   {
     id: 1295,
     nameBrass: "S'Humpaloch",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19167,7 +19167,7 @@ const projectsData = [
   {
     id: 1290,
     nameBrass: 'Radwulf',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19181,7 +19181,7 @@ const projectsData = [
   {
     id: 1273,
     nameBrass: 'des Quatre Pays',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19195,7 +19195,7 @@ const projectsData = [
   {
     id: 1282,
     nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19209,7 +19209,7 @@ const projectsData = [
   {
     id: 1298,
     nameBrass: 'du Rhin - Site de Morschwiller',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19223,7 +19223,7 @@ const projectsData = [
   {
     id: 1289,
     nameBrass: 'Cabrio',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19237,7 +19237,7 @@ const projectsData = [
   {
     id: 1297,
     nameBrass: 'du Vallon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19251,7 +19251,7 @@ const projectsData = [
   {
     id: 1296,
     nameBrass: 'du Pays Welche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19265,7 +19265,7 @@ const projectsData = [
   {
     id: 1287,
     nameBrass: "G'sundgo",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19279,7 +19279,7 @@ const projectsData = [
   {
     id: 1279,
     nameBrass: 'Bisaiguë',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19293,7 +19293,7 @@ const projectsData = [
   {
     id: 1286,
     nameBrass: 'du Marcaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19307,7 +19307,7 @@ const projectsData = [
   {
     id: 1292,
     nameBrass: 'La Bicéphale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19321,7 +19321,7 @@ const projectsData = [
   {
     id: 1281,
     nameBrass: 'Kirchberger',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19335,7 +19335,7 @@ const projectsData = [
   {
     id: 1294,
     nameBrass: 'St Alphonse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19349,7 +19349,7 @@ const projectsData = [
   {
     id: 1275,
     nameBrass: 'La Passerelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19363,7 +19363,7 @@ const projectsData = [
   {
     id: 1278,
     nameBrass: 'Bières Taal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19377,7 +19377,7 @@ const projectsData = [
   {
     id: 1276,
     nameBrass: 'La Potassine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19391,7 +19391,7 @@ const projectsData = [
   {
     id: 1277,
     nameBrass: 'Les Breuvages des Anges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19405,7 +19405,7 @@ const projectsData = [
   {
     id: 1284,
     nameBrass: "La B'ric",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19419,7 +19419,7 @@ const projectsData = [
   {
     id: 1274,
     nameBrass: 'de la Plaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19433,7 +19433,7 @@ const projectsData = [
   {
     id: 1293,
     nameBrass: "Suff'Bier",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19447,7 +19447,7 @@ const projectsData = [
   {
     id: 1280,
     nameBrass: 'Dioller',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19461,7 +19461,7 @@ const projectsData = [
   {
     id: 1288,
     nameBrass: 'de Lutterbach',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19475,7 +19475,7 @@ const projectsData = [
   {
     id: 1272,
     nameBrass: 'des Halles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19489,7 +19489,7 @@ const projectsData = [
   {
     id: 1339,
     nameBrass: "Bulles d'Orge",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19503,7 +19503,7 @@ const projectsData = [
   {
     id: 1330,
     nameBrass: 'Ferme de la Quintillière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19517,7 +19517,7 @@ const projectsData = [
   {
     id: 1318,
     nameBrass: 'du Caillou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19531,7 +19531,7 @@ const projectsData = [
   {
     id: 1324,
     nameBrass: 'Misso',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19545,7 +19545,7 @@ const projectsData = [
   {
     id: 1313,
     nameBrass: 'La Fabrique du Faubourg',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19559,7 +19559,7 @@ const projectsData = [
   {
     id: 1314,
     nameBrass: 'Maltazar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19573,7 +19573,7 @@ const projectsData = [
   {
     id: 1345,
     nameBrass: 'des Monts du Lyonnais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19587,7 +19587,7 @@ const projectsData = [
   {
     id: 1320,
     nameBrass: 'Les Aubépines',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19601,7 +19601,7 @@ const projectsData = [
   {
     id: 1325,
     nameBrass: 'Kachmar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19615,7 +19615,7 @@ const projectsData = [
   {
     id: 1326,
     nameBrass: 'Terre de Bières',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19629,7 +19629,7 @@ const projectsData = [
   {
     id: 1311,
     nameBrass: 'Demi-Lune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19643,7 +19643,7 @@ const projectsData = [
   {
     id: 1333,
     nameBrass: 'du Mont Popey',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19657,7 +19657,7 @@ const projectsData = [
   {
     id: 1334,
     nameBrass: 'Hoodo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19671,7 +19671,7 @@ const projectsData = [
   {
     id: 1328,
     nameBrass: 'du Chartreux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19685,7 +19685,7 @@ const projectsData = [
   {
     id: 1335,
     nameBrass: 'La Soyeuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19699,7 +19699,7 @@ const projectsData = [
   {
     id: 1341,
     nameBrass: 'Animus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19713,7 +19713,7 @@ const projectsData = [
   {
     id: 1338,
     nameBrass: 'La Loupiote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19727,7 +19727,7 @@ const projectsData = [
   {
     id: 1300,
     nameBrass: 'Tom & Co.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19741,7 +19741,7 @@ const projectsData = [
   {
     id: 1301,
     nameBrass: 'Georges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19755,7 +19755,7 @@ const projectsData = [
   {
     id: 1302,
     nameBrass: 'La Brasseuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19769,7 +19769,7 @@ const projectsData = [
   {
     id: 1303,
     nameBrass: 'Platypus Brewpub',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19783,7 +19783,7 @@ const projectsData = [
   {
     id: 1304,
     nameBrass: 'Et la Bière Fût',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19797,7 +19797,7 @@ const projectsData = [
   {
     id: 1305,
     nameBrass: 'Coldie Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19811,7 +19811,7 @@ const projectsData = [
   {
     id: 1306,
     nameBrass: 'Funk e Vap',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19825,7 +19825,7 @@ const projectsData = [
   {
     id: 1307,
     nameBrass: 'Le Pika',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19839,7 +19839,7 @@ const projectsData = [
   {
     id: 1308,
     nameBrass: 'Malting Pot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19853,7 +19853,7 @@ const projectsData = [
   {
     id: 1343,
     nameBrass: 'Nomade Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19867,7 +19867,7 @@ const projectsData = [
   {
     id: 1342,
     nameBrass: 'Karnotzet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19881,7 +19881,7 @@ const projectsData = [
   {
     id: 1323,
     nameBrass: 'GreDam',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19895,7 +19895,7 @@ const projectsData = [
   {
     id: 1346,
     nameBrass: "L'Affoleuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19909,7 +19909,7 @@ const projectsData = [
   {
     id: 1317,
     nameBrass: 'Belafonte Brewing Co.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19923,7 +19923,7 @@ const projectsData = [
   {
     id: 1321,
     nameBrass: 'La Canute Lyonnaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19937,7 +19937,7 @@ const projectsData = [
   {
     id: 1319,
     nameBrass: 'Single Track',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19951,7 +19951,7 @@ const projectsData = [
   {
     id: 1347,
     nameBrass: 'La Cadole',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19965,7 +19965,7 @@ const projectsData = [
   {
     id: 1336,
     nameBrass: 'Caribrew',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19979,7 +19979,7 @@ const projectsData = [
   {
     id: 1337,
     nameBrass: 'La Chénou',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -19993,7 +19993,7 @@ const projectsData = [
   {
     id: 1331,
     nameBrass: 'Autour de la Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20007,7 +20007,7 @@ const projectsData = [
   {
     id: 1315,
     nameBrass: 'Prisca',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20021,7 +20021,7 @@ const projectsData = [
   {
     id: 1332,
     nameBrass: 'Domaine du Manchot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20035,7 +20035,7 @@ const projectsData = [
   {
     id: 1310,
     nameBrass: 'Dulion',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20049,7 +20049,7 @@ const projectsData = [
   {
     id: 1309,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20063,7 +20063,7 @@ const projectsData = [
   {
     id: 1329,
     nameBrass: 'La Bière des Loups',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20077,7 +20077,7 @@ const projectsData = [
   {
     id: 1340,
     nameBrass: 'Mâconnaise Bartonn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20091,7 +20091,7 @@ const projectsData = [
   {
     id: 1322,
     nameBrass: 'Krüger',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20105,7 +20105,7 @@ const projectsData = [
   {
     id: 1327,
     nameBrass: 'La Vacherie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20119,7 +20119,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20133,7 +20133,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20147,7 +20147,7 @@ const projectsData = [
   {
     id: 1348,
     nameBrass: 'La Razade',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20161,7 +20161,7 @@ const projectsData = [
   {
     id: 1352,
     nameBrass: 'Le Franc Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20175,7 +20175,7 @@ const projectsData = [
   {
     id: 1354,
     nameBrass: 'La Patrimoine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20189,7 +20189,7 @@ const projectsData = [
   {
     id: 229,
     nameBrass: 'Science Infuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20203,7 +20203,7 @@ const projectsData = [
   {
     id: 136,
     nameBrass: "L'Once Troy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20217,7 +20217,7 @@ const projectsData = [
   {
     id: 1349,
     nameBrass: 'de la Rente Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20231,7 +20231,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20245,7 +20245,7 @@ const projectsData = [
   {
     id: 1350,
     nameBrass: 'Redoutey',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20259,7 +20259,7 @@ const projectsData = [
   {
     id: 1351,
     nameBrass: "L'Ours Brasseur",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20273,7 +20273,7 @@ const projectsData = [
   {
     id: 1353,
     nameBrass: 'JPR5',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20287,7 +20287,7 @@ const projectsData = [
   {
     id: 1372,
     nameBrass: 'Two Dudes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20301,7 +20301,7 @@ const projectsData = [
   {
     id: 1368,
     nameBrass: 'La Mise en Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20315,7 +20315,7 @@ const projectsData = [
   {
     id: 1363,
     nameBrass: 'de Cluny',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20329,7 +20329,7 @@ const projectsData = [
   {
     id: 1149,
     nameBrass: 'Bois de la Chapelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20343,7 +20343,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20357,7 +20357,7 @@ const projectsData = [
   {
     id: 1356,
     nameBrass: 'Kura',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20371,7 +20371,7 @@ const projectsData = [
   {
     id: 1365,
     nameBrass: "L'Ours des Tavernes",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20385,7 +20385,7 @@ const projectsData = [
   {
     id: 1357,
     nameBrass: 'artisanale de Bourgogne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20399,7 +20399,7 @@ const projectsData = [
   {
     id: 1358,
     nameBrass: 'Les Plains Monts',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20413,7 +20413,7 @@ const projectsData = [
   {
     id: 1360,
     nameBrass: 'Teddy Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20427,7 +20427,7 @@ const projectsData = [
   {
     id: 906,
     nameBrass: 'Champ Grenu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20441,7 +20441,7 @@ const projectsData = [
   {
     id: 907,
     nameBrass: 'Mont Hardi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20455,7 +20455,7 @@ const projectsData = [
   {
     id: 1370,
     nameBrass: 'Terre de Possibles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20469,7 +20469,7 @@ const projectsData = [
   {
     id: 1359,
     nameBrass: 'Les Trois Croix',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20483,7 +20483,7 @@ const projectsData = [
   {
     id: 1371,
     nameBrass: 'La Foline',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20497,7 +20497,7 @@ const projectsData = [
   {
     id: 1361,
     nameBrass: 'Ammonite',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20511,7 +20511,7 @@ const projectsData = [
   {
     id: 1374,
     nameBrass: 'des 2 Roches',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20525,7 +20525,7 @@ const projectsData = [
   {
     id: 1355,
     nameBrass: 'La Pompe à Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20539,7 +20539,7 @@ const projectsData = [
   {
     id: 1544,
     nameBrass: 'De Clerck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20553,7 +20553,7 @@ const projectsData = [
   {
     id: 1369,
     nameBrass: 'La Couleuvre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20567,7 +20567,7 @@ const projectsData = [
   {
     id: 286,
     nameBrass: 'Bois des Mousses',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20581,7 +20581,7 @@ const projectsData = [
   {
     id: 1364,
     nameBrass: 'Paille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20595,7 +20595,7 @@ const projectsData = [
   {
     id: 1534,
     nameBrass: 'La Gabarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20609,7 +20609,7 @@ const projectsData = [
   {
     id: 1373,
     nameBrass: 'La Débeurdineuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20623,7 +20623,7 @@ const projectsData = [
   {
     id: 1366,
     nameBrass: 'La Rustine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20637,7 +20637,7 @@ const projectsData = [
   {
     id: 1367,
     nameBrass: "L'Escargote",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20651,7 +20651,7 @@ const projectsData = [
   {
     id: 1362,
     nameBrass: 'de Corlay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20665,7 +20665,7 @@ const projectsData = [
   {
     id: 1425,
     nameBrass: 'Big Mountain Brewing Co.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20679,7 +20679,7 @@ const projectsData = [
   {
     id: 1375,
     nameBrass: 'Saint Pavin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20693,7 +20693,7 @@ const projectsData = [
   {
     id: 1376,
     nameBrass: 'Septante-Deux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20707,7 +20707,7 @@ const projectsData = [
   {
     id: 1384,
     nameBrass: 'Mage Malte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20721,7 +20721,7 @@ const projectsData = [
   {
     id: 460,
     nameBrass: "d'Avèze",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20735,7 +20735,7 @@ const projectsData = [
   {
     id: 1386,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20749,7 +20749,7 @@ const projectsData = [
   {
     id: 1382,
     nameBrass: 'La Chevillette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20763,7 +20763,7 @@ const projectsData = [
   {
     id: 1385,
     nameBrass: 'Les Délices de la Ferme',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20777,7 +20777,7 @@ const projectsData = [
   {
     id: 1381,
     nameBrass: 'Belle Vallée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20791,7 +20791,7 @@ const projectsData = [
   {
     id: 1378,
     nameBrass: 'de la Basse Lande (Ferme Brass',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20805,7 +20805,7 @@ const projectsData = [
   {
     id: 1379,
     nameBrass: 'du Loir',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20819,7 +20819,7 @@ const projectsData = [
   {
     id: 1383,
     nameBrass: 'Saint Mars La Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20833,7 +20833,7 @@ const projectsData = [
   {
     id: 1380,
     nameBrass: 'Barreau',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20847,7 +20847,7 @@ const projectsData = [
   {
     id: 1377,
     nameBrass: 'des Alpes Mancelles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20861,7 +20861,7 @@ const projectsData = [
   {
     id: 1388,
     nameBrass: 'des Cimes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20875,7 +20875,7 @@ const projectsData = [
   {
     id: 1411,
     nameBrass: 'des Sources de Vanoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20889,7 +20889,7 @@ const projectsData = [
   {
     id: 1405,
     nameBrass: 'Caquot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20903,7 +20903,7 @@ const projectsData = [
   {
     id: 1391,
     nameBrass: 'du Merle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20917,7 +20917,7 @@ const projectsData = [
   {
     id: 1406,
     nameBrass: 'Artisanale de Sabaudia (B.A.S)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20931,7 +20931,7 @@ const projectsData = [
   {
     id: 1342,
     nameBrass: 'Karnotzet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20945,7 +20945,7 @@ const projectsData = [
   {
     id: 1407,
     nameBrass: 'Galibier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20959,7 +20959,7 @@ const projectsData = [
   {
     id: 1400,
     nameBrass: 'de Chanaz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20973,7 +20973,7 @@ const projectsData = [
   {
     id: 1409,
     nameBrass: 'La Barbue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -20987,7 +20987,7 @@ const projectsData = [
   {
     id: 1387,
     nameBrass: 'Coup de Mousse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21001,7 +21001,7 @@ const projectsData = [
   {
     id: 1402,
     nameBrass: "L'Ecume du Guiers",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21015,7 +21015,7 @@ const projectsData = [
   {
     id: 1401,
     nameBrass: 'Les Croqueurs de Lune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21029,7 +21029,7 @@ const projectsData = [
   {
     id: 1395,
     nameBrass: 'La Montagnarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21043,7 +21043,7 @@ const projectsData = [
   {
     id: 1403,
     nameBrass: 'La Baujue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21057,7 +21057,7 @@ const projectsData = [
   {
     id: 1394,
     nameBrass: 'Archimalt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21071,7 +21071,7 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'La Canya',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21085,7 +21085,7 @@ const projectsData = [
   {
     id: 1389,
     nameBrass: 'Les Funambules',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21099,7 +21099,7 @@ const projectsData = [
   {
     id: 423,
     nameBrass: 'du Glandin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21113,7 +21113,7 @@ const projectsData = [
   {
     id: 1598,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21127,7 +21127,7 @@ const projectsData = [
   {
     id: 1397,
     nameBrass: "La Roteuse de l'Arclusaz",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21141,7 +21141,7 @@ const projectsData = [
   {
     id: 1410,
     nameBrass: "d'Oé",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21155,7 +21155,7 @@ const projectsData = [
   {
     id: 1396,
     nameBrass: 'La Mousse du Guiers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21169,7 +21169,7 @@ const projectsData = [
   {
     id: 1399,
     nameBrass: 'du Mont Blanc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21183,7 +21183,7 @@ const projectsData = [
   {
     id: 1414,
     nameBrass: 'Quardin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21197,7 +21197,7 @@ const projectsData = [
   {
     id: 1398,
     nameBrass: 'du Beaufortain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21211,7 +21211,7 @@ const projectsData = [
   {
     id: 1413,
     nameBrass: 'Tarine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21225,7 +21225,7 @@ const projectsData = [
   {
     id: 1412,
     nameBrass: 'Alpine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21239,7 +21239,7 @@ const projectsData = [
   {
     id: 1390,
     nameBrass: 'La Bulle Carrée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21253,7 +21253,7 @@ const projectsData = [
   {
     id: 1408,
     nameBrass: 'La Gwape',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21267,7 +21267,7 @@ const projectsData = [
   {
     id: 1448,
     nameBrass: 'du Pays Rochois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21281,7 +21281,7 @@ const projectsData = [
   {
     id: 1451,
     nameBrass: '1151 Microbrasserie du Béol',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21295,7 +21295,7 @@ const projectsData = [
   {
     id: 1430,
     nameBrass: 'Le Pub Irlandais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21309,7 +21309,7 @@ const projectsData = [
   {
     id: 1415,
     nameBrass: 'ArtMalté',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21323,7 +21323,7 @@ const projectsData = [
   {
     id: 1416,
     nameBrass: 'du Baigneur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21337,7 +21337,7 @@ const projectsData = [
   {
     id: 1417,
     nameBrass: 'La Démarrante',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21351,7 +21351,7 @@ const projectsData = [
   {
     id: 1452,
     nameBrass: 'Bombardos',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21365,7 +21365,7 @@ const projectsData = [
   {
     id: 1434,
     nameBrass: 'Maelström',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21379,7 +21379,7 @@ const projectsData = [
   {
     id: 1429,
     nameBrass: 'Bières du Faucigny',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21393,7 +21393,7 @@ const projectsData = [
   {
     id: 1436,
     nameBrass: 'des Voirons',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21407,7 +21407,7 @@ const projectsData = [
   {
     id: 1444,
     nameBrass: "de la Hou'",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21421,7 +21421,7 @@ const projectsData = [
   {
     id: 1420,
     nameBrass: 'Veyrat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21435,7 +21435,7 @@ const projectsData = [
   {
     id: 1433,
     nameBrass: "de l'Escargot",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21449,7 +21449,7 @@ const projectsData = [
   {
     id: 1418,
     nameBrass: 'Bec Jaune Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21463,7 +21463,7 @@ const projectsData = [
   {
     id: 1419,
     nameBrass: 'IBEX',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21477,7 +21477,7 @@ const projectsData = [
   {
     id: 1431,
     nameBrass: 'Les Brasseurs du Dragon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21491,7 +21491,7 @@ const projectsData = [
   {
     id: 1425,
     nameBrass: 'Big Mountain Brewing Co.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21505,7 +21505,7 @@ const projectsData = [
   {
     id: 1428,
     nameBrass: "L'Aravissante",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21519,7 +21519,7 @@ const projectsData = [
   {
     id: 1426,
     nameBrass: 'du Léman',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21533,7 +21533,7 @@ const projectsData = [
   {
     id: 1427,
     nameBrass: 'Le Mazot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21547,7 +21547,7 @@ const projectsData = [
   {
     id: 1453,
     nameBrass: 'Pirate',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21561,7 +21561,7 @@ const projectsData = [
   {
     id: 1440,
     nameBrass: "d'Oche",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21575,7 +21575,7 @@ const projectsData = [
   {
     id: 1441,
     nameBrass: 'Picobrasserie de Concise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21589,7 +21589,7 @@ const projectsData = [
   {
     id: 1449,
     nameBrass: 'Bruchet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21603,7 +21603,7 @@ const projectsData = [
   {
     id: 1450,
     nameBrass: 'Lab 6.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21617,7 +21617,7 @@ const projectsData = [
   {
     id: 1445,
     nameBrass: 'Bacchante',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21631,7 +21631,7 @@ const projectsData = [
   {
     id: 1446,
     nameBrass: 'Le Blaireau Qui Brasse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21645,7 +21645,7 @@ const projectsData = [
   {
     id: 1432,
     nameBrass: 'La Brasserie 744',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21659,7 +21659,7 @@ const projectsData = [
   {
     id: 887,
     nameBrass: 'Bières et Tentations',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21673,7 +21673,7 @@ const projectsData = [
   {
     id: 1439,
     nameBrass: 'de la Vallée du Giffre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21687,7 +21687,7 @@ const projectsData = [
   {
     id: 1438,
     nameBrass: 'K&G Green Valley',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21701,7 +21701,7 @@ const projectsData = [
   {
     id: 1421,
     nameBrass: 'Mordorée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21715,7 +21715,7 @@ const projectsData = [
   {
     id: 1422,
     nameBrass: 'du Mont Salève',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21729,7 +21729,7 @@ const projectsData = [
   {
     id: 1424,
     nameBrass: 'Marmotte Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21743,7 +21743,7 @@ const projectsData = [
   {
     id: 1442,
     nameBrass: 'Brasseurs Savoyards',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21757,7 +21757,7 @@ const projectsData = [
   {
     id: 1447,
     nameBrass: 'La Fabrique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21771,7 +21771,7 @@ const projectsData = [
   {
     id: 1423,
     nameBrass: 'Adennes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21785,7 +21785,7 @@ const projectsData = [
   {
     id: 1454,
     nameBrass: 'Brew Unique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21799,7 +21799,7 @@ const projectsData = [
   {
     id: 1455,
     nameBrass: 'The Frog & Rosbif',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21813,7 +21813,7 @@ const projectsData = [
   {
     id: 1456,
     nameBrass: "O' Neil",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21827,7 +21827,7 @@ const projectsData = [
   {
     id: 1457,
     nameBrass: 'Fauve Craft Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21841,7 +21841,7 @@ const projectsData = [
   {
     id: 1458,
     nameBrass: 'La Beer Fabrique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21855,7 +21855,7 @@ const projectsData = [
   {
     id: 1459,
     nameBrass: 'Les Brasseries Parisiennes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21869,7 +21869,7 @@ const projectsData = [
   {
     id: 1460,
     nameBrass: 'Petrol Brewing Company',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21883,7 +21883,7 @@ const projectsData = [
   {
     id: 1461,
     nameBrass: 'The Frog at Bercy Village',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21897,7 +21897,7 @@ const projectsData = [
   {
     id: 1462,
     nameBrass: 'Ma Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21911,7 +21911,7 @@ const projectsData = [
   {
     id: 1463,
     nameBrass: 'Sylki',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21925,7 +21925,7 @@ const projectsData = [
   {
     id: 1464,
     nameBrass: 'The Frog & British Library',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21939,7 +21939,7 @@ const projectsData = [
   {
     id: 1465,
     nameBrass: 'Bonjour Brasserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21953,7 +21953,7 @@ const projectsData = [
   {
     id: 1466,
     nameBrass: 'Frog XVI',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21967,7 +21967,7 @@ const projectsData = [
   {
     id: 1467,
     nameBrass: 'Les Houblonneurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21981,7 +21981,7 @@ const projectsData = [
   {
     id: 1468,
     nameBrass: "La Goutte d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -21995,7 +21995,7 @@ const projectsData = [
   {
     id: 1469,
     nameBrass: 'Le Bar Fondamental',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22009,7 +22009,7 @@ const projectsData = [
   {
     id: 1470,
     nameBrass: 'Mashrooms',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22023,7 +22023,7 @@ const projectsData = [
   {
     id: 1471,
     nameBrass: "de l'Être",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22037,7 +22037,7 @@ const projectsData = [
   {
     id: 1472,
     nameBrass: 'Paname Brewing Company (Brewpu',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22051,7 +22051,7 @@ const projectsData = [
   {
     id: 1473,
     nameBrass: 'La Baleine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22065,7 +22065,7 @@ const projectsData = [
   {
     id: 1474,
     nameBrass: 'Oskare',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22079,7 +22079,7 @@ const projectsData = [
   {
     id: 1483,
     nameBrass: 'Sainte Beuve',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22093,7 +22093,7 @@ const projectsData = [
   {
     id: 415,
     nameBrass: 'de la Gobette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22107,7 +22107,7 @@ const projectsData = [
   {
     id: 1492,
     nameBrass: 'Ragnar',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22121,7 +22121,7 @@ const projectsData = [
   {
     id: 1479,
     nameBrass: 'La Villaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22135,7 +22135,7 @@ const projectsData = [
   {
     id: 1478,
     nameBrass: 'Ma Première Bière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22149,7 +22149,7 @@ const projectsData = [
   {
     id: 1485,
     nameBrass: 'KFBrasserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22163,7 +22163,7 @@ const projectsData = [
   {
     id: 1481,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22177,7 +22177,7 @@ const projectsData = [
   {
     id: 1493,
     nameBrass: 'Union-B',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22191,7 +22191,7 @@ const projectsData = [
   {
     id: 1494,
     nameBrass: 'La Chapelle (Northmaen)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22205,7 +22205,7 @@ const projectsData = [
   {
     id: 1475,
     nameBrass: 'The Brew Society',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22219,7 +22219,7 @@ const projectsData = [
   {
     id: 1487,
     nameBrass: 'Cauchoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22233,7 +22233,7 @@ const projectsData = [
   {
     id: 1488,
     nameBrass: 'du Zink',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22247,7 +22247,7 @@ const projectsData = [
   {
     id: 1480,
     nameBrass: 'Septante Six',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22261,7 +22261,7 @@ const projectsData = [
   {
     id: 1491,
     nameBrass: "Ferme-Brasserie Albâtre n'Caux",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22275,7 +22275,7 @@ const projectsData = [
   {
     id: 1486,
     nameBrass: 'La Mousse des Temps',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22289,7 +22289,7 @@ const projectsData = [
   {
     id: 1476,
     nameBrass: 'de Saint Aignan',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22303,7 +22303,7 @@ const projectsData = [
   {
     id: 1370,
     nameBrass: 'Terre de Possibles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22317,7 +22317,7 @@ const projectsData = [
   {
     id: 1489,
     nameBrass: 'Ekino',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22331,7 +22331,7 @@ const projectsData = [
   {
     id: 1501,
     nameBrass: 'du Pont de Coude',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22345,7 +22345,7 @@ const projectsData = [
   {
     id: 1502,
     nameBrass: 'La Germenoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22359,7 +22359,7 @@ const projectsData = [
   {
     id: 744,
     nameBrass: 'La Germanoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22373,7 +22373,7 @@ const projectsData = [
   {
     id: 1499,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22387,7 +22387,7 @@ const projectsData = [
   {
     id: 1512,
     nameBrass: 'Pachamama',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22401,7 +22401,7 @@ const projectsData = [
   {
     id: 1510,
     nameBrass: "L'Instant",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22415,7 +22415,7 @@ const projectsData = [
   {
     id: 711,
     nameBrass: 'des Babouins Jurassiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22429,7 +22429,7 @@ const projectsData = [
   {
     id: 712,
     nameBrass: "du Triangle d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22443,7 +22443,7 @@ const projectsData = [
   {
     id: 713,
     nameBrass: "Ecole Nationale d'Industrie La",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22457,7 +22457,7 @@ const projectsData = [
   {
     id: 1513,
     nameBrass: 'Ziegler',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22471,7 +22471,7 @@ const projectsData = [
   {
     id: 1504,
     nameBrass: 'Aleric',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22485,7 +22485,7 @@ const projectsData = [
   {
     id: 1511,
     nameBrass: 'La Mousse de Bleau',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22499,7 +22499,7 @@ const projectsData = [
   {
     id: 1505,
     nameBrass: 'BrewLab',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22513,7 +22513,7 @@ const projectsData = [
   {
     id: 1508,
     nameBrass: 'La Guinche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22527,7 +22527,7 @@ const projectsData = [
   {
     id: 1149,
     nameBrass: 'Bois de la Chapelle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22541,7 +22541,7 @@ const projectsData = [
   {
     id: 1496,
     nameBrass: 'de Meaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22555,7 +22555,7 @@ const projectsData = [
   {
     id: 1503,
     nameBrass: 'J.A.M.E.S.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22569,7 +22569,7 @@ const projectsData = [
   {
     id: 1497,
     nameBrass: 'Saint Fiacre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22583,7 +22583,7 @@ const projectsData = [
   {
     id: 442,
     nameBrass: "Da Bep Lec'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22597,7 +22597,7 @@ const projectsData = [
   {
     id: 1509,
     nameBrass: 'Rabourdin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22611,7 +22611,7 @@ const projectsData = [
   {
     id: 1507,
     nameBrass: 'du Pays de Seine et Loing (BPS',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22625,7 +22625,7 @@ const projectsData = [
   {
     id: 1514,
     nameBrass: 'Crazy Hops',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22639,7 +22639,7 @@ const projectsData = [
   {
     id: 1506,
     nameBrass: 'Doux Jésus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22653,7 +22653,7 @@ const projectsData = [
   {
     id: 1112,
     nameBrass: 'Ferme du Tilloy',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22667,7 +22667,7 @@ const projectsData = [
   {
     id: 1498,
     nameBrass: 'Bières du Saule',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22681,7 +22681,7 @@ const projectsData = [
   {
     id: 1500,
     nameBrass: 'Bières de la Vallée Javot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22695,7 +22695,7 @@ const projectsData = [
   {
     id: 1515,
     nameBrass: '77CRAFT - Brasserie Artisanale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22709,7 +22709,7 @@ const projectsData = [
   {
     id: 1517,
     nameBrass: 'de la Reine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22723,7 +22723,7 @@ const projectsData = [
   {
     id: 1518,
     nameBrass: 'La Brasserie Barge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22737,7 +22737,7 @@ const projectsData = [
   {
     id: 1522,
     nameBrass: 'Les Brasseurs du Val de Seine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22751,7 +22751,7 @@ const projectsData = [
   {
     id: 1519,
     nameBrass: "O'Clock Brewing",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22765,7 +22765,7 @@ const projectsData = [
   {
     id: 1520,
     nameBrass: 'Onirique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22779,7 +22779,7 @@ const projectsData = [
   {
     id: 1526,
     nameBrass: "de l'Equipage",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22793,7 +22793,7 @@ const projectsData = [
   {
     id: 1516,
     nameBrass: 'The Beer Garage',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22807,7 +22807,7 @@ const projectsData = [
   {
     id: 1521,
     nameBrass: 'Toussaint',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22821,7 +22821,7 @@ const projectsData = [
   {
     id: 1523,
     nameBrass: 'La Mauloise - ABAM',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22835,7 +22835,7 @@ const projectsData = [
   {
     id: 1524,
     nameBrass: 'de la Vallée de Chevreuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22849,7 +22849,7 @@ const projectsData = [
   {
     id: 1528,
     nameBrass: 'GranKa',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22863,7 +22863,7 @@ const projectsData = [
   {
     id: 1525,
     nameBrass: 'Chenal',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22877,7 +22877,7 @@ const projectsData = [
   {
     id: 1527,
     nameBrass: 'Distrikt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22891,7 +22891,7 @@ const projectsData = [
   {
     id: 442,
     nameBrass: "Da Bep Lec'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22905,7 +22905,7 @@ const projectsData = [
   {
     id: 1535,
     nameBrass: 'en Brouette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22919,7 +22919,7 @@ const projectsData = [
   {
     id: 1533,
     nameBrass: 'LAPC',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22933,7 +22933,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22947,7 +22947,7 @@ const projectsData = [
   {
     id: 612,
     nameBrass: '3B - Bien Boire en Bretagne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22961,7 +22961,7 @@ const projectsData = [
   {
     id: 1532,
     nameBrass: 'Atelier de Brassage Collaborat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22975,7 +22975,7 @@ const projectsData = [
   {
     id: 1537,
     nameBrass: 'du Marais',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -22989,7 +22989,7 @@ const projectsData = [
   {
     id: 1531,
     nameBrass: 'Louis et Marguerite',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23003,7 +23003,7 @@ const projectsData = [
   {
     id: 1538,
     nameBrass: 'du Val de Sèvre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23017,7 +23017,7 @@ const projectsData = [
   {
     id: 1529,
     nameBrass: 'La Chamoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23031,7 +23031,7 @@ const projectsData = [
   {
     id: 1530,
     nameBrass: 'Atelier Brasserie Pompois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23045,7 +23045,7 @@ const projectsData = [
   {
     id: 1534,
     nameBrass: 'La Gabarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23059,7 +23059,7 @@ const projectsData = [
   {
     id: 1536,
     nameBrass: 'Pelboise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23073,7 +23073,7 @@ const projectsData = [
   {
     id: 1545,
     nameBrass: 'Rollus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23087,7 +23087,7 @@ const projectsData = [
   {
     id: 1722,
     nameBrass: 'Into The Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23101,7 +23101,7 @@ const projectsData = [
   {
     id: 1544,
     nameBrass: 'De Clerck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23115,7 +23115,7 @@ const projectsData = [
   {
     id: 1543,
     nameBrass: 'de la Baie de Somme',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23129,7 +23129,7 @@ const projectsData = [
   {
     id: 1063,
     nameBrass: 'Bellenaert',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23143,7 +23143,7 @@ const projectsData = [
   {
     id: 1064,
     nameBrass: 'Ferme-Brasserie Beck',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23157,7 +23157,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23171,7 +23171,7 @@ const projectsData = [
   {
     id: 1548,
     nameBrass: 'Picardennes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23185,7 +23185,7 @@ const projectsData = [
   {
     id: 1539,
     nameBrass: 'Ambiani',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23199,7 +23199,7 @@ const projectsData = [
   {
     id: 1540,
     nameBrass: 'Charles & Vianney',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23213,7 +23213,7 @@ const projectsData = [
   {
     id: 1541,
     nameBrass: "Bears'Tavern",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23227,7 +23227,7 @@ const projectsData = [
   {
     id: 1542,
     nameBrass: 'Le Comptoir du Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23241,7 +23241,7 @@ const projectsData = [
   {
     id: 1546,
     nameBrass: 'du Bosquet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23255,7 +23255,7 @@ const projectsData = [
   {
     id: 1549,
     nameBrass: 'Les Gélines',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23269,7 +23269,7 @@ const projectsData = [
   {
     id: 1550,
     nameBrass: 'Margot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23283,7 +23283,7 @@ const projectsData = [
   {
     id: 1551,
     nameBrass: 'Sainte-Cécile',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23297,7 +23297,7 @@ const projectsData = [
   {
     id: 1560,
     nameBrass: 'Belles de Trébas',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23311,7 +23311,7 @@ const projectsData = [
   {
     id: 1558,
     nameBrass: 'du Castel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23325,7 +23325,7 @@ const projectsData = [
   {
     id: 1565,
     nameBrass: 'La Berlue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23339,7 +23339,7 @@ const projectsData = [
   {
     id: 1554,
     nameBrass: 'Montéliote',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23353,7 +23353,7 @@ const projectsData = [
   {
     id: 1566,
     nameBrass: 'des Coteaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23367,7 +23367,7 @@ const projectsData = [
   {
     id: 1561,
     nameBrass: 'Garland',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23381,7 +23381,7 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'La Canya',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23395,7 +23395,7 @@ const projectsData = [
   {
     id: 37,
     nameBrass: 'de la Motte-Juillet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23409,7 +23409,7 @@ const projectsData = [
   {
     id: 1562,
     nameBrass: 'Tanis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23423,7 +23423,7 @@ const projectsData = [
   {
     id: 1567,
     nameBrass: "Gilbert's",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23437,7 +23437,7 @@ const projectsData = [
   {
     id: 97,
     nameBrass: "de l'Ardèche Méridionale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23451,7 +23451,7 @@ const projectsData = [
   {
     id: 462,
     nameBrass: "Bellegard'Elfe",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23465,7 +23465,7 @@ const projectsData = [
   {
     id: 1563,
     nameBrass: "de l'Oustal",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23479,7 +23479,7 @@ const projectsData = [
   {
     id: 1044,
     nameBrass: "d'Amblise",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23493,7 +23493,7 @@ const projectsData = [
   {
     id: 1552,
     nameBrass: 'Artisanale de Puycelsi',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23507,7 +23507,7 @@ const projectsData = [
   {
     id: 1556,
     nameBrass: 'des Vignes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23521,7 +23521,7 @@ const projectsData = [
   {
     id: 1557,
     nameBrass: "L'Amuse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23535,7 +23535,7 @@ const projectsData = [
   {
     id: 1555,
     nameBrass: 'du Sidobre',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23549,7 +23549,7 @@ const projectsData = [
   {
     id: 1553,
     nameBrass: 'Lézard Noir',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23563,7 +23563,7 @@ const projectsData = [
   {
     id: 1564,
     nameBrass: 'Korma French Craft Beer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23577,7 +23577,7 @@ const projectsData = [
   {
     id: 1004,
     nameBrass: "L'Arsenal",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23591,7 +23591,7 @@ const projectsData = [
   {
     id: 1559,
     nameBrass: "L'Otypik",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23605,7 +23605,7 @@ const projectsData = [
   {
     id: 1572,
     nameBrass: "Oc'Ale",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23619,7 +23619,7 @@ const projectsData = [
   {
     id: 1569,
     nameBrass: 'Joli Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23633,7 +23633,7 @@ const projectsData = [
   {
     id: 375,
     nameBrass: 'Les Bières à Jean-Louis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23647,7 +23647,7 @@ const projectsData = [
   {
     id: 376,
     nameBrass: 'La Valentinoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23661,7 +23661,7 @@ const projectsData = [
   {
     id: 1571,
     nameBrass: 'MX',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23675,7 +23675,7 @@ const projectsData = [
   {
     id: 509,
     nameBrass: 'de la Seillonne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23689,7 +23689,7 @@ const projectsData = [
   {
     id: 1570,
     nameBrass: 'Bélier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23703,7 +23703,7 @@ const projectsData = [
   {
     id: 541,
     nameBrass: 'Tribu Zytha',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23717,7 +23717,7 @@ const projectsData = [
   {
     id: 494,
     nameBrass: 'Les Frères Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23731,7 +23731,7 @@ const projectsData = [
   {
     id: 1568,
     nameBrass: 'Iron',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23745,7 +23745,7 @@ const projectsData = [
   {
     id: 1574,
     nameBrass: 'La Blonde & La Brune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23759,7 +23759,7 @@ const projectsData = [
   {
     id: 1589,
     nameBrass: 'Bozzzale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23773,7 +23773,7 @@ const projectsData = [
   {
     id: 1590,
     nameBrass: 'de la Sainte Baume',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23787,7 +23787,7 @@ const projectsData = [
   {
     id: 1579,
     nameBrass: 'Carteron',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23801,7 +23801,7 @@ const projectsData = [
   {
     id: 1580,
     nameBrass: "La Bière des Îles d'Or",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23815,7 +23815,7 @@ const projectsData = [
   {
     id: 1581,
     nameBrass: 'La Brasserie Porquerollaise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23829,7 +23829,7 @@ const projectsData = [
   {
     id: 1575,
     nameBrass: 'Chez le Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23843,7 +23843,7 @@ const projectsData = [
   {
     id: 1582,
     nameBrass: 'des Sortilèges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23857,7 +23857,7 @@ const projectsData = [
   {
     id: 1588,
     nameBrass: 'Gecko',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23871,7 +23871,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23885,7 +23885,7 @@ const projectsData = [
   {
     id: 1576,
     nameBrass: 'La Maure',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23899,7 +23899,7 @@ const projectsData = [
   {
     id: 1585,
     nameBrass: 'Le Brasseur Varois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23913,7 +23913,7 @@ const projectsData = [
   {
     id: 1577,
     nameBrass: 'La Bière Dracénoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23927,7 +23927,7 @@ const projectsData = [
   {
     id: 1583,
     nameBrass: 'La Begudo',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23941,7 +23941,7 @@ const projectsData = [
   {
     id: 1591,
     nameBrass: 'du Castellet',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23955,7 +23955,7 @@ const projectsData = [
   {
     id: 1573,
     nameBrass: 'Bière de la Rade',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23969,7 +23969,7 @@ const projectsData = [
   {
     id: 1578,
     nameBrass: 'Madame Dusse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23983,7 +23983,7 @@ const projectsData = [
   {
     id: 1587,
     nameBrass: 'La Bas Varoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -23997,7 +23997,7 @@ const projectsData = [
   {
     id: 383,
     nameBrass: 'Ferme-brasserie Déluge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24011,7 +24011,7 @@ const projectsData = [
   {
     id: 1586,
     nameBrass: "Les Brasseurs de l'Estérel",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24025,7 +24025,7 @@ const projectsData = [
   {
     id: 1595,
     nameBrass: 'Gramiller',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24039,7 +24039,7 @@ const projectsData = [
   {
     id: 1611,
     nameBrass: 'Bière du Ventoux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24053,7 +24053,7 @@ const projectsData = [
   {
     id: 1598,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24067,7 +24067,7 @@ const projectsData = [
   {
     id: 584,
     nameBrass: 'du Petit Caboulot',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24081,7 +24081,7 @@ const projectsData = [
   {
     id: 1606,
     nameBrass: "L'Imprévue",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24095,7 +24095,7 @@ const projectsData = [
   {
     id: 1603,
     nameBrass: 'La Déjantée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24109,7 +24109,7 @@ const projectsData = [
   {
     id: 1605,
     nameBrass: 'La Machotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24123,7 +24123,7 @@ const projectsData = [
   {
     id: 1614,
     nameBrass: 'du Comtat',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24137,7 +24137,7 @@ const projectsData = [
   {
     id: 1613,
     nameBrass: 'Les Brassins de Rustrel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24151,7 +24151,7 @@ const projectsData = [
   {
     id: 1596,
     nameBrass: 'Chante-Grenouille',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24165,7 +24165,7 @@ const projectsData = [
   {
     id: 1612,
     nameBrass: 'de Durfort',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24179,7 +24179,7 @@ const projectsData = [
   {
     id: 1604,
     nameBrass: 'Smalt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24193,7 +24193,7 @@ const projectsData = [
   {
     id: 575,
     nameBrass: 'La Bière du Docteur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24207,7 +24207,7 @@ const projectsData = [
   {
     id: 1600,
     nameBrass: 'AGORA',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24221,7 +24221,7 @@ const projectsData = [
   {
     id: 1601,
     nameBrass: 'Artisanale du Mont Ventoux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24235,7 +24235,7 @@ const projectsData = [
   {
     id: 1602,
     nameBrass: 'Le Lapin Blanc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24249,7 +24249,7 @@ const projectsData = [
   {
     id: 1609,
     nameBrass: 'du Chevalier Blanc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24263,7 +24263,7 @@ const projectsData = [
   {
     id: 1610,
     nameBrass: 'Les Bières du Bigourd',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24277,7 +24277,7 @@ const projectsData = [
   {
     id: 1594,
     nameBrass: 'La Mourguette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24291,7 +24291,7 @@ const projectsData = [
   {
     id: 1592,
     nameBrass: 'La Brasserie Pirate',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24305,7 +24305,7 @@ const projectsData = [
   {
     id: 1593,
     nameBrass: 'La Comédienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24319,7 +24319,7 @@ const projectsData = [
   {
     id: 1599,
     nameBrass: 'Efferv & Sciences',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24333,7 +24333,7 @@ const projectsData = [
   {
     id: 1607,
     nameBrass: 'BOC',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24347,7 +24347,7 @@ const projectsData = [
   {
     id: 1597,
     nameBrass: 'du Luberon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24361,7 +24361,7 @@ const projectsData = [
   {
     id: 1616,
     nameBrass: 'Benouz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24390,7 +24390,7 @@ const projectsData = [
   {
     id: 1617,
     nameBrass: 'des Chats Noirs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24404,7 +24404,7 @@ const projectsData = [
   {
     id: 1619,
     nameBrass: 'Les Coureurs de Lune',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24418,7 +24418,7 @@ const projectsData = [
   {
     id: 1134,
     nameBrass: 'La Bellotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24432,7 +24432,7 @@ const projectsData = [
   {
     id: 1622,
     nameBrass: 'La Cabaude',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24446,7 +24446,7 @@ const projectsData = [
   {
     id: 448,
     nameBrass: 'de Trévarn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24460,7 +24460,7 @@ const projectsData = [
   {
     id: 1621,
     nameBrass: 'Opé',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24474,7 +24474,7 @@ const projectsData = [
   {
     id: 1633,
     nameBrass: 'Les Brasseurs de la Vie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24488,7 +24488,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24502,7 +24502,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24516,7 +24516,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24530,7 +24530,7 @@ const projectsData = [
   {
     id: 1370,
     nameBrass: 'Terre de Possibles',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24544,7 +24544,7 @@ const projectsData = [
   {
     id: 1626,
     nameBrass: 'Mélusine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24558,7 +24558,7 @@ const projectsData = [
   {
     id: 1629,
     nameBrass: 'des Islattes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24572,7 +24572,7 @@ const projectsData = [
   {
     id: 1630,
     nameBrass: 'de la Motte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24586,7 +24586,7 @@ const projectsData = [
   {
     id: 1624,
     nameBrass: 'La Muette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24600,7 +24600,7 @@ const projectsData = [
   {
     id: 1627,
     nameBrass: 'du Grand Zig',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24614,7 +24614,7 @@ const projectsData = [
   {
     id: 1628,
     nameBrass: 'La Louette',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24628,7 +24628,7 @@ const projectsData = [
   {
     id: 729,
     nameBrass: 'Heima',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24642,7 +24642,7 @@ const projectsData = [
   {
     id: 1701,
     nameBrass: 'Croix de Chavaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24656,7 +24656,7 @@ const projectsData = [
   {
     id: 1702,
     nameBrass: 'Drum&Brass Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24670,7 +24670,7 @@ const projectsData = [
   {
     id: 1703,
     nameBrass: 'La Montreuilloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24684,7 +24684,7 @@ const projectsData = [
   {
     id: 1625,
     nameBrass: 'La Cibulle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24698,7 +24698,7 @@ const projectsData = [
   {
     id: 1631,
     nameBrass: "La N'O",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24727,7 +24727,7 @@ const projectsData = [
   {
     id: 1640,
     nameBrass: 'Pirates du Clain',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24741,7 +24741,7 @@ const projectsData = [
   {
     id: 407,
     nameBrass: 'de la Vallée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24755,7 +24755,7 @@ const projectsData = [
   {
     id: 1642,
     nameBrass: 'Bières de Montmorillon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24769,7 +24769,7 @@ const projectsData = [
   {
     id: 1634,
     nameBrass: 'BEOIR',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24783,7 +24783,7 @@ const projectsData = [
   {
     id: 1635,
     nameBrass: 'La Manufacture de Bières',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24797,7 +24797,7 @@ const projectsData = [
   {
     id: 1636,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24811,7 +24811,7 @@ const projectsData = [
   {
     id: 1637,
     nameBrass: 'Leclerc Poitiers',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24825,7 +24825,7 @@ const projectsData = [
   {
     id: 345,
     nameBrass: 'Lapépie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24839,7 +24839,7 @@ const projectsData = [
   {
     id: 1638,
     nameBrass: 'La Chinchée',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24853,7 +24853,7 @@ const projectsData = [
   {
     id: 729,
     nameBrass: 'Heima',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24867,7 +24867,7 @@ const projectsData = [
   {
     id: 1641,
     nameBrass: 'The Ginger Cat Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24881,7 +24881,7 @@ const projectsData = [
   {
     id: 1625,
     nameBrass: 'La Cibulle',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24895,7 +24895,7 @@ const projectsData = [
   {
     id: 653,
     nameBrass: 'Domaine du Bélier Rouge',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24909,7 +24909,7 @@ const projectsData = [
   {
     id: 136,
     nameBrass: "L'Once Troy",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24923,7 +24923,7 @@ const projectsData = [
   {
     id: 1643,
     nameBrass: 'La Brasserie Clando',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24937,7 +24937,7 @@ const projectsData = [
   {
     id: 1651,
     nameBrass: 'Ferme collective La Tournerie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24951,7 +24951,7 @@ const projectsData = [
   {
     id: 1644,
     nameBrass: 'Plormel',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24965,7 +24965,7 @@ const projectsData = [
   {
     id: 1645,
     nameBrass: 'Michard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24979,7 +24979,7 @@ const projectsData = [
   {
     id: 224,
     nameBrass: 'des Charentes',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -24993,7 +24993,7 @@ const projectsData = [
   {
     id: 1649,
     nameBrass: "Cerva d'Oc",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25007,7 +25007,7 @@ const projectsData = [
   {
     id: 567,
     nameBrass: 'La Louve Grise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25021,7 +25021,7 @@ const projectsData = [
   {
     id: 1650,
     nameBrass: 'Arti Brassage 87',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25035,7 +25035,7 @@ const projectsData = [
   {
     id: 1647,
     nameBrass: 'Brâm',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25049,7 +25049,7 @@ const projectsData = [
   {
     id: 1648,
     nameBrass: 'de Bel-Air-La bergere',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25063,7 +25063,7 @@ const projectsData = [
   {
     id: 1659,
     nameBrass: 'ESAT Les Ateliers du Bois Joli',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25077,7 +25077,7 @@ const projectsData = [
   {
     id: 279,
     nameBrass: 'Loro Bières Artisanales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25091,7 +25091,7 @@ const projectsData = [
   {
     id: 1663,
     nameBrass: 'La Clandestine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25105,7 +25105,7 @@ const projectsData = [
   {
     id: 942,
     nameBrass: 'Istoria',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25119,7 +25119,7 @@ const projectsData = [
   {
     id: 1670,
     nameBrass: 'Beer Of No Nation',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25133,7 +25133,7 @@ const projectsData = [
   {
     id: 1655,
     nameBrass: 'du Pays des Lacs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25147,7 +25147,7 @@ const projectsData = [
   {
     id: 1652,
     nameBrass: 'La Fouillotte',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25161,7 +25161,7 @@ const projectsData = [
   {
     id: 1653,
     nameBrass: 'La Luette Fleurie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25175,7 +25175,7 @@ const projectsData = [
   {
     id: 1669,
     nameBrass: 'du Thoné',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25189,7 +25189,7 @@ const projectsData = [
   {
     id: 1656,
     nameBrass: 'du Mont Fleuri',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25203,7 +25203,7 @@ const projectsData = [
   {
     id: 1658,
     nameBrass: 'Artisanale des Vosges',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25217,7 +25217,7 @@ const projectsData = [
   {
     id: 1667,
     nameBrass: 'du Meix Blanc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25231,7 +25231,7 @@ const projectsData = [
   {
     id: 1668,
     nameBrass: 'La Gérômoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25245,7 +25245,7 @@ const projectsData = [
   {
     id: 1661,
     nameBrass: "L'Opercule",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25259,7 +25259,7 @@ const projectsData = [
   {
     id: 1654,
     nameBrass: 'Matrina America',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25273,7 +25273,7 @@ const projectsData = [
   {
     id: 1660,
     nameBrass: "de Quat'Sous",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25287,7 +25287,7 @@ const projectsData = [
   {
     id: 1657,
     nameBrass: 'de Remiremont',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25301,7 +25301,7 @@ const projectsData = [
   {
     id: 12,
     nameBrass: 'Les Deux Frères',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25315,7 +25315,7 @@ const projectsData = [
   {
     id: 272,
     nameBrass: 'des Ducs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25329,7 +25329,7 @@ const projectsData = [
   {
     id: 1662,
     nameBrass: 'La Golaye',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25343,7 +25343,7 @@ const projectsData = [
   {
     id: 1664,
     nameBrass: 'Musée Vosgien de la Brasserie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25357,7 +25357,7 @@ const projectsData = [
   {
     id: 1680,
     nameBrass: 'La Fringale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25371,7 +25371,7 @@ const projectsData = [
   {
     id: 1675,
     nameBrass: 'La Cuverie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25385,7 +25385,7 @@ const projectsData = [
   {
     id: 1674,
     nameBrass: "La Dégust'station",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25399,7 +25399,7 @@ const projectsData = [
   {
     id: 442,
     nameBrass: "Da Bep Lec'h",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25413,7 +25413,7 @@ const projectsData = [
   {
     id: 1678,
     nameBrass: 'de Vézelay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25427,7 +25427,7 @@ const projectsData = [
   {
     id: 1671,
     nameBrass: 'Monclem',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25441,7 +25441,7 @@ const projectsData = [
   {
     id: 1677,
     nameBrass: 'La Truite',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25455,7 +25455,7 @@ const projectsData = [
   {
     id: 1676,
     nameBrass: 'Popihn',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25469,7 +25469,7 @@ const projectsData = [
   {
     id: 1425,
     nameBrass: 'Big Mountain Brewing Co.',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25483,7 +25483,7 @@ const projectsData = [
   {
     id: 1679,
     nameBrass: 'Bières de la Colline',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25497,7 +25497,7 @@ const projectsData = [
   {
     id: 1673,
     nameBrass: "Odile t'en brasse",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25511,7 +25511,7 @@ const projectsData = [
   {
     id: 139,
     nameBrass: 'La Roof',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25525,7 +25525,7 @@ const projectsData = [
   {
     id: 1707,
     nameBrass: 'Brasserie du Grand Paris',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25539,7 +25539,7 @@ const projectsData = [
   {
     id: 1681,
     nameBrass: 'Le Grand Duc',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25553,7 +25553,7 @@ const projectsData = [
   {
     id: 1672,
     nameBrass: 'Larché',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25567,7 +25567,7 @@ const projectsData = [
   {
     id: 1373,
     nameBrass: 'La Débeurdineuse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25581,7 +25581,7 @@ const projectsData = [
   {
     id: 1682,
     nameBrass: 'de Chablis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25595,7 +25595,7 @@ const projectsData = [
   {
     id: 1519,
     nameBrass: "O'Clock Brewing",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25609,7 +25609,7 @@ const projectsData = [
   {
     id: 1520,
     nameBrass: 'Onirique',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25623,7 +25623,7 @@ const projectsData = [
   {
     id: 1683,
     nameBrass: 'MicroBrasserie & Compagnie (MB',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25637,7 +25637,7 @@ const projectsData = [
   {
     id: 673,
     nameBrass: 'La Dourbie',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25651,7 +25651,7 @@ const projectsData = [
   {
     id: 1684,
     nameBrass: 'du Territoire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25665,7 +25665,7 @@ const projectsData = [
   {
     id: 1687,
     nameBrass: "de La'chapelle",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25679,7 +25679,7 @@ const projectsData = [
   {
     id: 1685,
     nameBrass: 'Franc Comtoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25693,7 +25693,7 @@ const projectsData = [
   {
     id: 1686,
     nameBrass: 'Belfortaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25707,7 +25707,7 @@ const projectsData = [
   {
     id: 1047,
     nameBrass: 'Cambier',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25721,7 +25721,7 @@ const projectsData = [
   {
     id: 1012,
     nameBrass: 'Hexagone & Ales',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25735,7 +25735,7 @@ const projectsData = [
   {
     id: 1688,
     nameBrass: 'La Bouledogue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25749,7 +25749,7 @@ const projectsData = [
   {
     id: 1690,
     nameBrass: 'Coconino',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25763,7 +25763,7 @@ const projectsData = [
   {
     id: 192,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25777,7 +25777,7 @@ const projectsData = [
   {
     id: 1693,
     nameBrass: "Locar't",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25791,7 +25791,7 @@ const projectsData = [
   {
     id: 1694,
     nameBrass: 'Parisis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25805,7 +25805,7 @@ const projectsData = [
   {
     id: 1691,
     nameBrass: 'Artisanale de Marcoussis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25819,7 +25819,7 @@ const projectsData = [
   {
     id: 1692,
     nameBrass: 'de la Juine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25833,7 +25833,7 @@ const projectsData = [
   {
     id: 1695,
     nameBrass: 'Inkraft Beer Company',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25847,7 +25847,7 @@ const projectsData = [
   {
     id: 1689,
     nameBrass: 'Les 3 Brasseurs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25861,7 +25861,7 @@ const projectsData = [
   {
     id: 1696,
     nameBrass: 'Seguin Sound',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25875,7 +25875,7 @@ const projectsData = [
   {
     id: 1699,
     nameBrass: 'Petite Couronne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25889,7 +25889,7 @@ const projectsData = [
   {
     id: 1697,
     nameBrass: 'Quatre Elements',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25903,7 +25903,7 @@ const projectsData = [
   {
     id: 1698,
     nameBrass: 'Rive Droite Rive Gauche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25917,7 +25917,7 @@ const projectsData = [
   {
     id: 921,
     nameBrass: 'de Maître Hanche',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25931,7 +25931,7 @@ const projectsData = [
   {
     id: 1705,
     nameBrass: 'Brassins Parisiens',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25945,7 +25945,7 @@ const projectsData = [
   {
     id: 1706,
     nameBrass: 'de la Fontaine',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25959,7 +25959,7 @@ const projectsData = [
   {
     id: 1701,
     nameBrass: 'Croix de Chavaux',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25973,7 +25973,7 @@ const projectsData = [
   {
     id: 1702,
     nameBrass: 'Drum&Brass Brewery',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -25987,7 +25987,7 @@ const projectsData = [
   {
     id: 1703,
     nameBrass: 'La Montreuilloise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26001,7 +26001,7 @@ const projectsData = [
   {
     id: 1707,
     nameBrass: 'Brasserie du Grand Paris',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26015,7 +26015,7 @@ const projectsData = [
   {
     id: 1708,
     nameBrass: 'Bière MIЯ',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26029,7 +26029,7 @@ const projectsData = [
   {
     id: 1700,
     nameBrass: 'Demory',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26043,7 +26043,7 @@ const projectsData = [
   {
     id: 1709,
     nameBrass: 'FrogBeer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26057,7 +26057,7 @@ const projectsData = [
   {
     id: 1710,
     nameBrass: 'Gallia',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26071,7 +26071,7 @@ const projectsData = [
   {
     id: 1711,
     nameBrass: 'La Parisienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26085,7 +26085,7 @@ const projectsData = [
   {
     id: 1712,
     nameBrass: "Paname Brewing Company (L'Atel",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26099,7 +26099,7 @@ const projectsData = [
   {
     id: 1704,
     nameBrass: 'Valois',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26113,7 +26113,7 @@ const projectsData = [
   {
     id: 1715,
     nameBrass: 'Outland',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26127,7 +26127,7 @@ const projectsData = [
   {
     id: 1719,
     nameBrass: 'Artemus',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26141,7 +26141,7 @@ const projectsData = [
   {
     id: 1716,
     nameBrass: "S'tache",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26155,7 +26155,7 @@ const projectsData = [
   {
     id: 1713,
     nameBrass: '3ienchs',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26169,7 +26169,7 @@ const projectsData = [
   {
     id: 1714,
     nameBrass: 'Mappiness',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26183,7 +26183,7 @@ const projectsData = [
   {
     id: 1249,
     nameBrass: 'Guth',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26197,7 +26197,7 @@ const projectsData = [
   {
     id: 1717,
     nameBrass: 'Deck & Donohue',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26211,7 +26211,7 @@ const projectsData = [
   {
     id: 1718,
     nameBrass: 'Breuvages et Bavardages',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26225,7 +26225,7 @@ const projectsData = [
   {
     id: 232,
     nameBrass: 'Bière de la Lanterne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26239,7 +26239,7 @@ const projectsData = [
   {
     id: 233,
     nameBrass: 'Maison Bastard',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26253,7 +26253,7 @@ const projectsData = [
   {
     id: 1727,
     nameBrass: 'Ferme-Brasserie du Vexin',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26267,7 +26267,7 @@ const projectsData = [
   {
     id: 1726,
     nameBrass: 'Hespebay',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26281,7 +26281,7 @@ const projectsData = [
   {
     id: 1725,
     nameBrass: "d'Orville",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26295,7 +26295,7 @@ const projectsData = [
   {
     id: 1721,
     nameBrass: 'Terrabière',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26309,7 +26309,7 @@ const projectsData = [
   {
     id: 1722,
     nameBrass: 'Into The Malt',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26323,7 +26323,7 @@ const projectsData = [
   {
     id: 1723,
     nameBrass: 'C-Hop & Racer',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26337,7 +26337,7 @@ const projectsData = [
   {
     id: 1720,
     nameBrass: 'Le Sapeur Brasseur',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26351,7 +26351,7 @@ const projectsData = [
   {
     id: 1724,
     nameBrass: 'La Damoise',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26365,7 +26365,7 @@ const projectsData = [
   {
     id: 466,
     nameBrass: 'Etienne',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26379,7 +26379,7 @@ const projectsData = [
   {
     id: 543,
     nameBrass: 'Aliénor',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26393,7 +26393,7 @@ const projectsData = [
   {
     id: 664,
     nameBrass: "La Fourmi'Bière",
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26407,7 +26407,7 @@ const projectsData = [
   {
     id: 260,
     nameBrass: 'Impériale',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26421,7 +26421,7 @@ const projectsData = [
   {
     id: 261,
     nameBrass: 'du Maquis',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26435,7 +26435,7 @@ const projectsData = [
   {
     id: 267,
     nameBrass: 'La Petite Brasserie de Corse',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26449,7 +26449,7 @@ const projectsData = [
   {
     id: 264,
     nameBrass: 'Brasseria di u Monte Kyrie Elë',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26463,7 +26463,7 @@ const projectsData = [
   {
     id: 262,
     nameBrass: 'Corsina',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26477,7 +26477,7 @@ const projectsData = [
   {
     id: 268,
     nameBrass: 'A Malacella',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26491,7 +26491,7 @@ const projectsData = [
   {
     id: 266,
     nameBrass: 'Bière Ribella',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26505,7 +26505,7 @@ const projectsData = [
   {
     id: 269,
     nameBrass: 'Pietra',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26519,7 +26519,7 @@ const projectsData = [
   {
     id: 263,
     nameBrass: 'Lutina',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26533,7 +26533,7 @@ const projectsData = [
   {
     id: 962,
     nameBrass: 'du Corsaire',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: 'ZAC Houelbourg , Voie Verte',
@@ -26547,7 +26547,7 @@ const projectsData = [
   {
     id: 1282,
     nameBrass: 'Les Brasseurs de Guadeloupe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26562,7 +26562,7 @@ const projectsData = [
   {
     id: 1752,
     nameBrass: 'de Deshaies',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos:
       ' Brasseur : Aline ARSENAULT - Date de création : 2016 - EMail: brasserie.deshaies@gmail.com',
@@ -26577,7 +26577,7 @@ const projectsData = [
   {
     id: 1753,
     nameBrass: 'Lékouz',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos:
       'Brasseur: Ethan DEAN - Date de création: 2018 - EMail: brasserie@lekouz.com   ',
@@ -26593,7 +26593,7 @@ const projectsData = [
   {
     id: 1754,
     nameBrass: 'Lost SXM',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26607,7 +26607,7 @@ const projectsData = [
   {
     id: 1755,
     nameBrass: 'Bières de la Lézarde',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: ' Création : 07/2015  ',
     address: '1 Allée de Merwart , Vernou',
@@ -26621,7 +26621,7 @@ const projectsData = [
   {
     id: 1756,
     nameBrass: 'Les Brasseurs de Guadeloupe',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
     address: '',
@@ -26631,6 +26631,48 @@ const projectsData = [
     ville_departement: '971 - Guadeloupe',
     lat: 16.1913912,
     lng: -61.5903488,
+  },
+  {
+    id: 1743,
+    nameBrass: 'de Lorraine',
+    img: './images/logo2.jpg',
+    title: '',
+    infos: '  ',
+    address: 'Quartier Union',
+    phone: '0596.51.19.55',
+    link: 'http://brasserielorraine.com/',
+    nameTown: '97323 LE LAMANTIN',
+    ville_departement: '972 - Martinique',
+    lng: -61.017383887368425,
+    lat: 14.626243069102852,
+  },
+  {
+    id: 1762,
+    nameBrass: 'Petite Brasserie Martiniquaise',
+    img: './images/logo2.jpg',
+    title: '',
+    infos: 'Date de création : 2019 - Brasseur : Aymeric VASSON ',
+    address: 'ZI Les Coteaux',
+    phone: '0596.51.19.55',
+    link: 'https://www.facebook.com/biereBAM/',
+    nameTown: '97228 SAINTE LUCE',
+    ville_departement: '972 - Martinique',
+    lng: -60.9214796,
+    lat: 14.468281,
+  },
+  {
+    id: 1763,
+    nameBrass: 'Les Trois Brasseurs',
+    img: './images/logo2.jpg',
+    title: '',
+    infos: '  ',
+    address: 'Palais des Congres de Madiana',
+    phone: '05.96.72.15.30',
+    link: 'http://brasserielorraine.com/',
+    nameTown: '97200 FORT DE FRANCE',
+    ville_departement: '972 - Martinique',
+    lat: 14.633267402648926,
+    lng: -61.068641662597656,
   },
   {
     id: 1732,
@@ -26650,128 +26692,147 @@ const projectsData = [
   {
     id: 1231,
     nameBrass: 'Bourbon',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
-    link: '',
-    nameTown: 'SAINT-DENIS',
+    infos: 'Date de création : 1962  ',
+    address: '	60 Quai Ouest ',
+    phone: '02.62.90.22.00',
+    link: 'https://ladodo.com/',
+    nameTown: '97468 SAINT-DENIS',
     ville_departement: '974 - La Réunion',
-    lng: 55.4504,
-    lat: -20.8823,
+    lng: 55.4449241,
+    lat: -20.8799176,
   },
   {
     id: 1707,
-    nameBrass: ' du Grand Paris',
-    img: './images/logo1.jpg',
+    nameBrass: 'Dalons',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
-    link: '',
-    nameTown: 'SAINT-DENIS',
+    infos:
+      ' Brasseurs : Thibault COLBALCHINI, Joris GUEDON et Jonathan HIN TUNG - Date de création : 2018',
+    address: '75 rue de la Colline',
+    phone: '(+262) 692.39.68.71',
+    link: 'https://www.bieredalons.com/',
+    nameTown: '97400 SAINT-DENIS',
     ville_departement: '974 - La Réunion',
-    lng: 55.448137,
-    lat: -20.8799889,
+    lng: 55.457069396972656,
+    lat: -20.90209197998047,
   },
   {
     id: 1282,
-    nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    nameBrass: "de L'ilet",
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos:
+      'Date de création : 10/2011 - EMail: microbrasserie.ilet@gmail.com  ',
+    address: '260 rue de la Republique',
+    phone: '06.92.22.89.73',
     link: '',
-    nameTown: 'SAINT-DENIS',
+    nameTown: '97431 LA PLAINE-DES-PALMISTES',
     ville_departement: '974 - La Réunion',
-    lng: 55.4135962,
-    lat: -21.2840124,
+    lng: 55.60344,
+    lat: -21.10084,
   },
   {
     id: 1757,
-    nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    nameBrass: "de L'ouest",
+    img: './images/logo2.jpg',
     title: '',
     infos: '  ',
-    address: '',
+    address: '7 che Cacao',
     phone: '',
-    link: '',
-    nameTown: 'SAINT-LOUIS',
+    link: 'https://www.facebook.com/brasserieouest.re/',
+    nameTown: '97419 La POSSESION',
     ville_departement: '974 - La Réunion',
-    lng: 55.4135962,
-    lat: -21.2840124,
+    lng: 55.6,
+    lat: -21.1,
   },
   {
     id: 1758,
-    nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    nameBrass: 'Picaro',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos: 'Date de création : 10/2008 - brasseur : Pierre VUCCINO  ',
+    address: '48 rue Maxine Rivière',
+    phone: '02.62.28.84.46 - 06.93.80.24.86',
     link: '',
-    nameTown: 'SAINT-LOUIS',
+    nameTown: '97430 SAINT PIERRE',
     ville_departement: '974 - La Réunion',
-    lng: 55.4135962,
-    lat: -21.2840124,
+    lng: 55.518,
+    lat: -21.2831,
   },
   {
     id: 1759,
-    nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    nameBrass: 'Les trois brasseurs',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos: 'Date de création : 2003  ',
+    address: 'Cité Canabady 2',
+    phone: '0 262 96 30 60 ',
     link: '',
-    nameTown: 'SAINT-LOUIS',
+    nameTown: '97410 SAINT PIERRE ',
     ville_departement: '974 - La Réunion',
-    lng: 55.4135962,
-    lat: -21.2840124,
+    lng: 55.4769815,
+    lat: -21.3308564,
   },
   {
     id: 1760,
-    nameBrass: 'de Saint Louis',
-    img: './images/logo1.jpg',
+    nameBrass: 'Sorebra',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos:
+      'Brasseur : Patrick GAUGER - prix : Fourquet de Bronze catégorie Bières Aromatisées Au concours de St Nicolas de Port en 2007, Fourquet de Bronze catégorie Bières Blonde de fermentation basse Au concours de St Nicolas de Port en 2007  ',
+    address: '12 rue Andre Robert',
+    phone: '0262.26.82.42',
     link: '',
-    nameTown: 'SAINT-LOUIS',
+    nameTown: '97450 SAINT-LOUIS',
     ville_departement: '974 - La Réunion',
-    lng: 55.4135962,
-    lat: -21.2840124,
+    lng: 55.3970434,
+    lat: -21.2917446,
   },
   {
-    id: 1743,
-    nameBrass: 'de Mayotte',
-    img: './images/logo1.jpg',
+    id: 1761,
+    nameBrass: "De L'anse",
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos: 'Date de création : 2017 - EMail: miquale975@gmail.com  ',
+    address: "Rte du fond de l'Anse ",
+    phone: '+508.55.60.76 ',
     link: '',
-    nameTown: 'KOUNGOU',
-    ville_departement: '976 - Mayotte',
-    lng: 45.2023,
-    lat: -12.7341,
+    nameTown: '97500 MIQUELON LANGLADE ',
+    ville_departement: '975 - Saint Pierre et Miquelon',
+    lng: -56.3807512,
+    lat: 47.1164335,
   },
+
   {
     id: 1742,
     nameBrass: 'Aqua Service Mayotte (Hipo)',
-    img: './images/logo1.jpg',
+    img: './images/logo2.jpg',
     title: '',
-    infos: '  ',
-    address: '',
-    phone: '',
+    infos: 'Date de création : 2014 - EMail : commercial.asm@mayco.fr  ',
+    address: '3 Vallée Longony',
+    phone: '02.69.61.57.50',
     link: '',
-    nameTown: 'MAMOUDZOU',
+    nameTown: '97600 MAMOUDZOU',
     ville_departement: '976 - Mayotte',
     lng: 45.2317,
     lat: -12.7814,
+  },
+  {
+    id: 1762,
+    nameBrass: 'de Monaco',
+    img: './images/monaco.png',
+    title: '',
+    infos: '',
+    address: '36 route de la piscine',
+    phone: '+377 97 98 51 20',
+    link: 'https://brasseriedemonaco.com/',
+    link2: 'https://www.facebook.com/brasseriemonaco/',
+    nameTown: '98000 MONACO ',
+    ville_departement: '980 - Monaco',
+    lng: 7.4238368,
+    lat: 43.7371035,
   },
 ]
 export default projectsData

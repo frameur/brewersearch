@@ -63,8 +63,14 @@ li {
   font-weight: 700;
   padding-left: 10px;
   outline: none;
-  border-color: $color-10;
+  border-radius: 10px;
+  border: 2px solid $color-11;
+  -webkit-box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+  -moz-box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+  box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+  cursor: pointer;
 }
+
 .resultSearch p {
   margin: 12px;
   font-size: 30px;
@@ -198,4 +204,18 @@ th.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.mapcarte {
+  border-radius: 10px;
+  border: 2px solid $color-11;
+  -webkit-box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+  -moz-box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+  box-shadow: 13px 15px 43px -14px rgba(0, 0, 0, 0.66);
+}
+.mapcartemodal {
+  border-radius: 10px;
+  border: 2px solid $color-11;
+  -webkit-box-shadow: 0px 21px 52px -13px rgba(237, 237, 237, 0.56);
+  -moz-box-shadow: 0px 21px 52px -13px rgba(237, 237, 237, 0.56);
+  box-shadow: 0px 21px 52px -13px rgba(237, 237, 237, 0.56);
 }
