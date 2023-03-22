@@ -274,7 +274,7 @@ const Home = () => {
                           <MapContainer
                             className="mapcartemodal"
                             center={position}
-                            zoom={8}
+                            zoom={12}
                             scrollWheelZoom={true}
                             style={{ height: '400px' }}
                           >
