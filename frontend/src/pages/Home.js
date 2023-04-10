@@ -142,6 +142,7 @@ const Home = () => {
   return (
     <div>
       <Navigation />
+
       <h1 className="pageTitle">&#127866;les brasseurs</h1>
       {selectedDepartment !== '0' && isMapVisible && (
         <MapContainer

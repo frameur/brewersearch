@@ -1,0 +1,78 @@
+h3 {
+  font-family: Roboto Flex, sans-serif;
+  font-size: clamp(30px, 8vw, 60px);
+  text-align: center;
+  text-transform: uppercase;
+  padding: calc(50px + 1vmin) 10px calc(80px + 1vmin);
+}
+
+.documentation-container {
+  max-width: 1200px;
+  top: 20%;
+  margin: 0 auto;
+  display: flex;
+  padding: 0 20px;
+  behavior: smooth;
+}
+
+nav {
+  align-self: flex-start;
+  margin-right: calc(40px + 1vmin);
+  position: sticky;
+  top: 0;
+  border: 2px solid rgba(51, 51, 51, 0.25);
+  border-radius: 8px;
+  width: 400px;
+}
+nav a {
+  display: block;
+  position: relative;
+  color: #8d8d8d;
+  text-decoration: none;
+  font-size: 14px;
+  padding: calc(5px + 1vmin) calc(20px + 1vmin);
+  font-weight: 500;
+  overflow: hidden;
+}
+nav a:nth-child(1) {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+nav a:last-child {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+nav a.marked {
+  color: #333;
+  background: #eaeaea;
+}
+nav a.marked::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 100%;
+  border-radius: 2px;
+  top: 0;
+  right: 0;
+  background: #06aa06;
+}
+.content-section {
+  margin-bottom: 30px;
+}
+.content-section h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+.content-section p {
+  margin-top: 10px;
+  text-align: justify;
+  font-weight: 800;
+  font-size: 0.8rem;
+}
+.content-section img {
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+}

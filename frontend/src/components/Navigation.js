@@ -6,6 +6,14 @@ const Navigation = () => {
     <div className="navigation">
       <NavLink to="/" className={(nav) => (nav.isActive ? 'nav-active' : '')}>
         <ul>
+          <li>register</li>
+        </ul>
+      </NavLink>
+      <NavLink
+        to="/home"
+        className={(nav) => (nav.isActive ? 'nav-active' : '')}
+      >
+        <ul>
           <li>les brasseurs</li>
         </ul>
       </NavLink>
@@ -18,11 +26,11 @@ const Navigation = () => {
         </ul>
       </NavLink>
       <NavLink
-        to="/leaflet"
+        to="/histoire"
         className={(nav) => (nav.isActive ? 'nav-active' : '')}
       >
         <ul>
-          <li>Map leaflet</li>
+          <li>histoire de la biere</li>
         </ul>
       </NavLink>
     </div>
