@@ -22,7 +22,9 @@ const Navigation = () => {
         className={(nav) => (nav.isActive ? 'nav-active' : '')}
       >
         <ul>
-          <li>le brasseur</li>
+          <li className={(nav) => (nav.isActive ? 'nav-active' : '')}>
+            le brasseur
+          </li>
         </ul>
       </NavLink>
       <NavLink
@@ -31,6 +33,14 @@ const Navigation = () => {
       >
         <ul>
           <li>histoire de la biere</li>
+        </ul>
+      </NavLink>
+      <NavLink
+        to="/tableau"
+        className={(nav) => (nav.isActive ? 'nav-active' : '')}
+      >
+        <ul>
+          <li>brewers table</li>
         </ul>
       </NavLink>
     </div>

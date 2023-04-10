@@ -282,3 +282,13 @@ th.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head {
 //   cursor: pointer;
 //   color: #212040;
 // }
+.popupImg {
+  float: left; /* Aligner l'image à gauche du texte */
+  margin-right: 5px; /* Ajouter une marge à droite de l'image pour l'espacement */
+  max-width: 200px; /* Définir une largeur maximale pour l'image */
+  border-radius: 8px; /* Ajouter une bordure arrondie à l'image */
+}
+.popupImg img {
+  max-width: 100%;
+  height: auto;
+}

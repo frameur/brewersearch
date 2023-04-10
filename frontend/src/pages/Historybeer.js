@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import Navigation from '../components/Navigation'
 import './history.css'
-import img1 from './images/intro.jpeg'
+import img1 from './images/introduction.jpg'
 import img3 from './images/sumeriens.webp'
 import img5 from './images/grec.webp'
 import img8 from './images/brasseur.webp'
@@ -13,6 +13,7 @@ import img13 from './images/moderne.webp'
 import img14 from './images/declin.webp'
 import img15 from './images/renouveau.webp'
 import img16 from './images/bocks.webp'
+import img18 from './images/tablebeer.jpg'
 
 export default function Historybeer() {
   const sections = [...document.querySelectorAll('.content-section')]
@@ -141,6 +142,7 @@ export default function Historybeer() {
           <a href="#guildes">Les Guildes</a>
           <a href="#pasteur">Louis Pasteur</a>
           <a href="#bocks">Les Sous Bocks</a>
+          <a href="#tables">Tables beer</a>
           <a href="#conclusion">Conclusion</a>
         </nav>
         <div className="documentation-content">
@@ -166,7 +168,7 @@ export default function Historybeer() {
               son histoire.
             </p>
           </section>
-          <section className="content-section" id="chine">
+          <section className="content-section" id="1">
             <h2>
               1 - L'Antiquité : La découverte fortuite de la bière et ses
               premiers usages.
@@ -183,7 +185,7 @@ export default function Historybeer() {
               comme une boisson sacrée, utilisée lors de cérémonies religieuses.
             </p>
           </section>
-          <section className="content-section" id="sumériens">
+          <section className="content-section" id="2">
             <h2>
               2 - Moyen Âge : La bière comme boisson quotidienne et la montée
               des brasseries.
@@ -203,7 +205,7 @@ export default function Historybeer() {
               comme ayant des propriétés curatives.
             </p>
           </section>
-          <section className="content-section" id="egyptiens">
+          <section className="content-section" id="3">
             <h2>3 - Renaissance : L'essor de la bière commerciale</h2>
             <img src={img11} alt="" />
 
@@ -219,7 +221,7 @@ export default function Historybeer() {
               ont été édictées pour garantir la qualité des bières produites.
             </p>
           </section>
-          <section className="content-section" id="grecs">
+          <section className="content-section" id="4">
             <h2>4 - Révolution industrielle : L'ère des brasseries modernes</h2>
             <img src={img14} alt="" />
 
@@ -234,7 +236,7 @@ export default function Historybeer() {
               de nouvelles méthodes de production et de distribution.
             </p>
           </section>
-          <section className="content-section" id="gaulois">
+          <section className="content-section" id="5">
             <h2>5 - XIXe siècle : La bière, une boisson de masse</h2>
             <img src={img13} alt="" />
             <p>
@@ -256,7 +258,7 @@ export default function Historybeer() {
               production à grande échelle et de profits
             </p>
           </section>
-          <section className="content-section" id="moine">
+          <section className="content-section" id="6">
             <h2>
               6 - XXe siècle : La bière dans la culture de masse et la
               diversification.
@@ -280,7 +282,7 @@ export default function Historybeer() {
               offrant aux consommateurs un large éventail de choix.
             </p>
           </section>
-          <section className="content-section" id="appellation">
+          <section className="content-section" id="7">
             <h2>
               7 - XXIe siècle : L'essor de la bière artisanale et du mouvement
               de brassage à domicile.
@@ -398,7 +400,40 @@ export default function Historybeer() {
               bière.
             </p>
           </section>
-          <section className="content-section" id="moderne">
+          <section className="content-section" id="tables">
+            <h2>
+              La Table Périodique de la Bière : Une histoire de la
+              classification des styles de bière
+            </h2>
+            <img src={img18} alt="" />
+            <p>
+              La Table Périodique de la Bière est un outil visuel qui a été
+              développé pour classer et organiser les différents styles de bière
+              en fonction de leurs caractéristiques et de leurs attributs.
+              Inspirée de la Table Périodique des Éléments de Mendeleïev, cette
+              représentation graphique offre une vue d'ensemble des différents
+              types de bière, avec des informations sur leur couleur, leur
+              densité, leur teneur en alcool, leur origine géographique, ainsi
+              que leurs caractéristiques aromatiques et gustatives. <br />
+              <br />
+              L'origine et le développement de la Table Périodique de la Bière
+              en tant qu'outil de classification des styles de bière. <br />
+              2-La structure et les éléments clés de la Table Périodique de la
+              Bière et leur signification.
+              <br /> 3-L'utilisation de la Table Périodique de la Bière dans la
+              dégustation, la dégustation et la compréhension des différents
+              styles de bière.
+              <br /> 4-L'évolution et l'impact de la Table Périodique de la
+              Bière dans la culture brassicole moderne. <br />
+              <br /> En explorant l'histoire des sous-bocks, nous pouvons mieux
+              En explorant l'histoire de la Table Périodique de la Bière, nous
+              pouvons mieux comprendre son rôle en tant qu'outil de
+              classification des styles de bière et comment elle a évolué pour
+              devenir un outil incontournable pour les amateurs de bière et les
+              professionnels de l'industrie brassicole.
+            </p>
+          </section>
+          <section className="content-section" id="conclusion">
             <h2>Conclusion</h2>
             <img src={img5} alt="" />
 

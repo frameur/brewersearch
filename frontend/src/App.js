@@ -5,6 +5,7 @@ import About from './pages/About'
 import Historybeer from './pages/Historybeer'
 import Home from './pages/Home'
 import Signup from './Signup'
+import Tableaubrewers from './pages/Tableaubrewers'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/histoire" element={<Historybeer />} />
+          <Route path="/tableau" element={<Tableaubrewers />} />
         </Routes>
       </BrowserRouter>
     </>

@@ -1,53 +1,55 @@
 .navigation {
   display: flex;
+  justify-content: center;
+  background: url(../../pages/images/banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
-  a {
-    text-decoration: none;
+.navigation a {
+  text-decoration: none;
+}
 
-    ul {
-      margin: 20px;
+.navigation ul {
+  margin: 20px;
+}
 
-      li {
-        color: #000;
-        transition: 0.2s;
-        cursor: pointer;
-        text-transform: uppercase;
+.navigation li {
+  color: #fff;
+  transition: 0.2s;
+  cursor: pointer;
+  text-transform: uppercase;
+  background: #000;
+  padding: 10px;
+}
 
-        &:hover {
-          color: $color-2;
-          scale: 1.2;
-          font-weight: 800;
-        }
-      }
+.navigation li:hover {
+  color: $color-2; /* Remplacer par la valeur appropriée */
+  transform: scale(1.2);
+  font-weight: 800;
+}
 
-      .nav-active {
-        color: $color-3;
+.navigation li.nav-active {
+  color: red;
+  /* styles pour les liens actifs */
+}
 
-        &::after {
-          content: '';
-          height: 4px;
-          width: 0;
-          background: $color-1;
-          position: absolute;
-          border-radius: 10px;
-          bottom: 0px;
-          left: 50%;
-          transform: translateX(-50%);
-          -webkit-animation: anim 0.3s ease forwards;
-          animation: anim 0.6s ease forwards;
+.navigation li.nav-active::after {
+  content: '';
+  height: 4px;
+  width: 0;
+  background: $color-1; /* Remplacer par la valeur appropriée */
+  position: absolute;
+  border-radius: 10px;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: anim 0.6s ease forwards;
+}
 
-          @-webkit-keyframes anim {
-            to {
-              width: 0%;
-            }
-          }
-          @keyframes anim {
-            to {
-              width: 100%;
-            }
-          }
-        }
-      }
-    }
+@keyframes anim {
+  to {
+    width: 100%;
   }
 }

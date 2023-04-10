@@ -64,6 +64,8 @@ nav a.marked::after {
   font-size: 30px;
   margin-bottom: 20px;
   margin-left: 0;
+  display: flex;
+  justify-content: flex-start;
 }
 .content-section p {
   margin-top: 10px;
