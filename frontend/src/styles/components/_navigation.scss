@@ -32,14 +32,12 @@
 
 .navigation li.nav-active {
   color: red;
-  /* styles pour les liens actifs */
 }
 
 .navigation li.nav-active::after {
   content: '';
   height: 4px;
   width: 0;
-  background: $color-1; /* Remplacer par la valeur appropriée */
   position: absolute;
   border-radius: 10px;
   bottom: 0px;

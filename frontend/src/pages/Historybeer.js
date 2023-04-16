@@ -27,7 +27,7 @@ export default function Historybeer() {
   useEffect(() => {
     const handleResize = () => {
       if (!firstLoad) {
-        const newData = sections.map((section) => section.offsetTop)
+        const newData = sections.current.map((section) => section.offsetTop)
         setData(newData)
         setFirstLoad(false)
       }
@@ -41,6 +41,7 @@ export default function Historybeer() {
         const section = document.getElementById(i.id)
 
         if (
+          section &&
           section.offsetTop <= trigger &&
           section.offsetTop + section.offsetHeight > trigger
         ) {
@@ -51,7 +52,11 @@ export default function Historybeer() {
           break
         }
 
-        if (index === data.length - 1 && trigger >= data[index]) {
+        if (
+          index === data.length - 1 &&
+          data[index] &&
+          trigger >= data[index]
+        ) {
           if (index !== savedIndexRef.current) {
             savedIndexRef.current = index
             addClassNameAndClear(index)
@@ -117,6 +122,7 @@ export default function Historybeer() {
       behavior: 'smooth',
     })
   }
+
   const addClassNameAndClear = (index) => {
     const elToClean = navLinks.find((navLink) =>
       navLink.className.includes('marked')
@@ -124,7 +130,6 @@ export default function Historybeer() {
     if (elToClean) elToClean.classList.remove('marked')
     navLinks[index].classList.add('marked')
   }
-
   return (
     <div>
       <Navigation />

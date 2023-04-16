@@ -2,45 +2,41 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 const Navigation = () => {
+  const handleNavLinkClick = (event) => {
+    // Retirer la classe "nav-active" de tous les éléments de navigation
+    const navLinks = document.querySelectorAll('.navigation li')
+    navLinks.forEach((link) => {
+      link.classList.remove('nav-active')
+    })
+
+    // Appliquer la classe "nav-active" à l'élément de navigation cliqué
+    event.target.classList.add('nav-active')
+  }
   return (
     <div className="navigation">
-      <NavLink to="/" className={(nav) => (nav.isActive ? 'nav-active' : '')}>
+      <NavLink to="/">
         <ul>
-          <li>register</li>
+          <li onClick={handleNavLinkClick}>register</li>
         </ul>
       </NavLink>
-      <NavLink
-        to="/home"
-        className={(nav) => (nav.isActive ? 'nav-active' : '')}
-      >
+      <NavLink to="/home">
         <ul>
-          <li>les brasseurs</li>
+          <li onClick={handleNavLinkClick}>les brasseurs</li>
         </ul>
       </NavLink>
-      <NavLink
-        to="/about"
-        className={(nav) => (nav.isActive ? 'nav-active' : '')}
-      >
+      <NavLink to="/about">
         <ul>
-          <li className={(nav) => (nav.isActive ? 'nav-active' : '')}>
-            le brasseur
-          </li>
+          <li onClick={handleNavLinkClick}>le brasseur</li>
         </ul>
       </NavLink>
-      <NavLink
-        to="/histoire"
-        className={(nav) => (nav.isActive ? 'nav-active' : '')}
-      >
+      <NavLink to="/histoire">
         <ul>
-          <li>histoire de la biere</li>
+          <li onClick={handleNavLinkClick}>histoire de la biere</li>
         </ul>
       </NavLink>
-      <NavLink
-        to="/tableau"
-        className={(nav) => (nav.isActive ? 'nav-active' : '')}
-      >
+      <NavLink to="/tableau">
         <ul>
-          <li>brewers table</li>
+          <li onClick={handleNavLinkClick}>brewers table</li>
         </ul>
       </NavLink>
     </div>
