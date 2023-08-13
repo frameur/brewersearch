@@ -13,7 +13,7 @@ import img13 from './images/moderne.webp'
 import img14 from './images/declin.webp'
 import img15 from './images/renouveau.webp'
 import img16 from './images/bocks.webp'
-import img18 from './images/tablebeer.jpg'
+import img18 from './images/tablebeer2.jpg'
 
 export default function Historybeer() {
   const sections = [...document.querySelectorAll('.content-section')]
