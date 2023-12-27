@@ -3,11 +3,11 @@ const breweries_2013 = [
     breweries: 'IUT Lyon 1 - Site de Bourg-en-Bresse (Alimentec)',
     code_numbers: 1000,
     town: 'BOURG-EN-BRESSE',
-    link_web: 'iut.univ-lyon1.fr',
   },
   {
     link_web: 'www.alimentec.com',
   },
+
   {
     breweries: 'du Bugey',
     code_numbers: 1110,

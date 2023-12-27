@@ -127,6 +127,7 @@ export default function Historybeer() {
     const elToClean = navLinks.find((navLink) =>
       navLink.className.includes('marked')
     )
+
     if (elToClean) elToClean.classList.remove('marked')
     navLinks[index].classList.add('marked')
   }
@@ -136,6 +137,15 @@ export default function Historybeer() {
       <h1>histoire de la biére</h1>
       <div className="documentation-container">
         <nav>
+          {sections.map((section, index) => (
+            <a
+              key={index}
+              href={`#${section}`}
+              onClick={() => handleNavLinkClick(index)}
+            >
+              {section}
+            </a>
+          ))}
           <a href="#introduction">Introduction</a>
           <a href="#1">Antiquité</a>
           <a href="#2">Moyen Age</a>

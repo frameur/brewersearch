@@ -353,7 +353,7 @@ const projectsData = [
     title: '',
     infos: ' ',
     address: '988 route de Bourg',
-    phone: '988 route de Bourg',
+    phone: '',
     phone2: '',
     link: '',
     nameTown: '1140 SAINT-DIDIER-SUR-CHALARONNE',
